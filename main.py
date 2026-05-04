@@ -1,5 +1,14 @@
-def main():
-    print("Hello from the-matcher-brief!")
+import asyncio
+
+from dotenv import load_dotenv
+
+load_dotenv()
+
+from matcher.extract import run as extract
+
+
+def main() -> None:
+    asyncio.run(extract())
 
 
 if __name__ == "__main__":

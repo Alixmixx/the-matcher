@@ -77,6 +77,17 @@
             note str
             available_from date
 
+        Mission:
+            id int
+            title str
+            location str
+            start_date date
+            duration_months int
+            urgency str
+            description str
+            sector str
+            summary str
+
 ### Embedding
     text-embedding-3-small -> cheap and good enough for the task
 
@@ -96,8 +107,9 @@
 
 ### LLM uses
     - Extraction:
-        Petit model -> Haiku 
+        Petit model -> gpt-nano 
             pas cher et bon pour structured output
+            openai sdk simple for structured output
 
     - Rerank + reason:
         petit/moyen model -> Haiku pour commencer
