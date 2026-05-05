@@ -5,14 +5,13 @@ import faiss
 import numpy as np
 from openai import AsyncOpenAI
 
-EMBED_MODEL = "text-embedding-3-small"
-BATCH_SIZE = 100
+from matcher.config import EMBED_BATCH_SIZE, EMBED_MODEL
 
 client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 
 async def embed_texts(texts: list[str]) -> np.ndarray:
-    batches = [texts[i : i + BATCH_SIZE] for i in range(0, len(texts), BATCH_SIZE)]
+    batches = [texts[i : i + EMBED_BATCH_SIZE] for i in range(0, len(texts), EMBED_BATCH_SIZE)]
     responses = await asyncio.gather(
         *[client.embeddings.create(model=EMBED_MODEL, input=batch) for batch in batches]
     )

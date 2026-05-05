@@ -1,18 +1,10 @@
 import json
-from pathlib import Path
 
 import faiss
 import numpy as np
 
-from matcher.index import FAISS_INDEX, FAISS_META
+from matcher.config import FAISS_INDEX, FAISS_META, MISSIONS_OUT, RESULTS_OUT, TOP_K
 from matcher.embeddings import embed_texts
-
-ROOT = Path(__file__).parent.parent
-OUTPUTS = ROOT / "outputs"
-MISSIONS_OUT = OUTPUTS / "missions.json"
-RESULTS_OUT = OUTPUTS / "results.json"
-
-TOP_K = 10
 
 
 async def run() -> None:

@@ -1,22 +1,15 @@
 import asyncio
 import json
-from pathlib import Path
 
 import faiss
 import numpy as np
 
+from matcher.config import CANDIDATES_OUT, FAISS_INDEX, FAISS_META
 from matcher.embeddings import embed_texts
 from matcher.schema import Candidate
 
-ROOT = Path(__file__).parent.parent
-OUTPUTS = ROOT / "outputs"
-CANDIDATES_OUT = OUTPUTS / "candidates.json"
-FAISS_INDEX = OUTPUTS / "candidates.faiss"
-FAISS_META = OUTPUTS / "candidates_meta.json"
-
 
 async def build() -> None:
-    """Build the faiss vector index"""
     if FAISS_INDEX.exists() and FAISS_META.exists():
         print("Skipping embeddings")
         return
@@ -31,7 +24,7 @@ async def build() -> None:
     print(f"Embedding {len(texts)} candidates...")
     vectors = await embed_texts(texts)
 
-    # normalize_L2 + IndexFlatIP = linear cosine similarity
+    # normalize_L2 + IndexFlatIP = cosine similarity via inner product
     index = faiss.IndexFlatIP(vectors.shape[1])
     index.add(np.ascontiguousarray(vectors))  # type: ignore[arg-type]
     faiss.write_index(index, str(FAISS_INDEX))

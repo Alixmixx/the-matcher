@@ -1,22 +1,14 @@
 import asyncio
 import json
 import os
-from pathlib import Path
 
 from openai import AsyncOpenAI
 from pydantic import BaseModel, Field
 
+from matcher.config import (
+    CANDIDATES_OUT, FINAL_OUT, MISSIONS_OUT, RESULTS_OUT, SCORE_MODEL, TOP_N,
+)
 from matcher.schema import Candidate, Mission
-
-MODEL = "gpt-5.4-mini"
-ROOT = Path(__file__).parent.parent
-OUTPUTS = ROOT / "outputs"
-CANDIDATES_OUT = OUTPUTS / "candidates.json"
-RESULTS_OUT = OUTPUTS / "results.json"
-MISSIONS_OUT = OUTPUTS / "missions.json"
-FINAL_OUT = OUTPUTS / "final.json"
-
-TOP_N = 5
 
 client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
@@ -47,7 +39,7 @@ Profil complet :
 {candidate.raw_content}"""
 
     response = await client.responses.parse(
-        model=MODEL,
+        model=SCORE_MODEL,
         input=[
             {
                 "role": "system",

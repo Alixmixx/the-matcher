@@ -2,21 +2,14 @@ import asyncio
 import json
 import os
 import re
-from pathlib import Path
 
 from openai import AsyncOpenAI
 
+from matcher.config import (
+    CANDIDATES_FILE, CANDIDATES_OUT,
+    EXTRACT_MODEL, MISSIONS_FILE, MISSIONS_OUT, OUTPUTS,
+)
 from matcher.schema import Candidate, Mission
-
-# MODEL = "gpt-5.4-mini"
-MODEL = "gpt-5.4-nano"
-ROOT = Path(__file__).parent.parent
-OUTPUTS = ROOT / "outputs"
-DATA = ROOT / "data"
-CANDIDATES_FILE = DATA / "candidats.txt"
-MISSIONS_FILE = DATA / "missions.json"
-CANDIDATES_OUT = OUTPUTS / "candidates.json"
-MISSIONS_OUT = OUTPUTS / "missions.json"
 
 client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
@@ -28,7 +21,7 @@ def _split_candidates(text: str) -> list[str]:
 
 async def extract_candidate(raw: str) -> Candidate:
     response = await client.responses.parse(
-        model=MODEL,
+        model=EXTRACT_MODEL,
         input=[
             {
                 "role": "system",
@@ -54,9 +47,8 @@ async def extract_candidate(raw: str) -> Candidate:
 
 
 async def extract_mission(raw: dict) -> Mission:
-    """Structured extarction of missions"""
     response = await client.responses.parse(
-        model=MODEL,
+        model=EXTRACT_MODEL,
         input=[
             {
                 "role": "system",
@@ -90,7 +82,7 @@ async def run() -> None:
         missions_raw = json.load(f)["missions"]
 
     if CANDIDATES_OUT.exists():
-        print(f"Skipping candidates")
+        print("Skipping candidates")
     else:
         candidate_blocks = _split_candidates(candidats_text)
         print(f"Extracting {len(candidate_blocks)} candidates")
@@ -106,7 +98,7 @@ async def run() -> None:
             )
 
     if MISSIONS_OUT.exists():
-        print(f"Skipping missions")
+        print("Skipping missions")
     else:
         print(f"Extracting {len(missions_raw)} missions")
         missions = await asyncio.gather(*[extract_mission(m) for m in missions_raw])
