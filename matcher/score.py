@@ -8,6 +8,7 @@ from pydantic import BaseModel, Field
 from matcher.config import (
     CANDIDATES_OUT, FINAL_OUT, MISSIONS_OUT, RESULTS_OUT, SCORE_MODEL, TOP_N,
 )
+from matcher.prompts import SCORE_CANDIDATE
 from matcher.schema import Candidate, Mission
 
 client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
@@ -43,16 +44,7 @@ Profil complet :
         input=[
             {
                 "role": "system",
-                "content": (
-                    "Tu es un expert en recrutement intérimaire. "
-                    "Évalue la compatibilité entre une mission et un candidat. "
-                    "Analyse compétences, certifications (vérifie les dates d'expiration), "
-                    "disponibilité, localisation et expérience sectorielle. "
-                    "Si le candidat doit être légalement exclu (certification absente ou expirée, "
-                    "indisponible, ou mobilité insuffisante), marque hard_excluded=true avec la raison précise. "
-                    "Sinon, donne un score entre 0.00 et 1.00, et une justification claire en français pour le consultant"
-                    "avec les éléments de preuve issus du profil."
-                ),
+                "content": SCORE_CANDIDATE,
             },
             {"role": "user", "content": prompt},
         ],

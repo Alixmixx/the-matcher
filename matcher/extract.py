@@ -9,6 +9,7 @@ from matcher.config import (
     CANDIDATES_FILE, CANDIDATES_OUT,
     EXTRACT_MODEL, MISSIONS_FILE, MISSIONS_OUT, OUTPUTS,
 )
+from matcher.prompts import EXTRACT_CANDIDATE, EXTRACT_MISSION
 from matcher.schema import Candidate, Mission
 
 client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
@@ -25,15 +26,7 @@ async def extract_candidate(raw: str) -> Candidate:
         input=[
             {
                 "role": "system",
-                "content": (
-                    "Extract a structured candidate profile from the resume. "
-                    "The candidate ID is in the header line 'CV #NNN — Name'. "
-                    "Format it as C001, C002, etc. "
-                    "For available_from: use the earliest date the candidate is available. "
-                    "If immediately available or the date is unknown, set it to null. "
-                    "For text_content, produce a clean normalized French version "
-                    "suitable for semantic embedding."
-                ),
+                "content": EXTRACT_CANDIDATE,
             },
             {"role": "user", "content": raw},
         ],
@@ -52,12 +45,7 @@ async def extract_mission(raw: dict) -> Mission:
         input=[
             {
                 "role": "system",
-                "content": (
-                    "Extract a structured mission from the JSON record. "
-                    "For text_content, write a single fluent French paragraph "
-                    "summarising the role, requirements, location and urgency "
-                    "optimised for semantic similarity search."
-                ),
+                "content": EXTRACT_MISSION,
             },
             {"role": "user", "content": json.dumps(raw, ensure_ascii=False, indent=2)},
         ],
