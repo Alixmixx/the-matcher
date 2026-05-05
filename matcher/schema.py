@@ -40,5 +40,5 @@ class Mission(BaseModel):
 class RankedCandidate(BaseModel):
     candidate_id: str
     score: float = Field(ge=0.0, le=1.0)
-    filtered_out: bool = False
     justification: str
+    evidence: List[str] = Field(default_factory=list)
