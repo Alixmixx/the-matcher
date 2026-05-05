@@ -6,18 +6,19 @@ class Candidate(BaseModel):
     """Extracted candidate profile"""
     id: str
     name: str
-    available_from: date = Field(default_factory=date.today)
+    available_immediately: bool = False
+    available_from: date | None = None
 
     @field_validator("available_from", mode="before")
     @classmethod
     def coerce_date(cls, v):
         if not v:
-            return date.today()
+            return None
         try:
             d = date.fromisoformat(str(v)) if isinstance(v, str) else v
-            return d if d.year >= 2000 else date.today()
+            return d if d.year >= 2000 else None
         except (ValueError, TypeError):
-            return date.today()
+            return None
     text_content: str = Field(description="Normalized French version of the resume for embedding")
     raw_content: str = Field(description="Original resume text")
     note: str = Field(description="Agency note")

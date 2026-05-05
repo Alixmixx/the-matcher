@@ -31,7 +31,8 @@ async def score_candidate(mission: Mission, candidate: Candidate) -> LLMScore:
 - Description : {mission.description}
 
 Candidat {candidate.id} — {candidate.name} :
-- Disponible dès : {candidate.available_from}
+- Disponible immédiatement : {candidate.available_immediately}
+- Disponible dès : {candidate.available_from if not candidate.available_immediately else "maintenant"}
 - Localisation : {candidate.location}
 - Certifications : {", ".join(candidate.certs) if candidate.certs else "aucune"}
 - Note agence : {candidate.note}
