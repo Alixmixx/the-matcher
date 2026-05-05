@@ -6,7 +6,7 @@ from pathlib import Path
 
 from openai import AsyncOpenAI
 
-from .schema import Candidate, Mission
+from matcher.schema import Candidate, Mission
 
 # MODEL = "gpt-5.4-mini"
 MODEL = "gpt-5.4-nano"

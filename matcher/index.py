@@ -1,38 +1,18 @@
 import asyncio
 import json
-import os
 from pathlib import Path
 
 import faiss
 import numpy as np
-from openai import AsyncOpenAI
 
-from .schema import Candidate
+from matcher.embeddings import embed_texts
+from matcher.schema import Candidate
 
-EMBED_MODEL = "text-embedding-3-small"
 ROOT = Path(__file__).parent.parent
 OUTPUTS = ROOT / "outputs"
 CANDIDATES_OUT = OUTPUTS / "candidates.json"
 FAISS_INDEX = OUTPUTS / "candidates.faiss"
 FAISS_META = OUTPUTS / "candidates_meta.json"
-
-client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-
-BATCH_SIZE = 100
-
-
-async def _embed(texts: list[str]) -> np.ndarray:
-    """Create embedding of the texts using openai embeddings"""
-    batches = [texts[i : i + BATCH_SIZE] for i in range(0, len(texts), BATCH_SIZE)]
-    responses = await asyncio.gather(
-        *[client.embeddings.create(model=EMBED_MODEL, input=batch) for batch in batches]
-    )
-    all_embeddings = [
-        e.embedding for r in responses for e in sorted(r.data, key=lambda x: x.index)
-    ]
-    vectors = np.array(all_embeddings, dtype=np.float32)
-    faiss.normalize_L2(vectors)  # type: ignore[arg-type]
-    return vectors
 
 
 async def build() -> None:
@@ -49,7 +29,7 @@ async def build() -> None:
         raise ValueError("No candidates to embed")
 
     print(f"Embedding {len(texts)} candidates...")
-    vectors = await _embed(texts)
+    vectors = await embed_texts(texts)
 
     # normalize_L2 + IndexFlatIP = linear cosine similarity
     index = faiss.IndexFlatIP(vectors.shape[1])
@@ -67,7 +47,7 @@ def search(query: str, k: int = 5) -> list[tuple[Candidate, float]]:
     with open(FAISS_META, encoding="utf-8") as f:
         candidates_raw = json.load(f)
 
-    query_vec = asyncio.run(_embed([query]))
+    query_vec = asyncio.run(embed_texts([query]))
     scores, indices = index.search(query_vec, k)
 
     results = []
