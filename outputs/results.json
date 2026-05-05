@@ -4,43 +4,43 @@
     "candidates": [
       {
         "candidate_id": "C001",
-        "score": 0.7422
-      },
-      {
-        "candidate_id": "C003",
-        "score": 0.703
-      },
-      {
-        "candidate_id": "C026",
-        "score": 0.6916
-      },
-      {
-        "candidate_id": "C031",
-        "score": 0.6767
+        "score": 0.7129
       },
       {
         "candidate_id": "C057",
-        "score": 0.6761
+        "score": 0.6958
       },
       {
-        "candidate_id": "C007",
-        "score": 0.6622
-      },
-      {
-        "candidate_id": "C030",
-        "score": 0.6612
-      },
-      {
-        "candidate_id": "C006",
-        "score": 0.6506
-      },
-      {
-        "candidate_id": "C053",
-        "score": 0.65
+        "candidate_id": "C031",
+        "score": 0.6794
       },
       {
         "candidate_id": "C068",
-        "score": 0.6426
+        "score": 0.6729
+      },
+      {
+        "candidate_id": "C026",
+        "score": 0.6624
+      },
+      {
+        "candidate_id": "C007",
+        "score": 0.6592
+      },
+      {
+        "candidate_id": "C053",
+        "score": 0.6493
+      },
+      {
+        "candidate_id": "C046",
+        "score": 0.6379
+      },
+      {
+        "candidate_id": "C003",
+        "score": 0.6369
+      },
+      {
+        "candidate_id": "C032",
+        "score": 0.634
       }
     ]
   },
@@ -49,43 +49,43 @@
     "candidates": [
       {
         "candidate_id": "C016",
-        "score": 0.7696
+        "score": 0.7844
       },
       {
         "candidate_id": "C018",
-        "score": 0.7669
+        "score": 0.7635
       },
       {
         "candidate_id": "C063",
-        "score": 0.7564
+        "score": 0.7611
       },
       {
         "candidate_id": "C056",
-        "score": 0.7399
+        "score": 0.73
       },
       {
         "candidate_id": "C017",
-        "score": 0.7302
-      },
-      {
-        "candidate_id": "C054",
-        "score": 0.7113
+        "score": 0.7247
       },
       {
         "candidate_id": "C019",
-        "score": 0.7097
+        "score": 0.6916
       },
       {
-        "candidate_id": "C058",
-        "score": 0.6526
+        "candidate_id": "C054",
+        "score": 0.6702
       },
       {
         "candidate_id": "C009",
-        "score": 0.6323
+        "score": 0.659
       },
       {
-        "candidate_id": "C023",
-        "score": 0.6272
+        "candidate_id": "C058",
+        "score": 0.6252
+      },
+      {
+        "candidate_id": "C032",
+        "score": 0.6243
       }
     ]
   },
@@ -93,44 +93,44 @@
     "mission_id": "M003",
     "candidates": [
       {
-        "candidate_id": "C013",
-        "score": 0.7826
-      },
-      {
-        "candidate_id": "C052",
-        "score": 0.7691
-      },
-      {
-        "candidate_id": "C010",
-        "score": 0.7308
-      },
-      {
         "candidate_id": "C011",
-        "score": 0.7254
-      },
-      {
-        "candidate_id": "C012",
-        "score": 0.7217
-      },
-      {
-        "candidate_id": "C036",
-        "score": 0.7126
-      },
-      {
-        "candidate_id": "C042",
-        "score": 0.7031
+        "score": 0.8346
       },
       {
         "candidate_id": "C014",
-        "score": 0.6978
+        "score": 0.7886
+      },
+      {
+        "candidate_id": "C013",
+        "score": 0.7772
       },
       {
         "candidate_id": "C015",
-        "score": 0.6781
+        "score": 0.7657
       },
       {
-        "candidate_id": "C034",
-        "score": 0.6743
+        "candidate_id": "C010",
+        "score": 0.7602
+      },
+      {
+        "candidate_id": "C036",
+        "score": 0.7413
+      },
+      {
+        "candidate_id": "C042",
+        "score": 0.7274
+      },
+      {
+        "candidate_id": "C059",
+        "score": 0.7167
+      },
+      {
+        "candidate_id": "C052",
+        "score": 0.7151
+      },
+      {
+        "candidate_id": "C012",
+        "score": 0.7126
       }
     ]
   },
@@ -139,43 +139,43 @@
     "candidates": [
       {
         "candidate_id": "C004",
-        "score": 0.6896
+        "score": 0.6655
       },
       {
         "candidate_id": "C005",
-        "score": 0.6647
-      },
-      {
-        "candidate_id": "C030",
-        "score": 0.6256
+        "score": 0.6643
       },
       {
         "candidate_id": "C062",
-        "score": 0.6215
+        "score": 0.6533
       },
       {
         "candidate_id": "C018",
-        "score": 0.6209
-      },
-      {
-        "candidate_id": "C001",
-        "score": 0.6142
+        "score": 0.6241
       },
       {
         "candidate_id": "C053",
-        "score": 0.6135
+        "score": 0.6122
       },
       {
         "candidate_id": "C027",
-        "score": 0.6043
+        "score": 0.6112
       },
       {
-        "candidate_id": "C026",
-        "score": 0.6028
+        "candidate_id": "C030",
+        "score": 0.6072
       },
       {
-        "candidate_id": "C016",
-        "score": 0.6018
+        "candidate_id": "C001",
+        "score": 0.6057
+      },
+      {
+        "candidate_id": "C010",
+        "score": 0.6055
+      },
+      {
+        "candidate_id": "C008",
+        "score": 0.6055
       }
     ]
   },
@@ -183,44 +183,44 @@
     "mission_id": "M005",
     "candidates": [
       {
-        "candidate_id": "C058",
-        "score": 0.7173
-      },
-      {
-        "candidate_id": "C056",
-        "score": 0.6933
+        "candidate_id": "C065",
+        "score": 0.7147
       },
       {
         "candidate_id": "C039",
-        "score": 0.6917
+        "score": 0.694
       },
       {
-        "candidate_id": "C023",
-        "score": 0.6887
-      },
-      {
-        "candidate_id": "C022",
-        "score": 0.6784
+        "candidate_id": "C056",
+        "score": 0.6904
       },
       {
         "candidate_id": "C045",
-        "score": 0.6704
+        "score": 0.6817
       },
       {
-        "candidate_id": "C065",
-        "score": 0.6668
+        "candidate_id": "C023",
+        "score": 0.6729
       },
       {
         "candidate_id": "C021",
-        "score": 0.6585
+        "score": 0.6686
+      },
+      {
+        "candidate_id": "C058",
+        "score": 0.6686
+      },
+      {
+        "candidate_id": "C022",
+        "score": 0.6669
+      },
+      {
+        "candidate_id": "C020",
+        "score": 0.6561
       },
       {
         "candidate_id": "C016",
-        "score": 0.6537
-      },
-      {
-        "candidate_id": "C054",
-        "score": 0.6295
+        "score": 0.6558
       }
     ]
   },
@@ -228,44 +228,44 @@
     "mission_id": "M006",
     "candidates": [
       {
-        "candidate_id": "C040",
-        "score": 0.7484
+        "candidate_id": "C047",
+        "score": 0.7837
       },
       {
-        "candidate_id": "C047",
-        "score": 0.7444
+        "candidate_id": "C040",
+        "score": 0.7598
       },
       {
         "candidate_id": "C024",
-        "score": 0.737
-      },
-      {
-        "candidate_id": "C060",
-        "score": 0.7122
-      },
-      {
-        "candidate_id": "C041",
-        "score": 0.6985
-      },
-      {
-        "candidate_id": "C025",
-        "score": 0.6872
-      },
-      {
-        "candidate_id": "C067",
-        "score": 0.6846
-      },
-      {
-        "candidate_id": "C010",
-        "score": 0.6685
+        "score": 0.7399
       },
       {
         "candidate_id": "C014",
-        "score": 0.666
+        "score": 0.7323
+      },
+      {
+        "candidate_id": "C041",
+        "score": 0.7246
+      },
+      {
+        "candidate_id": "C060",
+        "score": 0.7232
+      },
+      {
+        "candidate_id": "C010",
+        "score": 0.6969
+      },
+      {
+        "candidate_id": "C025",
+        "score": 0.6946
+      },
+      {
+        "candidate_id": "C067",
+        "score": 0.6916
       },
       {
         "candidate_id": "C008",
-        "score": 0.6602
+        "score": 0.69
       }
     ]
   },
@@ -273,44 +273,44 @@
     "mission_id": "M007",
     "candidates": [
       {
-        "candidate_id": "C013",
-        "score": 0.7602
+        "candidate_id": "C011",
+        "score": 0.7561
       },
       {
-        "candidate_id": "C052",
-        "score": 0.736
+        "candidate_id": "C013",
+        "score": 0.7513
       },
       {
         "candidate_id": "C015",
-        "score": 0.7303
-      },
-      {
-        "candidate_id": "C011",
-        "score": 0.7275
+        "score": 0.7499
       },
       {
         "candidate_id": "C036",
-        "score": 0.7256
+        "score": 0.7312
       },
       {
         "candidate_id": "C012",
-        "score": 0.7204
-      },
-      {
-        "candidate_id": "C050",
-        "score": 0.7197
+        "score": 0.7168
       },
       {
         "candidate_id": "C010",
-        "score": 0.6989
+        "score": 0.7081
       },
       {
-        "candidate_id": "C035",
-        "score": 0.669
+        "candidate_id": "C014",
+        "score": 0.7011
+      },
+      {
+        "candidate_id": "C050",
+        "score": 0.6925
+      },
+      {
+        "candidate_id": "C042",
+        "score": 0.6812
       },
       {
         "candidate_id": "C059",
-        "score": 0.6619
+        "score": 0.6812
       }
     ]
   },
@@ -319,43 +319,43 @@
     "candidates": [
       {
         "candidate_id": "C021",
-        "score": 0.8159
-      },
-      {
-        "candidate_id": "C043",
-        "score": 0.7476
+        "score": 0.8121
       },
       {
         "candidate_id": "C065",
-        "score": 0.7094
+        "score": 0.7552
+      },
+      {
+        "candidate_id": "C043",
+        "score": 0.7246
       },
       {
         "candidate_id": "C020",
-        "score": 0.7078
+        "score": 0.7186
       },
       {
         "candidate_id": "C037",
-        "score": 0.6785
+        "score": 0.6767
       },
       {
         "candidate_id": "C061",
-        "score": 0.6745
+        "score": 0.6637
       },
       {
         "candidate_id": "C056",
-        "score": 0.655
+        "score": 0.6438
       },
       {
         "candidate_id": "C039",
-        "score": 0.637
+        "score": 0.633
       },
       {
         "candidate_id": "C016",
-        "score": 0.6318
+        "score": 0.603
       },
       {
-        "candidate_id": "C048",
-        "score": 0.6159
+        "candidate_id": "C045",
+        "score": 0.5985
       }
     ]
   },
@@ -364,43 +364,43 @@
     "candidates": [
       {
         "candidate_id": "C024",
-        "score": 0.7767
+        "score": 0.7688
       },
       {
         "candidate_id": "C040",
-        "score": 0.7249
+        "score": 0.7245
       },
       {
         "candidate_id": "C047",
-        "score": 0.699
+        "score": 0.7134
       },
       {
         "candidate_id": "C041",
-        "score": 0.694
+        "score": 0.7088
       },
       {
         "candidate_id": "C010",
-        "score": 0.6704
+        "score": 0.6872
+      },
+      {
+        "candidate_id": "C014",
+        "score": 0.6757
       },
       {
         "candidate_id": "C008",
-        "score": 0.6691
+        "score": 0.6719
       },
       {
         "candidate_id": "C025",
-        "score": 0.6684
+        "score": 0.6662
+      },
+      {
+        "candidate_id": "C011",
+        "score": 0.6658
       },
       {
         "candidate_id": "C042",
-        "score": 0.6549
-      },
-      {
-        "candidate_id": "C067",
-        "score": 0.6407
-      },
-      {
-        "candidate_id": "C060",
-        "score": 0.6389
+        "score": 0.661
       }
     ]
   },
@@ -408,44 +408,44 @@
     "mission_id": "M010",
     "candidates": [
       {
-        "candidate_id": "C003",
-        "score": 0.7392
+        "candidate_id": "C057",
+        "score": 0.7142
       },
       {
         "candidate_id": "C001",
-        "score": 0.7331
+        "score": 0.7069
       },
       {
         "candidate_id": "C026",
-        "score": 0.6908
-      },
-      {
-        "candidate_id": "C031",
-        "score": 0.6728
-      },
-      {
-        "candidate_id": "C057",
-        "score": 0.6707
+        "score": 0.6934
       },
       {
         "candidate_id": "C030",
-        "score": 0.665
+        "score": 0.6916
+      },
+      {
+        "candidate_id": "C003",
+        "score": 0.6897
+      },
+      {
+        "candidate_id": "C031",
+        "score": 0.68
       },
       {
         "candidate_id": "C002",
-        "score": 0.6639
-      },
-      {
-        "candidate_id": "C008",
-        "score": 0.6531
-      },
-      {
-        "candidate_id": "C007",
-        "score": 0.6408
+        "score": 0.6724
       },
       {
         "candidate_id": "C053",
-        "score": 0.6372
+        "score": 0.6696
+      },
+      {
+        "candidate_id": "C007",
+        "score": 0.6535
+      },
+      {
+        "candidate_id": "C046",
+        "score": 0.6506
       }
     ]
   }
