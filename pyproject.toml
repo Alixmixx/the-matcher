@@ -11,5 +11,6 @@ dependencies = [
     "numpy>=2.4.4",
     "openai>=2.34.0",
     "pydantic>=2.13.3",
+    "pytest>=9.0.3",
     "python-dotenv>=1.2.2",
 ]
