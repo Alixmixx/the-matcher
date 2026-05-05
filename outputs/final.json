@@ -1,0 +1,765 @@
+[
+  {
+    "mission_id": "M001",
+    "ranked_candidates": [],
+    "filtered_out": [
+      {
+        "candidate_id": "C026",
+        "reason": "Indisponibilité: le candidat n'est pas disponible avant le 2026-05-04 alors que la mission commence le 2026-03-30."
+      },
+      {
+        "candidate_id": "C001",
+        "reason": "Indisponibilité à la date de démarrage de la mission : la mission commence le 2026-03-30 alors que la candidate n’est disponible qu’à partir du 2026-05-04."
+      },
+      {
+        "candidate_id": "C030",
+        "reason": "Indisponibilité avant le démarrage de la mission (début 2026-03-30, candidate disponible seulement à partir du 2026-05-04)."
+      },
+      {
+        "candidate_id": "C003",
+        "reason": "Indisponibilité : le candidat n’est disponible qu’à partir du 2026-05-04, après la date de début de mission du 2026-03-30."
+      },
+      {
+        "candidate_id": "C007",
+        "reason": "Indisponibilité au démarrage de mission et mobilité insuffisante pour Mulhouse."
+      },
+      {
+        "candidate_id": "C057",
+        "reason": "Certification obligatoire absente (R489 catégorie 3 non détenue) et candidat indisponible à la date de début de mission."
+      },
+      {
+        "candidate_id": "C068",
+        "reason": "Certification légalement requise absente (CACES R489 catégorie 3 non présent, seul R486 indiqué) et disponibilité incompatible avec le démarrage demandé."
+      },
+      {
+        "candidate_id": "C008",
+        "reason": "Indisponible au démarrage de la mission (mission le 2026-03-30, candidat disponible le 2026-05-04)."
+      },
+      {
+        "candidate_id": "C002",
+        "reason": "Certification légale requise absente/expirée (R489 cat. 3 non détenu, seul CACES expiré) + indisponibilité au démarrage + mobilité insuffisante pour Mulhouse."
+      },
+      {
+        "candidate_id": "C053",
+        "reason": "Exclusion légale et de disponibilité : CACES R489 catégorie 3 absent et disponibilité trop tardive par rapport au démarrage de la mission."
+      }
+    ]
+  },
+  {
+    "mission_id": "M002",
+    "ranked_candidates": [
+      {
+        "candidate_id": "C016",
+        "score": 0.92,
+        "justification": "Très bon match sur le fond : Hélène Schreiber a 7 ans d’expérience en recrutement, avec une expérience directe en industrie (IndustrieRH, 6 mois renouvelés) et une maîtrise des outils ATS exigés (Workday, Talentsoft). Son profil couvre bien les missions demandées (sourcing, annonces, entretiens, présentations clients) et la localisation est idéale pour Strasbourg. Le seul point bloquant opérationnel est la disponibilité : elle est annoncée disponible le 2026-04-15, soit après le début de mission au 2026-04-06, avec un décalage d’environ 3 semaines mentionné dans la note agence. Si le démarrage est strict, le profil est à écarter; si un report est possible, c’est une très bonne candidate.",
+        "evidence": [
+          "Disponible dès : 2026-04-15",
+          "Lieu mission : Strasbourg",
+          "Localisation candidat : Strasbourg (67) — 25km",
+          "RECRUTEMENT — 7 ans d'expérience",
+          "Chargée de recrutement — IndustrieRH — 6 mois, renouvelée (profils industriels et techniciens)",
+          "Outils maîtrisés : ATS Workday, LinkedIn Recruiter, Talentsoft, Job boards",
+          "Compétences : sourcing, rédaction annonces, entretiens qualificatifs, présentations clients",
+          "Note agence : Bonne candidate recrutement mais disponibilité décalée de 3 semaines. À garder en liste B si démarrage flexible."
+        ]
+      },
+      {
+        "candidate_id": "C063",
+        "score": 0.84,
+        "justification": "Candidate globalement très compatible avec la mission : elle est basée à Strasbourg, avec 4 ans d’expérience en recrutement intérim, dont une expérience récente en agence d’intérim à Strasbourg. Son profil couvre bien les missions attendues (annonces, sourcing, entretiens, présentation clients) et elle maîtrise un ATS (Talentsoft), ce qui répond à l’exigence clé. En revanche, plusieurs écarts réduisent l’adéquation : son volume habituel est de 20–30 recrutements/mois, inférieur à l’objectif d’environ 40 recrutements/mois, et son ATS est indiqué en maîtrise basique plutôt que confirmée avancée. Aucun élément n’impose d’exclusion légale : pas de certification requise pour le poste, pas d’expiration à vérifier, et la mobilité/localisation sont adaptées. Attention toutefois à la disponibilité : le profil indique une disponibilité dès 2026-05-04 alors que la mission débute le 2026-04-06, ce qui crée un décalage d’un mois. Si le début est strictement impératif, cela peut bloquer; sinon, le candidat reste pertinent sur le fond.",
+        "evidence": [
+          "Localisation : Strasbourg (67) — 20km",
+          "Disponible dès : 2026-05-04",
+          "Profil CV : Dispo : immédiate",
+          "Chargée recrutement intérim — 4 ans",
+          "Chargée recrutement — TempAgency (Strasbourg) — 14 mois, renouvelée",
+          "Volume : 20-30 recrutements/mois (moins que cibles)",
+          "ATS : Talentsoft (maîtrise basique)",
+          "Candidat recrutement compétent. Volume un peu moindre mais sérieux."
+        ]
+      },
+      {
+        "candidate_id": "C019",
+        "score": 0.56,
+        "justification": "Le candidat est globalement pertinent pour cette mission : il est basé à Strasbourg, disponible, et possède 6 ans d’expérience en recrutement intérim avec des compétences directement alignées sur la mission (sourcing, entretiens, ATS, reporting). La mission demande un profil opérationnel volume, ce qui correspond à son expérience en recrutement. En revanche, deux fins de mission anticipées consécutives constituent un signal de prudence important pour une mission en environnement agence/intérim à fort volume. Aucun élément ne montre une expérience explicitement industrie/logistique ou une stabilité récente rassurante, d’où un score moyen et la recommandation d’un entretien approfondi avant envoi.",
+        "evidence": [
+          "Localisation : Strasbourg — 25km — disponible",
+          "Disponible dès : 2016-01-01",
+          "Recrutement — 6 ans",
+          "Compétences : sourcing, entretiens, ATS, reporting",
+          "Chargé de recrutement — IntérimPlus — 4 mois, fin anticipée",
+          "Chargé de recrutement — ServicesPro — 6 mois, fin anticipée",
+          "Note agence : Deux fins de mission anticipées consécutives. Contexte non clarifié. Ne pas envoyer en mission sans entretien approfondi préalable."
+        ]
+      },
+      {
+        "candidate_id": "C009",
+        "score": 0.56,
+        "justification": "Candidat localisé à Strasbourg et immédiatement disponible, donc compatible sur la localisation et le calendrier de début de mission. Son profil montre une familiarité avec les environnements industrie/logistique (préparatrice de commandes, opératrice de production) et un bon rythme de travail en entrepôt. En revanche, l’expérience en recrutement, sourcing, conduite d’entretiens, gestion d’annonces et présentation clients n’apparaît pas dans le CV, et aucune maîtrise d’un ATS n’est mentionnée. Le profil semble donc plutôt éloigné d’un poste de chargé(e) de recrutement volume industrie, malgré la bonne adéquation géographique et sectorielle indirecte.",
+        "evidence": [
+          "Disponible immédiat / dès 2025-01-01",
+          "Localisation : Strasbourg",
+          "Expérience : Préparatrice de commandes, QuickShip.fr — 5 mois (2025)",
+          "Expérience : Opératrice de production, AgroFresh Alsace — 3 mois (2025)",
+          "Bonne connaissance de l'entrepôt, habituée au travail cadencé.",
+          "Aucune certification",
+          "Aucune mention d'expérience en recrutement, sourcing, entretiens, ATS"
+        ]
+      }
+    ],
+    "filtered_out": [
+      {
+        "candidate_id": "C018",
+        "reason": "Indisponibilité : le candidat ne peut pas commencer à la date de début de mission (disponible à partir du 2026-05-04, mission débutant le 2026-04-06)."
+      },
+      {
+        "candidate_id": "C017",
+        "reason": "Indisponible pour la date de début de mission : mission démarre le 2026-04-06, candidat disponible seulement à partir du 2026-05-04."
+      },
+      {
+        "candidate_id": "C056",
+        "reason": "Indisponible pour la date de début de mission : disponibilité au 2036-05-04 alors que la mission démarre le 2026-04-06."
+      },
+      {
+        "candidate_id": "C054",
+        "reason": "Indisponibilité sur la date de démarrage de la mission : le candidat n’est pas disponible avant le 2026-05-04 alors que la mission débute le 2026-04-06."
+      },
+      {
+        "candidate_id": "C023",
+        "reason": "Indisponible sur la date de début de mission : disponible seulement à partir du 2026-05-04, soit après le démarrage requis du 2026-04-06."
+      },
+      {
+        "candidate_id": "C058",
+        "reason": "Disponibilité incompatible : début de mission le 06/04/2026, candidat disponible seulement à partir du 20/06/2026."
+      }
+    ]
+  },
+  {
+    "mission_id": "M003",
+    "ranked_candidates": [
+      {
+        "candidate_id": "C010",
+        "score": 0.98,
+        "justification": "Excellente compatibilité avec la mission. Sofia Patel est basée à Colmar avec une mobilité de 30 km, donc localisation idéale pour Colmar. Elle est disponible dès le 28/03/2026, soit avant le démarrage du 02/04/2026. Son habilitation électrique B1V est bien présente et valide jusqu’en mars 2027, ce qui satisfait l’exigence légale de B1 minimum. Son expérience est directement pertinente : 18 mois en maintenance chez AlsaFood Industries à Colmar, dans l’agroalimentaire, avec maintenance préventive/curative sur lignes de production, mécanique, hydraulique et pneumatique. Le profil est renforcé par une seconde expérience en maintenance industrielle chez AutoPièces Alsace. Profil rare, fiable et prioritaire selon l’agence.",
+        "evidence": [
+          "Disponible dès le 28 mars 2026, mission débutant le 2 avril 2026.",
+          "Localisation : Colmar (68), mobilité 30 km.",
+          "Certifications : B1V valide mars 2027 ; BR valide mars 2027.",
+          "Expérience : 18 mois chez AlsaFood Industries (Colmar) en maintenance sur lignes de production agroalimentaire.",
+          "Compétences : mécanique, hydraulique, pneumatique, lecture de plans et schémas.",
+          "Note agence : profil rare et très demandé, priorité absolue sur missions maintenance Colmar."
+        ]
+      },
+      {
+        "candidate_id": "C014",
+        "score": 0.96,
+        "justification": "Candidat très compatible avec la mission : technicien de maintenance en agroalimentaire à Colmar, avec expérience directe dans le même secteur et sur le même type de poste. Il dispose de l’habilitation électrique B1V valide jusqu’en mai 2028, ce qui couvre l’exigence légale B1 minimum. La localisation est idéale (Colmar, déplacement 20 km) et la disponibilité est immédiate, donc compatible avec un début au 2026-04-02. Les compétences mentionnées en maintenance préventive/curative, mécanique et GMAO correspondent bien aux besoins du poste. Seul point non démontré clairement : hydraulique/automatisme et astreintes, mais cela ne remet pas en cause l’adéquation globale.",
+        "evidence": [
+          "Mission : Technicien de maintenance industrielle — longue durée, secteur agroalimentaire, lieu Colmar, début 2026-04-02, habilitation électrique B1 minimum requise.",
+          "Candidat : disponible dès 2025-01-01 / profil : disponible de suite.",
+          "Candidat : Colmar (68) — déplacement 20km.",
+          "Certifications : B1V valable mai 2028.",
+          "Expérience : Technicien de maintenance, AgroProduction Alsace (Colmar) — 14 mois.",
+          "Missions réalisées : maintenance préventive et curative sur lignes de production agroalimentaire, mécanique, entretien préventif, GMAO."
+        ]
+      },
+      {
+        "candidate_id": "C011",
+        "score": 0.94,
+        "justification": "Très bon match pour cette mission de technicien de maintenance industrielle en agroalimentaire à Colmar. Le candidat est localisé à Colmar, disponible avant le démarrage (31/03/2026 pour une prise de poste au 02/04/2026) et dispose de 9 ans d’expérience en maintenance/électromécanique industrielle avec une expérience sectorielle directe en agroalimentaire (AlsaFoods Colmar, 14 mois). Ses compétences correspondent bien aux attentes : électricité industrielle BT, automatisme Siemens S7/Step7, lecture de schémas, dépannage d’équipements de production. Point de vigilance : l’habilitation B1 est demandée légalement, alors que le profil mentionne B2V et BR seulement ; en pratique B2V couvre un niveau supérieur en environnement électrique BT, mais le libellé n’indique pas explicitement B1. Les habilitations sont valables jusqu’en août 2026, donc pas expirées au démarrage, mais à surveiller pour une mission longue de 12 mois, comme indiqué par l’agence.",
+        "evidence": [
+          "Localisation : Colmar — jusqu’à 25 km",
+          "Disponible dès : 2026-03-31",
+          "Expérience : Technicien électromécanique industriel, 9 ans d'expérience",
+          "Secteur : mission récente chez AlsaFoods Colmar — 14 mois",
+          "Compétences : électricité industrielle BT, automatisme Siemens S7 / Step7, lecture schémas électriques, dépannage équipements de production",
+          "Certifications : B2V et BR valables août 2026"
+        ]
+      },
+      {
+        "candidate_id": "C036",
+        "score": 0.93,
+        "justification": "Très bon alignement avec la mission : Gabriel Renaud est basé à Colmar, donc parfaitement localisé pour une mission à Colmar, et il possède 11 ans d’expérience en maintenance industrielle, avec des expertises directement pertinentes (mécanique, hydraulique, pneumatique, automatisme Siemens S5/S7). Il a déjà travaillé sur un site de Colmar en agrochimie, ce qui suggère une bonne adaptation à un environnement industriel. Côté habilitations, le minimum légal B1 est bien couvert avec une habilitation B1V valide jusqu’en juillet 2026, donc aucun motif d’exclusion. Point d’attention : la disponibilité indiquée au format candidat est contradictoire (dispo immédiate dans le CV, mais disponible dès le 2026-05-04 dans la fiche synthèse), alors que la mission démarre le 2026-04-02. Si la date la plus récente est retenue, il y aurait un décalage d’un mois ; toutefois, le CV indique une disponibilité immédiate, ce qui permet de considérer le candidat comme globalement compatible sous réserve de confirmation rapide.",
+        "evidence": [
+          "Lieu mission : Colmar ; candidat : Colmar (68) — 25km",
+          "Mission : habilitation électrique B1 minimum requise ; candidat : habilitations B1V valables jusqu’en juillet 2026",
+          "Mission : technicien de maintenance industrielle longue durée ; candidat : 11 ans maintenance industrielle",
+          "Compétences mission : mécanique industrielle, hydraulique ou automatisme appréciées ; candidat : mécanique, hydraulique, pneumatique, automatisme Siemens S5/S7",
+          "Profil : Technicien maintenance — AlsaChemical (Colmar) — 24 mois",
+          "Note agence : Très bon profil. Habilitations valides mais attention renouvellement en juillet",
+          "Incohérence de disponibilité : fiche synthèse = disponible dès le 2026-05-04 ; CV = dispo immédiate"
+        ]
+      }
+    ],
+    "filtered_out": [
+      {
+        "candidate_id": "C013",
+        "reason": "Habilitation électrique B1 expirée, donc non conforme aux exigences légales de la mission, et disponibilité incompatible avec la date de démarrage."
+      },
+      {
+        "candidate_id": "C015",
+        "reason": "Indisponible à la date de début de mission (disponible seulement à partir du 2026-05-01 pour un démarrage exigé le 2026-04-02)."
+      },
+      {
+        "candidate_id": "C052",
+        "reason": "Habilitation électrique légalement insuffisante (B1 minimum requis, candidat seulement B2V sans BR) et indisponibilité au démarrage (disponible après le 2026-04-02)."
+      },
+      {
+        "candidate_id": "C012",
+        "reason": "Habilitation électrique insuffisante : B0 uniquement alors que la mission impose légalement B1 minimum pour les interventions électriques."
+      },
+      {
+        "candidate_id": "C059",
+        "reason": "Indisponibilité légale/contractuelle pour la date de début de mission : le candidat n’est disponible qu’à partir du 2026-05-04, alors que la mission commence le 2026-04-02."
+      },
+      {
+        "candidate_id": "C034",
+        "reason": "Indisponible au démarrage de la mission et absence d’habilitation électrique B1 obligatoire; profil en maintenance bâtiment non adapté à la maintenance industrielle."
+      }
+    ]
+  },
+  {
+    "mission_id": "M004",
+    "ranked_candidates": [
+      {
+        "candidate_id": "C005",
+        "score": 0.89,
+        "justification": "Profil très pertinent pour une mission logistique transfrontalière à Saint-Louis : Marc Bauer est bilingue allemand/français, avec une expérience solide en logistique et import/export, ce qui colle bien au contexte franco-allemand recherché. Son CACES R489 cat. 3 est valide jusqu’en 2029, donc aucune exclusion réglementaire. La seule réserve est la disponibilité : il n’est disponible qu’à partir du 2026-05-04 alors que la mission démarre le 2026-04-06, soit près d’un mois de décalage. Si la date de début est ferme, il risque de ne pas pouvoir prendre la mission dès le démarrage ; en revanche, sur le fond du poste, son profil est très adapté.",
+        "evidence": [
+          "Disponible dès : 2026-05-04",
+          "Mission début : 2026-04-06",
+          "Localisation : Freiburg (DE)",
+          "Mobilité 50 km",
+          "Langues : allemand (langue maternelle), français (courant), anglais (professionnel)",
+          "Expérience : adjoint responsable logistique (24 mois), opérateur logistique senior (12 mois)",
+          "Compétences : gestion de stocks, coordination équipes, import/export, optimisation flux",
+          "Certifications : CACES R489 catégorie 3 (valide jusqu’en 2029)",
+          "Secteur : logistique transfrontalière / environnement franco-allemand"
+        ]
+      },
+      {
+        "candidate_id": "C004",
+        "score": 0.84,
+        "justification": "Profil très compatible avec la mission : Thomas Gruber est germanophone natif, parle français couramment, et a déjà travaillé en environnement bilingue FR/DE dans la logistique. Ses certifications de conduite d’engins sont valides jusqu’en janvier 2028, donc aucun blocage réglementaire identifié. La localisation à Freiburg im Breisgau et une mobilité de 40 km restent cohérentes pour un poste transfrontalier à Saint-Louis. Le seul point de réserve est la disponibilité : il est libre le 7 avril 2026, soit un jour après le début demandé (6 avril 2026), ce qui le rend légèrement en décalage mais pas inapte sur le fond au vu de la note agence et de l’urgence normale.",
+        "evidence": [
+          "Disponible dès le 7 avril 2026 vs début mission le 6 avril 2026",
+          "Localisation : Freiburg im Breisgau ; mobilité 40 km",
+          "Deutsch (Muttersprache), Französisch (fließend)",
+          "Expérience : Logistikoperateur chez TransRhein GmbH (Freiburg), environnement bilingue FR/DE",
+          "Certificats : Gabelstaplerschein R485 Kat. 2 — gültig bis Januar 2028 ; Gabelstaplerschein R489 Kat. 1B — gültig bis Januar 2028"
+        ]
+      },
+      {
+        "candidate_id": "C027",
+        "score": 0.62,
+        "justification": "Candidat globalement pertinent pour une mission logistique transfrontalière : 7 ans d’expérience en logistique, expérience en zone frontalière Kehl/Strasbourg, et maîtrise de l’allemand, ce qui correspond au besoin principal de la mission. Ses CACES R489 cat. 1B et 3 sont valables jusqu’en 2028, donc aucune exclusion réglementaire. En revanche, le profil indique une disponibilité réelle au 2026-05-04 alors que la mission débute le 2026-04-06 : il y a un décalage d’environ 4 semaines, ce qui empêche une prise de poste à la date demandée. De plus, la mobilité vers Saint-Louis/Mulhouse est moins certaine sur le long terme selon la note agence, ce qui réduit l’adéquation géographique. Enfin, le niveau d’allemand est annoncé comme professionnel dans la mission, alors que le CV mentionne simplement allemand sans précision explicite de niveau professionnel (même si la pratique transfrontalière est un bon signal).",
+        "evidence": [
+          "Mission : début le 2026-04-06, durée 3 mois",
+          "Candidat : disponible dès 2026-05-04",
+          "Localisation candidat : Kehl (DE)",
+          "Profil : « Mobilité transfrontalière OK (vécu en zone Kehl/Strasbourg) »",
+          "Expérience : « Expérience logistique — 7 ans »",
+          "Expériences : Chariotiste — LogisHub Offenburg — 10 mois ; Agent logistique — DistribRhein (Kehl) — 9 mois",
+          "Langues : espagnol, allemand, français (conversationnel)",
+          "Certifications : R489 cat. 1B et R489 cat. 3 valables jusqu’en 2028",
+          "Note agence : « zone de vie Offenburg = mobilité vers Mulhouse moins certaine sur long terme »"
+        ]
+      },
+      {
+        "candidate_id": "C026",
+        "score": 0.42,
+        "justification": "Profil exploitable pour une mission logistique proche géographiquement, avec une expérience solide en manutention/cariste et des certifications R489 valides jusqu’en septembre 2027. En revanche, le profil ne mentionne aucune maîtrise de l’allemand, alors que la mission exige un niveau professionnel pour des interactions quotidiennes. La disponibilité annoncée est également incompatible avec un démarrage au 2026-04-06, car la candidate n’est disponible qu’à partir du 2026-05-04.",
+        "evidence": [
+          "Lieu candidat : Mulhouse (68) — rayon 15 km, mission à Saint-Louis (68) : proximité compatible.",
+          "Expérience : 5 ans en cariste, avec missions de chariotiste et opérateur de manutention.",
+          "Certifications : R489 catégorie 3 et R489 catégorie 1B, expirent en septembre 2027.",
+          "Compétences : mise en stock, inventaire, préparation expéditions, 2x8.",
+          "Disponibilité candidat : 2026-05-04 / disponible de suite dans le CV mais la fiche mission indique début 2026-04-06.",
+          "Aucune mention de l’allemand dans le profil, alors que la mission demande un niveau professionnel."
+        ]
+      },
+      {
+        "candidate_id": "C032",
+        "score": 0.12,
+        "justification": "Le profil de Nadia Ben Saïd correspond partiellement à une mission logistique grâce à ses 4 ans en préparation de commandes et manutention, avec expérience en entrepôt, scan codes-barres et inventaire. En revanche, la mission exige un allemand de niveau professionnel, or le CV ne mentionne aucune compétence linguistique en allemand. De plus, la candidate est disponible immédiatement alors que la mission commence le 2026-04-06, ce qui n’est pas bloquant mais ne garantit pas sa tenue jusqu’à la date de début. La localisation Strasbourg est compatible avec Saint-Louis en mobilité régionale, mais l’éloignement reste à confirmer. Profil globalement trop éloigné du besoin franco-allemand.",
+        "evidence": [
+          "Mission : allemand à un niveau professionnel requis, interactions quotidiennes avec collègues et fournisseurs germanophones",
+          "Candidat : aucune compétence linguistique mentionnée",
+          "CV : Préparation commandes & manutention — 4 ans",
+          "CV : Opératrice entrepôt — LogiPlus (Strasbourg) — 8 mois",
+          "CV : Préparatrice de commandes — QuickShip — 6 mois",
+          "CV : Pas de permis chariot",
+          "Candidat : Disponible dès 2026-05-04 / Profil complet : Disponibilité immédiate",
+          "Localisation candidat : Strasbourg (67) — 20km moyen",
+          "Mission : Saint-Louis (68), secteur logistique transfrontalière"
+        ]
+      }
+    ],
+    "filtered_out": [
+      {
+        "candidate_id": "C053",
+        "reason": "Indisponible à la date de début de mission (disponibilité au 2026-05-04 pour un démarrage au 2026-04-06) et absence de preuve de maîtrise professionnelle de l’allemand, compétence obligatoire."
+      },
+      {
+        "candidate_id": "C062",
+        "reason": "Indisponible pour le démarrage de mission : mission au 2026-04-06, candidat disponible seulement au 2026-05-05."
+      },
+      {
+        "candidate_id": "C008",
+        "reason": "Candidat indisponible à la date de début de mission (mission au 2026-04-06, disponibilité au 2026-05-04)."
+      },
+      {
+        "candidate_id": "C018",
+        "reason": "Indisponibilité à la date de début et mobilité géographique insuffisante pour rejoindre Saint-Louis (68)."
+      },
+      {
+        "candidate_id": "C038",
+        "reason": "Candidat indisponible à la date de début de mission : mission au 2026-04-06, disponibilité au 2026-05-04."
+      }
+    ]
+  },
+  {
+    "mission_id": "M005",
+    "ranked_candidates": [
+      {
+        "candidate_id": "C020",
+        "score": 0.93,
+        "justification": "Très bonne adéquation pour une mission d’assistant(e) administratif(ve) RH à Strasbourg. Céline Muller est disponible avant le démarrage (01/04/2026 vs début mission 20/04/2026), localisée à Strasbourg avec une mobilité de 20 km, ce qui sécurise la présence sur site. Son parcours couvre précisément le périmètre demandé : administration RH, DPAE, contrats de travail, suivi des absences, et elle a également une expérience paie solide, appréciée pour ce poste. L’environnement de PME et le secteur services ne sont pas un frein au vu de son expérience RH/admin en BTP et de sa polyvalence administrative. Aucun certificat requis n’étant mentionné pour ce poste, il n’y a pas d’exclusion légale.",
+        "evidence": [
+          "Disponible dès le 1er avril 2026",
+          "Localisation : Strasbourg (67) — mobilité 20km",
+          "Chargée RH/admin — BTP Construction 67 — 9 mois : DPAE, contrats de travail, mutuelle/prévoyance, gestion des absences",
+          "Gestionnaire de paie — Industrie Mécanique Grand Est — 18 mois : paie de 180 salariés, bulletins complexes, variables, DSN mensuelle",
+          "Note agence : Très bonne candidate paie. Autonome sur bulletins complexes",
+          "Certifications : aucune"
+        ]
+      },
+      {
+        "candidate_id": "C039",
+        "score": 0.82,
+        "justification": "Candidature globalement très adaptée au poste d’assistant(e) administratif(ve) RH : Muriel Lafleur cumule 5 ans d’expérience RH, avec des missions directement alignées sur le besoin (onboarding, DPAE, suivi des contrats, gestion des congés). La localisation est bonne pour Strasbourg (20 km), dans le secteur services/PME. La sensibilité à la paie est indiquée comme appréciée seulement, et l’agence précise que la paie n’est pas réellement couverte, donc ce n’est pas bloquant. Point de vigilance majeur : la disponibilité déclarée est au 2026-05-04 alors que la mission démarre le 2026-04-20, soit un décalage de 14 jours ; si le client exige une prise de poste immédiate à la date de début, cela peut compromettre la mission, mais à défaut d’exigence stricte c’est surtout un risque de calage.",
+        "evidence": [
+          "Disponible dès : 2026-05-04",
+          "Localisation : Strasbourg (67) — 20km",
+          "Assistante RH — 5 ans",
+          "Ce que je fais : onboarding, DPAE, suivi contrats, gestion congés.",
+          "Note agence : Candidate sérieuse assistant RH. Paie pas réellement couverte (pas de paie directe).",
+          "Mission : Strasbourg | début 2026-04-20 | durée 6 mois",
+          "Description : administration quotidienne du personnel, contrats de travail, DPAE, suivi des absences et congés, onboarding. Sensibilité à la paie appréciée."
+        ]
+      },
+      {
+        "candidate_id": "C022",
+        "score": 0.82,
+        "justification": "Candidat globalement très compatible avec la mission : Yasmine Hadj a 3 ans d’expérience comme assistante RH, avec des missions directement alignées sur le besoin (onboarding, gestion administrative du personnel, préparation des éléments de paie). Elle est basée à Strasbourg, ce qui correspond au lieu de la mission, et sa mobilité annoncée de 15 km est cohérente avec un poste sur Strasbourg. Le secteur services n’est pas problématique au vu de son profil administratif/RH. Point de vigilance : elle n’a aucune certification et sa sensibilité paie reste légère, donc il faudra valider l’autonomie sur DPAE, contrats et suivi des absences/congés, ainsi que sa capacité à gérer la confidentialité. Aucun motif d’exclusion légale n’apparaît.",
+        "evidence": [
+          "Disponible dès : 2026-05-04",
+          "Mission : début 2026-04-20",
+          "Localisation : Strasbourg",
+          "CV : Strasbourg — mobile 15km — disponible maintenant",
+          "Assistante RH — 3 ans d'expérience",
+          "Assistante RH, LogiEst (Strasbourg) — 7 mois (2025)",
+          "Onboarding nouveaux arrivants, gestion admin du personnel, préparation éléments de paie",
+          "Bonne maîtrise des outils bureautiques (Word, Excel)",
+          "Agence : Bonne candidate assistante RH. Paie encore légère mais sérieuse"
+        ]
+      },
+      {
+        "candidate_id": "C065",
+        "score": 0.42,
+        "justification": "Profil globalement pertinent pour une mission d’assistanat RH en environnement services à Strasbourg : Louise Derain a 3 ans d’expérience en paie/RH, a déjà travaillé en PME à Strasbourg, et maîtrise des tâches proches du besoin (DPAE, congés, administration RH, paie, DSN). Sa localisation est compatible (Strasbourg, 15 km). En revanche, la mission démarre le 2026-04-20 alors que le candidat n’est disponible qu’à partir du 2026-05-04, soit un décalage de 2 semaines environ, ce qui réduit fortement l’adéquation. La sensibilité à la paie est un plus, mais le poste est aussi centré sur l’administration du personnel et l’onboarding, dimensions peu détaillées dans le profil.",
+        "evidence": [
+          "Disponible dès : 2026-05-04",
+          "Localisation : Strasbourg (67) — 15km",
+          "3 ans en paie & RH",
+          "Assistante RH & paie — PME (Strasbourg) — 6 mois",
+          "Compétences : DSN, bulletins standards, DPAE, congés",
+          "Note agence : Junior-mid paie profile. Autonome sur dossiers 100-150 salariés.",
+          "Mission : assistant administratif RH, contrats de travail, DPAE, suivi des absences et congés, onboarding"
+        ]
+      },
+      {
+        "candidate_id": "C021",
+        "score": 0.42,
+        "justification": "Le candidat est localisé à Strasbourg et possède une solide expérience en paie/administration sociale, ce qui peut être utile pour un poste RH avec sensibilité paie. En revanche, le cœur de son parcours est centré sur la gestion de paie en cabinet, pas sur l’assistanat administratif RH généraliste demandé (contrats de travail, suivi des absences/congés, onboarding). De plus, la disponibilité est postérieure au démarrage de mission : mission au 2026-04-20, candidat disponible au 2026-05-04, soit un décalage de 2 semaines. Pas de certification requise signalée.",
+        "evidence": [
+          "Localisation : Strasbourg",
+          "Disponible dès : 2026-05-04",
+          "Mission : Début 2026-04-20",
+          "9 ans gestionnaire de paie",
+          "Gestionnaire de paie — Cabinet social AlsaConseil — 30 mois",
+          "Je gère : calcul salaires, charges sociales, DSN, DPAE, soldes de tout compte, certificats de travail.",
+          "Note agence : Excellente spécialiste paie multi-logiciels. Profil rare, à prioriser sur missions paie."
+        ]
+      }
+    ],
+    "filtered_out": [
+      {
+        "candidate_id": "C023",
+        "reason": "Indisponible à la date de début de mission (mission le 2026-04-20, candidate disponible à partir du 2026-05-04)."
+      },
+      {
+        "candidate_id": "C045",
+        "reason": "Indisponibilité à la date de début de mission (mission au 2026-04-20, candidate disponible au 2026-05-04)."
+      },
+      {
+        "candidate_id": "C058",
+        "reason": "Indisponibilité : le candidat n’est pas disponible à la date de démarrage de la mission (disponible seulement au 2026-06-20 pour un début de mission au 2026-04-20)."
+      }
+    ]
+  },
+  {
+    "mission_id": "M006",
+    "ranked_candidates": [
+      {
+        "candidate_id": "C014",
+        "score": 0.89,
+        "justification": "Candidat très compatible avec la mission : il est basé à Colmar, donc parfaitement localisé pour le site. Il est disponible de suite, ce qui couvre le démarrage au 30/03/2026 et l’urgence haute. Son expérience en agroalimentaire est solide : 14 mois comme technicien de maintenance chez AgroProduction Alsace à Colmar, avec intervention sur des lignes de production agroalimentaire (maintenance préventive et curative, GMAO, mécanique). Il n’est pas exactement opérateur de production, mais son vécu sur ligne et dans le secteur agroalimentaire est un vrai atout. L’habilitation B1V est bien valide jusqu’en mai 2028. Aucun CACES n’est requis. Point de vigilance : la mission est en 3x8 et le profil ne mentionne pas explicitement la disponibilité en horaires décalés, mais rien n’indique de blocage.",
+        "evidence": [
+          "Localisation : Colmar (68) — déplacement 20km — disponible de suite",
+          "Disponible dès : 2025-01-01",
+          "EXP PROFESSIONNELLE : Technicien de maintenance, AgroProduction Alsace (Colmar) — 14 mois",
+          "« Je m'occupe de la maintenance préventive et curative sur lignes de production agroalimentaire »",
+          "Habilitations : B1V valable mai 2028",
+          "Aucun CACES requis dans la mission"
+        ]
+      }
+    ],
+    "filtered_out": [
+      {
+        "candidate_id": "C041",
+        "reason": "Candidat indisponible pour la date de début de mission : mission démarre le 2026-03-30 alors que la disponibilité indiquée est au 2026-05-04."
+      },
+      {
+        "candidate_id": "C040",
+        "reason": "Candidat indisponible à la date de début de mission : la mission commence le 2026-03-30, mais le candidat n’est disponible qu’à partir du 2026-05-04."
+      },
+      {
+        "candidate_id": "C047",
+        "reason": "Indisponibilité : début de mission le 2026-03-30 alors que le candidat n’est disponible qu’à partir du 2026-05-04."
+      },
+      {
+        "candidate_id": "C024",
+        "reason": "Indisponible à la date de début de mission (disponible seulement à partir du 2026-05-04 alors que la mission commence le 2026-03-30)."
+      },
+      {
+        "candidate_id": "C067",
+        "reason": "Indisponible pour le début de mission : disponibilité au 2026-05-04 alors que la mission démarre le 2026-03-30."
+      },
+      {
+        "candidate_id": "C025",
+        "reason": "Indisponible à la date de début de mission (disponible le 2026-05-04 alors que la mission démarre le 2026-03-30)."
+      },
+      {
+        "candidate_id": "C060",
+        "reason": "Indisponible pour le démarrage requis du 2026-03-30 (disponible à partir du 2026-05-04 selon le champ candidat), ce qui impose une exclusion légale pour la mission."
+      },
+      {
+        "candidate_id": "C008",
+        "reason": "Indisponible à la date de démarrage de la mission (disponible à partir du 04/05/2026 alors que la mission démarre le 30/03/2026)."
+      },
+      {
+        "candidate_id": "C036",
+        "reason": "Candidat indisponible pour la date de début de mission (dispo au 2026-05-04 pour un démarrage au 2026-03-30)."
+      }
+    ]
+  },
+  {
+    "mission_id": "M007",
+    "ranked_candidates": [
+      {
+        "candidate_id": "C010",
+        "score": 0.94,
+        "justification": "Très bonne compatibilité avec la mission. Sofia Patel est localisée à Colmar, donc sur site sans contrainte de mobilité. Elle est disponible dès le 28/03/2026, soit avant le démarrage prévu le 13/04/2026. Les habilitations obligatoires sont présentes et valides : BR valide jusqu’en mars 2027 et B1V valide jusqu’en mars 2027, ce qui couvre toute la mission de 6 mois. Son expérience en maintenance industrielle est solide (18 mois en agroalimentaire à Colmar + 12 mois à Mulhouse), avec interventions préventives et curatives, ce qui correspond bien à un poste de technicien de maintenance en industrie chimique. Point de vigilance : le profil ne mentionne pas d’expérience explicite en chimie ni en automatisme Siemens/Schneider, mais cela n’est pas bloquant puisque ces compétences sont seulement appréciées.",
+        "evidence": [
+          "Disponible dès le 2026-03-28, mission démarre le 2026-04-13",
+          "Localisation : Colmar (68), mobilité 30 km",
+          "Certifications : B1V (valide mars 2027), BR (chargé d'intervention) (valide mars 2027)",
+          "18 mois comme Technicienne de maintenance — AlsaFood Industries (Colmar)",
+          "12 mois comme Technicienne de maintenance — AutoPièces Alsace (Mulhouse)",
+          "Compétences clés : maintenance industrielle, mécanique générale, hydraulique, pneumatique, lecture plans et schémas"
+        ]
+      },
+      {
+        "candidate_id": "C036",
+        "score": 0.92,
+        "justification": "Profil très compatible avec la mission : Gabriel Renaud est localisé à Colmar, donc sans contrainte de mobilité, et il a 11 ans d’expérience en maintenance industrielle, dont 24 mois en maintenance chez AlsaChemical à Colmar, ce qui apporte une bonne adéquation sectorielle avec la chimie. Les habilitations demandées BR et B1V sont bien présentes et valides jusqu’en juillet 2026, donc à la date de début (13/04/2026) elles sont conformes. Son expérience en automatisme Siemens est également pertinente, même si le profil mentionne S5/S7 plutôt que Schneider. Point d’attention : sa disponibilité indiquée au début est incohérente (dispo dès le 04/05/2026), ce qui le rendrait indisponible pour un démarrage au 13/04/2026. Cependant, le CV complet mentionne « Dispo : immédiate », donc j’ai retenu la disponibilité immédiate du profil détaillé et non la ligne de synthèse contradictoire.",
+        "evidence": [
+          "Localisation : Colmar (68) — 25km",
+          "Disponible dès : 2026-05-04",
+          "CV : Dispo : immédiate",
+          "11 ans maintenance industrielle",
+          "Technicien maintenance — AlsaChemical (Colmar) — 24 mois",
+          "Habilitations : B1V et BR valables jusqu'en juillet 2026",
+          "Expertises : ... automatisme Siemens S5/S7"
+        ]
+      },
+      {
+        "candidate_id": "C011",
+        "score": 0.72,
+        "justification": "Le candidat est globalement très compatible : il est localisé à Colmar, disponible avant le démarrage (31/03/2026 pour une prise de poste au 13/04/2026) et possède une solide expérience en électromécanique/maintenance industrielle en environnement BT, avec automatisme Siemens. Ses habilitations BR et B2V sont valables jusqu’en août 2026, donc la BR exigée est couverte sur toute la mission de 6 mois. En revanche, la mission պահանջ B1V, qui n’apparaît pas dans le profil : c’est le principal point de vigilance. Le secteur chimie n’est pas explicitement mentionné dans son parcours, mais ses expériences en maintenance industrielle restent pertinentes.",
+        "evidence": [
+          "Localisation : Colmar — jusqu’à 25km",
+          "Disponible dès : 2026-03-31",
+          "Technicien électromécanique industriel, 9 ans d'expérience",
+          "Spécialités : électricité industrielle BT, automatisme (Siemens S7, Step7), lecture schémas électriques, dépannage équipements de production",
+          "Habilitations : B2V et BR valables août 2026",
+          "Mission : habilitation électrique BR obligatoire ... Habilitation B1V également requise"
+        ]
+      }
+    ],
+    "filtered_out": [
+      {
+        "candidate_id": "C013",
+        "reason": "Habilitation électrique B1V expirée et disponibilité après le début de mission ; mission exige des habilitations électriques obligatoires (BR et B1V)."
+      },
+      {
+        "candidate_id": "C015",
+        "reason": "Indisponible à la date de début de mission (disponible seulement à partir du 2026-05-01, mission au 2026-04-13)."
+      },
+      {
+        "candidate_id": "C012",
+        "reason": "Habilitation électrique obligatoire absente/insuffisante : BR et B1V requis par la mission, candidat limité à B0 uniquement."
+      },
+      {
+        "candidate_id": "C014",
+        "reason": "Habilitation BR obligatoire absente."
+      },
+      {
+        "candidate_id": "C050",
+        "reason": "Certification BR/B1V absente (seulement H0V) et candidat indisponible au début de mission (disponible à partir du 2026-05-04 pour un démarrage au 2026-04-13)."
+      },
+      {
+        "candidate_id": "C035",
+        "reason": "Habilitation BR obligatoire absente (non conforme) ; disponibilité légèrement après le début de mission."
+      },
+      {
+        "candidate_id": "C059",
+        "reason": "Exclu légalement car l’habilitation BR obligatoire est absente du profil, et le candidat n’est pas disponible à la date de début de mission (disponible seulement à partir du 2026-05-04 pour un démarrage au 2026-04-13)."
+      }
+    ]
+  },
+  {
+    "mission_id": "M008",
+    "ranked_candidates": [
+      {
+        "candidate_id": "C020",
+        "score": 0.98,
+        "justification": "Excellente adéquation avec la mission : Céline Muller est disponible avant le début de mission (01/04/2026 pour un démarrage au 06/04/2026), localisée à Strasbourg avec une mobilité de 20 km, et possède une expérience directement pertinente en industrie. Son parcours inclut 18 mois en gestion de paie dans l’industrie mécanique avec paie de 180 salariés, bulletins complexes et DSN mensuelle, ce qui correspond très bien au portefeuille et aux obligations demandées. Elle maîtrise également ADP Decidium, logiciel explicitement accepté par la mission. Elle a en plus une expérience RH/admin avec DPAE et gestion des absences, utile pour le poste. Aucune certification n’est requise dans l’annonce, donc absence de certification non bloquante.",
+        "evidence": [
+          "Disponible dès le 1er avril 2026 pour un début au 6 avril 2026",
+          "Localisation : Strasbourg (67) — mobilité 20km",
+          "6 ans d’expérience en gestionnaire de paie",
+          "Expérience en industrie mécanique grand est : paie de 180 salariés, bulletins complexes, gestion des variables, DSN mensuelle",
+          "Logiciels : ADP Decidium (maîtrise)",
+          "Expérience RH/admin : DPAE, contrats de travail, mutuelle/prévoyance, gestion des absences",
+          "Note agence : Très bonne candidate paie. Autonome sur bulletins complexes."
+        ]
+      },
+      {
+        "candidate_id": "C043",
+        "score": 0.82,
+        "justification": "Profil très pertinent pour la mission : Christine Devaux a 10 ans d’expérience en paie, dont une expérience de gestionnaire de paie senior à Strasbourg et une pratique des DSN, bulletins complexes, régularisations ainsi que des logiciels Silae/Nibelis, tous alignés avec les besoins du poste. La localisation est compatible (Strasbourg, 30 km). Le seul point de vigilance est la disponibilité : elle est annoncée au 1er mai 2026, soit environ 3 à 4 semaines après le début demandé le 6 avril 2026. Comme la mission démarre en urgence normale et que l’agence indique “Dispo mai acceptable”, ce n’est pas un motif d’exclusion légale mais cela réduit la compatibilité.",
+        "evidence": [
+          "Disponible dès : 2026-05-01",
+          "Localisation : Strasbourg (67)",
+          "Gestionnaire de paie senior — TaxConsult (Strasbourg) — 24 mois",
+          "Spécialiste paie — 10 ans",
+          "Expertises : DSN, bulletins complexes, régularisations, logiciels Silae/Nibelis",
+          "Note agence : Excellent profil senior paie. Dispo mai acceptable."
+        ]
+      },
+      {
+        "candidate_id": "C039",
+        "score": 0.12,
+        "justification": "Profil localisé à Strasbourg avec une expérience RH cohérente (onboarding, DPAE, suivi contrats, congés), mais la mission demande un véritable gestionnaire de paie en industrie avec maîtrise d’un logiciel de paie (ADP/Silae/Nibelis) et la gestion de bulletins complexes/DSN. Or le CV indique explicitement 'pas de paie directe' et aucune preuve de maîtrise d’un logiciel de paie dédié. De plus, la candidature est disponible immédiatement dans le CV mais la fiche d’extraction indique une disponibilité au 2026-05-04, postérieure au début de mission au 2026-04-06, ce qui constituerait une indisponibilité pour le démarrage si cette date est retenue.",
+        "evidence": [
+          "Localisation : Strasbourg (67) — 20km",
+          "Assistante RH — 5 ans",
+          "Ce que je fais : onboarding, DPAE, suivi contrats, gestion congés.",
+          "Pas de paie directe.",
+          "Bureautique : Word, Excel, logiciels RH.",
+          "Mission : maîtrise d'un logiciel de paie requis (ADP, Silae ou Nibelis), DSN mensuelle, bulletins complexes.",
+          "Disponible dès : 2026-05-04",
+          "Début mission : 2026-04-06"
+        ]
+      },
+      {
+        "candidate_id": "C016",
+        "score": 0.08,
+        "justification": "Profil très éloigné de la mission : Hélène Schreiber est une chargée de recrutement (7 ans d'expérience) alors que la mission recherche un gestionnaire de paie en industrie à Strasbourg. Son CV ne montre aucune expérience en paie, ni maîtrise d’un logiciel de paie (ADP, Silae, Nibelis), ni connaissance prouvée de la DSN mensuelle, DPAE ou bulletins complexes. En revanche, la localisation est compatible (Strasbourg) et le secteur industriel est partiellement connu via un précédent poste en recrutement industriel. Attention toutefois à la disponibilité : elle est annoncée disponible à partir du 2026-04-15, soit après le démarrage demandé au 2026-04-06. Cela ne justifie pas une exclusion légale ici, mais réduit fortement la compatibilité.",
+        "evidence": [
+          "Disponible dès : 2026-04-15",
+          "Localisation : Strasbourg (67)",
+          "Chargée de recrutement — TechCom ESN Strasbourg — 9 mois",
+          "Chargée de recrutement — IndustrieRH — 6 mois, renouvelée (profils industriels et techniciens)",
+          "Outils maîtrisés : ATS Workday, LinkedIn Recruiter, Talentsoft, Job boards",
+          "Compétences : sourcing, rédaction annonces, entretiens qualificatifs, présentations clients"
+        ]
+      }
+    ],
+    "filtered_out": [
+      {
+        "candidate_id": "C021",
+        "reason": "Indisponibilité : le candidat est disponible à partir du 2026-05-04, après le début de mission fixé au 2026-04-06."
+      },
+      {
+        "candidate_id": "C065",
+        "reason": "Indisponibilité à la date de début de mission (candidate disponible après le démarrage)."
+      },
+      {
+        "candidate_id": "C037",
+        "reason": "Indisponibilité à la date de début de mission (disponible à partir du 2026-05-04, mission au 2026-04-06)."
+      },
+      {
+        "candidate_id": "C061",
+        "reason": "Indisponibilité au démarrage de la mission : début le 2026-04-06, candidat disponible seulement à partir du 2026-05-04."
+      },
+      {
+        "candidate_id": "C023",
+        "reason": "Indisponible à la date de début de mission (disponible après le 2026-04-06)."
+      },
+      {
+        "candidate_id": "C056",
+        "reason": "Profil hors périmètre paie/gestion administrative RH et indisponibilité incohérente/différée selon la fiche; absence de compétence/certification paie requise pour la mission."
+      }
+    ]
+  },
+  {
+    "mission_id": "M009",
+    "ranked_candidates": [
+      {
+        "candidate_id": "C041",
+        "score": 0.92,
+        "justification": "Très bon alignement avec la mission : Virginie Masurel a 12 ans d’expérience comme conductrice de ligne en agroalimentaire, avec pilotage de lignes, réglages, qualité, HACCP et expérience en 2x8/3x8. La localisation est excellente (Colmar, 25 km) et la note agence confirme un profil à prioriser sur des missions production à Colmar. Seul bémol : la disponibilité transmise par le candidat est au 2026-05-04, alors que la mission démarre le 2026-04-06, ce qui crée un décalage d’environ 4 semaines. Comme il n’y a pas d’exclusion légale (aucune certification requise indiquée), le profil reste très pertinent mais avec un risque de disponibilité.",
+        "evidence": [
+          "Mission : Conducteur(trice) de ligne — brasserie, secteur agroalimentaire, Colmar, début 2026-04-06, poste en 2x8.",
+          "Candidat : Localisation Colmar (68).",
+          "CV : Conductrice de ligne agroalimentaire — 12 ans.",
+          "CV : Conductrice ligne production — CerealsPlus (Colmar) — 20 mois.",
+          "CV : Pilotage lignes, réglages, qualité, HACCP, encadrement légère.",
+          "CV : Travail 2x8/3x8 OK.",
+          "Note agence : Très bon profil conductrice ligne. À prioriser missions production Colmar.",
+          "Disponible dès : 2026-05-04."
+        ]
+      },
+      {
+        "candidate_id": "C024",
+        "score": 0.92,
+        "justification": "Très bon alignement avec la mission : Christelle Haas a 10 ans d’expérience en conduite de ligne agroalimentaire, dont 24 mois en brasserie chez AlsaBrew et 12 mois chez AlsaBière. Le besoin porte sur un conducteur de ligne en brasserie artisanale, avec autonomie sur réglages machines, polyvalence et connaissance agroalimentaire : son profil mentionne explicitement le pilotage des lignes, les réglages de base, le contrôle qualité et une expérience en 2x8/3x8, ce qui correspond bien aux attendus. La localisation est parfaite (Colmar, 15 km) et la note agence confirme qu’elle est une référence sur des missions similaires à Colmar. Point de vigilance : la disponibilité indiquée est au 2026-05-04, alors que la mission débute le 2026-04-06 ; elle ne serait donc pas disponible à temps pour le démarrage, malgré le très bon match métier.",
+        "evidence": [
+          "Mission : Conducteur(trice) de ligne — brasserie, secteur agroalimentaire, Colmar, début 2026-04-06, poste en 2x8",
+          "Candidat : Colmar (68) — 15km — disponible de suite / Disponible dès : 2026-05-04",
+          "Profil : Conductrice de ligne agroalimentaire — 10 ans",
+          "EXP : Conductrice de ligne — AlsaBrew (brasserie) — 24 mois",
+          "EXP : Opératrice de production — AlsaBière — 12 mois",
+          "Compétences : pilote les lignes de production, réglages de base, contrôle qualité en cours de fabrication",
+          "Compétences : Connaissances HACCP",
+          "Compétences : Travail posté (2x8 / 3x8)",
+          "Note agence : Référence sur missions conduite de ligne agroalimentaire secteur Colmar"
+        ]
+      },
+      {
+        "candidate_id": "C025",
+        "score": 0.86,
+        "justification": "Candidat très pertinent sur le fond : il est localisé à Colmar, avec 14 ans d’expérience en production agroalimentaire et une expérience récente de chef d’équipe incluant la conduite et le réglage de lignes, la gestion des aléas et des audits HACCP. Le poste vise justement un conducteur de ligne autonome en agroalimentaire, avec polyvalence et 2x8, ce qui correspond bien à son niveau. En revanche, il n’est pas disponible à la date de début demandée : la mission commence le 2026-04-06 alors que le candidat n’est disponible qu’à partir du 2026-05-04, soit près d’un mois de décalage. Aucune certification n’est exigée obligatoirement dans l’offre et aucune certification n’est présente/expirée, donc pas d’exclusion légale sur ce point.",
+        "evidence": [
+          "Disponible dès : 2026-05-04",
+          "Lieu mission : Colmar / Candidat : Colmar (68) — 25km",
+          "14 ans en production agroalimentaire",
+          "Chef d'équipe production — AlsaFoods (Colmar) — 36 mois",
+          "Encadrement 8 opérateurs, conduite et réglage lignes, amélioration continue, HACCP, audits internes",
+          "Compétences : conduite de ligne, management production, kaizen, gestion des aléas, reporting",
+          "Poste : Conducteur(trice) de ligne — brasserie / Secteur : agroalimentaire / Poste en 2x8"
+        ]
+      },
+      {
+        "candidate_id": "C014",
+        "score": 0.86,
+        "justification": "Profil globalement très compatible avec la mission : Mounir est basé à Colmar, donc parfaitement mobile pour le poste, et il est disponible immédiatement bien avant le début de mission (2026-04-06). Son expérience en agroalimentaire est pertinente : 14 mois chez AgroProduction Alsace sur des lignes de production agroalimentaire, avec maintenance préventive et curative, mécanique et GMAO. Cela laisse supposer une bonne compréhension des équipements et des réglages machines demandés. En revanche, le CV ne mentionne pas explicitement de fonction de conducteur de ligne ni de connaissance HACCP, donc il y a un léger écart par rapport au cœur exact du poste. L’habilitation B1V est à jour jusqu’en mai 2028 mais n’est pas bloquante ni déterminante pour cette mission.",
+        "evidence": [
+          "Disponible de suite / disponible dès : 2025-01-01",
+          "Colmar (68) — déplacement 20km",
+          "Expérience : Technicien de maintenance, AgroProduction Alsace (Colmar) — 14 mois",
+          "Secteur : agroalimentaire",
+          "Activités : maintenance préventive et curative sur lignes de production agroalimentaire, mécanique, entretien préventif, GMAO",
+          "Certification : B1V valable mai 2028"
+        ]
+      },
+      {
+        "candidate_id": "C011",
+        "score": 0.82,
+        "justification": "Bon alignement global avec la mission : Antoine Leroy est basé à Colmar, disponible avant le démarrage (31/03 pour un début au 06/04) et possède une solide expérience en environnement de production agroalimentaire avec 14 mois chez AlsaFoods Colmar. Son profil électromécanique et ses compétences en automatisme/dépannage sont cohérents avec un poste de conducteur de ligne nécessitant autonomie sur les réglages machines. En revanche, le profil ne mentionne pas explicitement d’expérience en conduite de ligne ni la compétence HACCP, seulement une mention “appréciée”, donc ce n’est pas bloquant mais cela limite l’adéquation parfaite. Les habilitations B2V/BR sont valables jusqu’en août 2026, donc couvrent bien la mission de 8 mois sans exclusion légale.",
+        "evidence": [
+          "Disponible dès le 2026-03-31, mission au 2026-04-06",
+          "Localisation : Colmar",
+          "9 ans d'expérience en technicien électromécanique industriel",
+          "Missions récentes : Technicien maintenance — AlsaFoods Colmar — 14 mois",
+          "Spécialités : électricité industrielle BT, automatisme (Siemens S7, Step7), dépannage équipements de production",
+          "Certifications : B2V, BR",
+          "Habilitations : B2V et BR valables août 2026"
+        ]
+      }
+    ],
+    "filtered_out": [
+      {
+        "candidate_id": "C008",
+        "reason": "Indisponible à la date de début de mission (disponible seulement à partir du 2026-05-04 alors que la mission débute le 2026-04-06) et certifications CACES R489 cat.3 et cat.5 expirant le 15/04/2026 pendant la période de mission."
+      },
+      {
+        "candidate_id": "C047",
+        "reason": "Indisponibilité à la date de début de mission : démarrage le 2026-04-06, candidate disponible seulement le 2026-05-04."
+      },
+      {
+        "candidate_id": "C026",
+        "reason": "Indisponibilité au démarrage de mission : la mission commence le 2026-04-06 alors que la candidate est disponible à partir du 2026-05-04."
+      }
+    ]
+  },
+  {
+    "mission_id": "M010",
+    "ranked_candidates": [],
+    "filtered_out": [
+      {
+        "candidate_id": "C026",
+        "reason": "Indisponibilité incompatible avec l’exigence de démarrage immédiat (mission le 2026-03-27, candidat disponible dès le 2026-05-04)."
+      },
+      {
+        "candidate_id": "C003",
+        "reason": "Indisponibilité incompatible avec le démarrage urgent et la disponibilité immédiate exigée (candidat disponible seulement à partir du 2026-05-04)."
+      },
+      {
+        "candidate_id": "C057",
+        "reason": "Exclusion légale/opérationnelle : certification obligatoire R489 catégorie 3 absente (uniquement 1B), et indisponibilité pour le démarrage immédiat demandé aujourd’hui."
+      },
+      {
+        "candidate_id": "C030",
+        "reason": "Indisponible pour la date de début requise (mission le 2026-03-27, candidate disponible à partir du 2026-05-04)."
+      },
+      {
+        "candidate_id": "C001",
+        "reason": "Indisponibilité : la candidate n’est pas disponible à la date de démarrage impérative (mission urgente démarrage aujourd’hui / 2026-03-27, candidate disponible seulement à partir du 2026-05-04)."
+      },
+      {
+        "candidate_id": "C002",
+        "reason": "Certification obligatoire absente (R489 catégorie 3 non détenu) et certification détenue expirée, avec disponibilité incompatible (01/04/2026 au lieu d’un démarrage immédiat)."
+      },
+      {
+        "candidate_id": "C053",
+        "reason": "Disponibilité non immédiate et absence du CACES R489 catégorie 3 obligatoire."
+      },
+      {
+        "candidate_id": "C006",
+        "reason": "Exclusion légale/obligatoire : certification CACES R489 catégorie 3 absente et disponibilité non immédiate (début mission 2026-03-27 alors que le candidat est disponible à partir du 2026-05-04)."
+      },
+      {
+        "candidate_id": "C008",
+        "reason": "Indisponible pour la date de début requise (mission à démarrer aujourd’hui, candidat disponible seulement à partir du 2026-05-04)."
+      },
+      {
+        "candidate_id": "C031",
+        "reason": "Certification obligatoire absente (pas de CACES R489 catégorie 3) et disponibilité incompatible avec un démarrage immédiat le 2026-03-27."
+      }
+    ]
+  }
+]

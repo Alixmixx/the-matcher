@@ -4,4 +4,12 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "anthropic>=0.98.0",
+    "asyncio>=4.0.0",
+    "faiss-cpu>=1.13.2",
+    "numpy>=2.4.4",
+    "openai>=2.34.0",
+    "pydantic>=2.13.3",
+    "python-dotenv>=1.2.2",
+]
