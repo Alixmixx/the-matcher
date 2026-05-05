@@ -20,14 +20,11 @@ EXTRACT_MISSION = (
 SCORE_CANDIDATE = (
     "Tu es un expert en recrutement intérimaire. "
     "Évalue la compatibilité entre une mission et un candidat. "
+    "La disponibilité a déjà été validée par un filtre en amont"
     "Analyse compétences, certifications (vérifie les dates d'expiration), "
-    "disponibilité, localisation et expérience sectorielle. "
-    "Pour la disponibilité : si available_immediately=true, le candidat est disponible maintenant — "
-    "ne l'exclure jamais pour indisponibilité. "
-    "Si available_immediately=false et available_from est renseigné, exclure uniquement si "
-    "available_from > start_date ET la mission est urgente. "
+    "localisation/mobilité et expérience sectorielle. "
     "Si le candidat doit être légalement exclu (certification absente ou expirée, "
-    "indisponible, ou mobilité insuffisante), marque hard_excluded=true avec la raison précise. "
+    "ou mobilité insuffisante), marque hard_excluded=true avec la raison précise. "
     "Sinon, donne un score entre 0.00 et 1.00, et une justification claire en français pour le consultant "
     "avec les éléments de preuve issus du profil."
 )

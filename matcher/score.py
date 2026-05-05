@@ -14,6 +14,21 @@ from matcher.schema import Candidate, Mission
 client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 
+def check_availability(mission: Mission, candidate: Candidate) -> str | None:
+    """check for candidate availability"""
+    if candidate.available_immediately:
+        return None
+    if candidate.available_from is None:
+        return None
+    if candidate.available_from > mission.start_date:
+        return (
+            f"Indisponible au démarrage : disponible à partir du "
+            f"{candidate.available_from.strftime('%d/%m/%Y')}, "
+            f"mission débute le {mission.start_date.strftime('%d/%m/%Y')}"
+        )
+    return None
+
+
 class LLMScore(BaseModel):
     score: float = Field(ge=0.0, le=1.0)
     justification: str
@@ -31,8 +46,7 @@ async def score_candidate(mission: Mission, candidate: Candidate) -> LLMScore:
 - Description : {mission.description}
 
 Candidat {candidate.id} — {candidate.name} :
-- Disponible immédiatement : {candidate.available_immediately}
-- Disponible dès : {candidate.available_from if not candidate.available_immediately else "maintenant"}
+- Disponibilité : {"immédiate" if candidate.available_immediately else candidate.available_from}
 - Localisation : {candidate.location}
 - Certifications : {", ".join(candidate.certs) if candidate.certs else "aucune"}
 - Note agence : {candidate.note}
@@ -60,13 +74,23 @@ Profil complet :
 async def score_mission(
     mission: Mission, candidates: list[Candidate]
 ) -> tuple[list[dict], list[dict]]:
+    # pre-filter on availability
+    to_score: list[Candidate] = []
+    filtered_out: list[dict] = []
+    for c in candidates:
+        reason = check_availability(mission, c)
+        if reason:
+            filtered_out.append({"candidate_id": c.id, "reason": reason})
+        else:
+            to_score.append(c)
+
+    # LLM scores only the not filtered
     scored = await asyncio.gather(
-        *[score_candidate(mission, c) for c in candidates]
+        *[score_candidate(mission, c) for c in to_score]
     )
 
     ranked = []
-    filtered_out = []
-    for candidate, llm_score in zip(candidates, scored):
+    for candidate, llm_score in zip(to_score, scored):
         if llm_score.hard_excluded:
             filtered_out.append({"candidate_id": candidate.id, "reason": llm_score.exclusion_reason})
         else:
