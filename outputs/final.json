@@ -5,94 +5,104 @@
       {
         "candidate_id": "C001",
         "score": 0.98,
-        "justification": "Candidat très compatible avec la mission : elle est disponible immédiatement, localisée à Mulhouse et mobile jusqu’à 20 km, ce qui couvre le site. Le CACES R489 catégorie 3, légalement requis pour ce poste, est bien présent et valide jusqu’en juin 2027. Le CACES catégorie 5 est également valide jusqu’en septembre 2026, ce qui est un plus pour la manutention en grande hauteur. Son expérience récente en tant que cariste grande hauteur à Mulhouse (6 mois en 2025) correspond directement aux tâches de réception, mise en stock et rangement en hauteur. Le rythme 2x8 est aussi mentionné dans ses compétences.",
+        "justification": "Candidat très compatible avec la mission : localisation à Mulhouse, mobilité suffisante (20 km), disponibilité immédiate et expérience directe en entrepôt logistique. Le CACES R489 catégorie 3, légalement requis pour le poste, est bien présent et valide jusqu’en juin 2027. Le CACES catégorie 5 est également valide jusqu’en septembre 2026, ce qui est un atout pour la manutention en grande hauteur. L’expérience récente comme cariste grande hauteur à Mulhouse correspond exactement aux tâches de réception et rangement de marchandises. Le rythme 2x8 est aussi mentionné dans ses compétences.",
         "evidence": [
-          "Localisation : Mulhouse (68) — mobile jusqu’à 20km",
-          "Disponibilité : immédiate",
+          "Localisation : Mulhouse (68) — mobile jusqu'à 20km",
+          "Disponible immédiatement",
           "CACES R489 catégorie 3 — valide jusqu'en juin 2027",
           "CACES R489 catégorie 5 — valide jusqu'en septembre 2026",
           "Expérience : Cariste grande hauteur, Logistrans SA (Mulhouse) — 6 mois 2025",
-          "Missions réalisées : réception, mise en stock, rangement palettes en grande hauteur",
-          "Compétences : conduite d'engins de manutention, respect des règles de sécurité entrepôt, travail en équipe, 2x8"
+          "Missions : Réception, mise en stock, rangement palettes en grande hauteur",
+          "Compétences : Conduite d'engins de manutention, respect des règles de sécurité entrepôt, travail en équipe, 2x8"
+        ]
+      },
+      {
+        "candidate_id": "C026",
+        "score": 0.98,
+        "justification": "Candidature très compatible avec la mission. Valérie Schmitz est localisée à Mulhouse, disponible immédiatement et a déjà travaillé en logistique/cariste à Mulhouse, ce qui correspond au besoin de proximité et au secteur. Elle possède le CACES R489 catégorie 3, obligatoire pour le poste, avec une validité jusqu’en septembre 2027, donc aucune exclusion légale. Son expérience de 5 ans en cariste, ainsi que ses compétences en mise en stock, inventaire, préparation d’expéditions et travail en 2x8, collent bien aux tâches décrites (réception, rangement en grande hauteur, poste en 2x8). Le CACES catégorie 5 est seulement apprécié, donc son absence ne pénalise pas fortement le dossier.",
+        "evidence": [
+          "Localisation : Mulhouse (68) — 15km rayon",
+          "Disponibilité : de suite / immédiate",
+          "Expérience : CARISTE — 5 ans d'expérience",
+          "Expériences en logistique à Mulhouse : Chariotiste — StockLogis (Mulhouse) — 8 mois ; Opérateur de manutention — ProtoServices (Mulhouse) — 6 mois",
+          "Certification obligatoire : Titulaire R489 catégorie 3 — expire septembre 2027",
+          "Compétences : mise en stock, inventaire, préparation expéditions, 2x8"
+        ]
+      },
+      {
+        "candidate_id": "C030",
+        "score": 0.98,
+        "justification": "Profil très compatible avec la mission : Sandrine Leblond est localisée à Mulhouse, disponible immédiatement et mobile sur 25 km, ce qui couvre parfaitement le site de la mission. Elle possède le CACES R489 catégorie 3, légalement requis pour ce poste, ainsi que le CACES catégorie 5 apprécié. Ses autorisations sont valables jusqu’en avril 2027, donc aucune expiration à signaler. Son expérience est directement alignée avec le secteur logistique et le métier de cariste-logisticienne (9 ans), avec des expériences récentes en entrepôt et en conduite de chariots. Le rythme 2x8 est également accepté.",
+        "evidence": [
+          "Localisation : Mulhouse (68) — 25km mobile",
+          "Disponibilité : immédiate",
+          "Certifications : CACES R489 catégories 1B, 3, 5 (valables avril 2027)",
+          "Expérience : CARISTE-LOGISTICIENNE — 9 ans",
+          "Expériences : Responsable petite équipe logistique — TransDis (Mulhouse) ; Chariotiste — StockLogis",
+          "Qualités : 2x8 OK",
+          "Note agence : Très bon profil logistique. À utiliser prioritairement sur missions Mulhouse."
         ]
       },
       {
         "candidate_id": "C003",
         "score": 0.98,
-        "justification": "Profil très compatible avec la mission : Damien Wurtz est basé à Mulhouse, disponible immédiatement et dispose des CACES R489 cat. 3 et 5 requis/valorisés pour un poste de cariste en entrepôt logistique. Son expérience est directement pertinente avec plusieurs missions en logistique/cariste à Mulhouse, incluant conduite de chariot frontal et rétractable, chargement/déchargement et gestion d’emplacements. Les certifications sont à jour jusqu’en juin 2028, donc aucun blocage légal. La mobilité est suffisante (rayon 25 km) et le secteur correspond parfaitement.",
+        "justification": "Profil très compatible avec la mission : Damien Wurtz est basé à Mulhouse, disponible immédiatement et a déjà une expérience directe en logistique/cariste à Mulhouse. Il possède le CACES R489 catégorie 3, obligatoire pour le poste, ainsi que le cat. 5 apprécié pour le rangement en grande hauteur. Les certifications sont à jour jusqu’en juin 2028, donc aucun risque réglementaire. Son expérience en conduite de chariot frontal/rétractable, chargement-déchargement et gestion d’emplacements correspond bien aux tâches décrites.",
         "evidence": [
-          "Lieu candidat : Mulhouse, rayon d'action 25 km",
+          "Localisation : Mulhouse, rayon d'action 25 km",
           "Disponibilité : immédiate",
-          "Certifications : R489 cat. 1B, R489 cat. 3, R489 cat. 5",
-          "Habilitations chariots ... tous valables jusqu'en juin 2028",
           "Expérience : Cariste — LogiRhône Industrie (Mulhouse) — 12 mois",
           "Expérience : Opérateur logistique — Acier Est (Mulhouse) — 6 mois",
-          "Compétences : conduite chariot élévateur frontal et rétractable, chargement/déchargement camions, gestion emplacements, inventaire",
-          "Mission : secteur logistique, poste de cariste en entrepôt à Mulhouse, CACES R489 catégorie 3 obligatoire, cat. 5 apprécié"
+          "Certifications : CACES R489 cat. 1B, 3 et 5 — tous valables jusqu'en juin 2028",
+          "Compétences : conduite chariot élévateur frontal et rétractable, chargement/déchargement camions, gestion emplacements, inventaire"
         ]
       },
       {
-        "candidate_id": "C026",
-        "score": 0.97,
-        "justification": "Profil très compatible avec la mission : Valérie Schmitz est localisée à Mulhouse (68), donc parfaitement adaptée au site, et sa mobilité annoncée couvre 15 km. Elle dispose de 5 ans d’expérience en tant que cariste/chariotiste en environnement logistique, avec des missions directement proches du besoin (mise en stock, inventaire, préparation expéditions, 2x8). Surtout, le CACES R489 catégorie 3, légalement requis pour ce poste, est bien présent et valide jusqu’en septembre 2027. La disponibilité immédiate est cohérente avec l’urgence de la mission. Le CACES catégorie 5 est seulement apprécié, donc son absence n’est pas pénalisante.",
-        "evidence": [
-          "Localisation : Mulhouse (68) — 15km rayon",
-          "Disponible : de suite",
-          "CARISTE — 5 ans d'expérience",
-          "Chariotiste — StockLogis (Mulhouse) — 8 mois",
-          "Opérateur de manutention — ProtoServices (Mulhouse) — 6 mois",
-          "CERTIFICATIONS : Titulaire R489 catégorie 3 — expire septembre 2027",
-          "Compétences : mise en stock, inventaire, préparation expéditions, 2x8"
-        ]
-      },
-      {
-        "candidate_id": "C007",
-        "score": 0.78,
-        "justification": "Profil globalement très adapté à la mission : Claire Houssaye a une expérience directe en logistique/entrepôt avec deux postes de cariste/logisticienne, et ses points forts mentionnent la conduite en grande hauteur et le rangement de palettes, en phase avec la réception et le rangement de marchandises. La certification obligatoire CACES R489 catégorie 3 est bien présente et valide jusqu’en novembre 2027, donc aucun motif d’exclusion légale. La disponibilité est immédiate, ce qui convient à l’urgence. Le seul point de vigilance est la mobilité : elle est basée à Sélestat avec des déplacements possibles jusqu’à 30 km, alors que Mulhouse semble potentiellement au-delà de ce rayon selon la localisation exacte, ce qui peut impacter la faisabilité du trajet quotidien.",
+        "candidate_id": "C008",
+        "score": 0.91,
+        "justification": "Candidat très מתאים pour la mission : expérience directe en logistique/cariste, maîtrise des flux et du travail en 2x8, et certifications requises présentes et valides à la date de début de mission. La mobilité annoncée de 30 km couvre Colmar → Mulhouse (environ 40 km à vol d’oiseau, mais la mission est dans le Haut-Rhin et le profil indique une mobilité limitée ; toutefois la localisation reste proche et le filtre mobilité n’indique pas d’exclusion automatique). Le point de vigilance est la date d’expiration des CACES au 15/04/2026 : ils seront encore valides au démarrage le 30/03/2026, mais expireront pendant la mission si non renouvelés.",
         "evidence": [
           "Mission : CACES R489 catégorie 3 obligatoire, CACES Cat. 5 apprécié",
-          "Candidat : Permis engins de manutention élévateurs à mât rétractable — R489 catégorie 3 — expire novembre 2027",
-          "CV : Sélestat (67) — déplacements possibles jusqu’à 30 km",
-          "CV : Cariste, Super U Distribution Sélestat : 10 mois — renouvelée",
-          "CV : Logisticienne, TransportEst67 : 7 mois — fin de mission normale",
-          "Points forts : conduite en grande hauteur, rangement palettes, polyvalence entrepôt",
+          "Candidat : CACES R489 cat3 valable jusqu’au 15/04/2026, CACES R489 cat5 valable 15/04/2026",
+          "CV : Cariste — AgroAlsace — 9 mois, renouvelé",
+          "CV : Chef de quai — TransEst Colmar — 18 mois (2023-2024)",
+          "CV : Exp encadrement petites équipes (3-4 pers), gestion des flux, inventaires, 2x8",
+          "Localisation : Colmar (68) — mobilité 30km",
           "Disponibilité : immédiate"
-        ]
-      },
-      {
-        "candidate_id": "C046",
-        "score": 0.72,
-        "justification": "Candidat globalement pertinent pour la mission : il dispose du CACES R489 catégorie 3 obligatoire, valide jusqu’en 2027, et d’une expérience solide en logistique/cariste (6 ans) avec des missions en entrepôt. La disponibilité est immédiate, ce qui colle à l’urgence. En revanche, la localisation est moins favorable : Belfort est à environ 35 km de Mulhouse selon le profil, avec une note agence indiquant une mobilité limitée vers l’Alsace centrale. Le CACES catégorie 5 est seulement apprécié, donc son absence n’est pas bloquante.",
-        "evidence": [
-          "Mission logistique à Mulhouse, poste de cariste en entrepôt, CACES R489 catégorie 3 obligatoire, catégorie 5 apprécié.",
-          "Candidat : Martin Dubois, Belfort (90) — 35km, disponibilité immédiate.",
-          "Certifications : CACES R489 catégorie 1B (valable jusqu’en 2027), CACES R489 catégorie 3 (valable jusqu’en 2027).",
-          "Expérience : « Cariste & logistique — 6 ans », « Chariotiste — LogiPark (Belfort) — 10 mois », « Opérateur entrepôt — ProtoStock — 7 mois ».",
-          "Note agence : « Possible pour missions mais géographie moins favorable » / « Peu mobiles vers Alsace central ».",
-          "Aucune certification obligatoire manquante ou expirée."
         ]
       }
     ],
     "filtered_out": [
       {
+        "candidate_id": "C006",
+        "reason": "Aucune certification déclarée alors que la mission exige : CACES R489 cat 3"
+      },
+      {
         "candidate_id": "C053",
         "reason": "Aucune certification déclarée alors que la mission exige : CACES R489 cat 3"
+      },
+      {
+        "candidate_id": "C002",
+        "reason": "Indisponible au démarrage : disponible à partir du 01/04/2026, mission débute le 30/03/2026"
       },
       {
         "candidate_id": "C032",
         "reason": "Aucune certification déclarée alors que la mission exige : CACES R489 cat 3"
       },
       {
+        "candidate_id": "C028",
+        "reason": "Indisponible au démarrage : disponible à partir du 01/04/2026, mission débute le 30/03/2026"
+      },
+      {
         "candidate_id": "C057",
-        "reason": "Certification légalement requise absente : le candidat ne détient pas le CACES R489 catégorie 3 demandé pour le poste."
+        "reason": "Absence du CACES R489 catégorie 3 obligatoire pour la mission (le candidat ne possède que le R489 cat. 1B)."
       },
       {
         "candidate_id": "C031",
-        "reason": "Absence de CACES R489 catégorie 3, certification légalement requise pour la mission."
+        "reason": "Certification légalement requise absente : CACES R489 catégorie 3 non détenu (seulement catégorie 1B)."
       },
       {
         "candidate_id": "C068",
-        "reason": "Certification légalement requise absente : CACES R489 catégorie 3 non détenu (seulement CACES R486)."
+        "reason": "Certification légalement requise absente : CACES R489 catégorie 3 non détenu (le candidat possède uniquement le CACES R486)."
       }
     ]
   },
@@ -102,10 +112,10 @@
       {
         "candidate_id": "C017",
         "score": 0.98,
-        "justification": "Candidat très aligné avec la mission : basé à Strasbourg, mobilité suffisante (30 km), disponible immédiatement et surtout expérience directe en intérim sur un volume comparable à celui demandé. Il a exercé 36 mois chez TempoPro Intérim avec 40-50 recrutements/mois sur des profils logistique/industrie/admin, ce qui correspond très bien au besoin de 40 recrutements/mois principalement industrie/logistique. Il maîtrise aussi un ATS (Talentsoft avancé), exigé par la mission. Aucun élément bloquant n’apparaît.",
+        "justification": "Profil très aligné avec la mission : Olivier Braun est basé à Strasbourg, disponible immédiatement et dispose d’une mobilité de 30 km, ce qui couvre le lieu de la mission. Son expérience la plus pertinente est de 36 mois en agence d’intérim chez TempoPro Intérim, avec un volume de 40 à 50 recrutements par mois sur des profils logistique/industrie/admin, exactement dans la cible de la mission. Il maîtrise Talentsoft en niveau avancé, ce qui répond à l’exigence ATS. Aucun certificat n’est requis pour ce poste et aucune exclusion légale ne s’applique.",
         "evidence": [
-          "Localisation : Strasbourg — mobilité 30km — DISPONIBLE IMMÉDIATEMENT",
-          "Expérience : Chargé de recrutement, TempoPro Intérim (Strasbourg) — 36 mois",
+          "Strasbourg — mobilité 30km — DISPONIBLE IMMÉDIATEMENT",
+          "Chargé de recrutement, TempoPro Intérim (Strasbourg) — 36 mois",
           "Volume : 40-50 recrutements/mois, profils logistique/industrie/admin",
           "Maîtrise du secteur intérim",
           "ATS : Talentsoft (avancé)"
@@ -113,34 +123,36 @@
       },
       {
         "candidate_id": "C018",
-        "score": 0.96,
-        "justification": "Très forte adéquation avec la mission. Camille Engel est basée à Strasbourg, disponible immédiatement et son périmètre de mobilité (15 km maxi) couvre le lieu de mission. Son expérience est directement alignée avec le besoin : 5 ans en recrutement industrie/BTP, recrutement de profils techniques (techniciens, opérateurs, caristes, conducteurs de ligne) et pratique du volume (30-40 profils/mois), ce qui correspond à l’objectif d’environ 40 recrutements mensuels. Elle maîtrise également un ATS, SAP SuccessFactors, exigé dans l’offre. Aucun élément de certification n’est requis pour cette mission, donc pas de motif d’exclusion.",
+        "score": 0.97,
+        "justification": "Très forte adéquation avec la mission : Camille Engel est basée à Strasbourg, disponible immédiatement et dispose de 5 ans d’expérience en recrutement industrie/BTP. Son parcours montre une pratique directe du recrutement volume (30-40 profils/mois), exactement dans la cible de la mission (environ 40 recrutements/mois). Elle recrute déjà des profils techniques proches du besoin (techniciens, opérateurs, caristes, conducteurs de ligne), ce qui correspond bien aux profils industrie et logistique recherchés. La maîtrise d’un ATS est également confirmée avec SAP SuccessFactors. Aucun élément de certification n’est requis pour ce poste, donc pas de motif d’exclusion.",
         "evidence": [
-          "Strasbourg (67) — dispo : immédiate — 15km maxi",
+          "Localisation : Strasbourg (67) — 15km maxi",
+          "Disponibilité : immédiate",
           "5 ans en recrutement industrie et BTP",
-          "Je recrute des profils techniques : techniciens, opérateurs, caristes, conducteurs de ligne.",
-          "Habituée au recrutement volume (30-40 profils/mois).",
-          "ATS SAP SuccessFactors.",
-          "Mission : volume industrie, profils industrie et logistique, maîtrise d’un ATS requise."
+          "Missions : Chargée de recrutement, Automobilia Strasbourg : 14 mois",
+          "Missions : Chargée de recrutement, BTP Construire 67 : 6 mois",
+          "\"Je recrute des profils techniques : techniciens, opérateurs, caristes, conducteurs de ligne.\"",
+          "\"Habituée au recrutement volume (30-40 profils/mois).\"",
+          "ATS SAP SuccessFactors",
+          "Note agence : Profil recrutement BTP/industrie, très opérationnel sur profils techniques"
         ]
       },
       {
         "candidate_id": "C019",
-        "score": 0.86,
-        "justification": "Le candidat correspond très bien au besoin opérationnel : il est basé à Strasbourg, dispose de 6 ans d’expérience en recrutement, avec une expérience directe en intérim et des compétences clés alignées sur la mission (sourcing, entretiens, ATS, reporting). Le volume attendu et la dimension terrain semblent compatibles avec son profil. Aucun certificat n’est requis pour ce poste, donc pas de motif d’exclusion légale. Point de vigilance important toutefois : deux fins de mission anticipées consécutives sont signalées, ce qui justifie un entretien approfondi avant envoi, mais ne constitue pas une exclusion automatique.",
+        "score": 0.82,
+        "justification": "Le candidat correspond bien au besoin principal : il est basé à Strasbourg, a 6 ans d’expérience en recrutement, dont des missions en intérim, et maîtrise les compétences clés demandées (sourcing, entretiens, ATS, reporting). Le volume élevé et l’environnement agence semblent cohérents avec son parcours. En revanche, deux fins de mission anticipées consécutives constituent un point de vigilance important, même si cela ne relève pas d’une exclusion légale. Je recommande un entretien approfondi avant validation finale.",
         "evidence": [
-          "Localisation : Strasbourg — 25km — disponible",
+          "Localisation : Strasbourg — 25km",
           "Expérience : RECRUTEMENT — 6 ans",
-          "Expériences : Chargé de recrutement — IntérimPlus — 4 mois, fin anticipée ; Chargé de recrutement — ServicesPro — 6 mois, fin anticipée",
+          "Expériences récentes : Chargé de recrutement — IntérimPlus — 4 mois, fin anticipée ; Chargé de recrutement — ServicesPro — 6 mois, fin anticipée",
           "Compétences : sourcing, entretiens, ATS, reporting",
-          "Mission : agence d’intérim à Strasbourg, volume industrie/logistique, maîtrise d’un ATS requise",
-          "Aucune certification exigée pour la mission"
+          "Mission : agence d’intérim à Strasbourg, volume ~40 recrutements/mois, maîtrise d’un ATS requise"
         ]
       },
       {
         "candidate_id": "C063",
         "score": 0.78,
-        "justification": "Candidature globalement pertinente pour une mission de chargé(e) de recrutement en intérim à Strasbourg. Francine Keller a 4 ans d’expérience en recrutement intérim, dont 14 mois chez TempAgency à Strasbourg, ce qui correspond bien au secteur et au contexte opérationnel de la mission. Elle maîtrise un ATS (Talentsoft), point requis par l’offre. Sa localisation à Strasbourg (20 km) est compatible avec le poste. En revanche, son expérience volume est un peu en dessous de la cible annoncée : 20–30 recrutements/mois contre environ 40 attendus, et son expérience est sur des profils variés plutôt que spécifiquement industrie/logistique. Cela reste un bon match, sans motif d’exclusion légale.",
+        "justification": "Profil globalement pertinent pour une mission de chargé(e) de recrutement en intérim à Strasbourg. Francine Keller a 4 ans d’expérience en recrutement intérim, dont 14 mois chez TempAgency à Strasbourg, ce qui correspond bien au secteur et à la localisation demandés. Elle maîtrise un ATS (Talentsoft), point requis par la mission. En revanche, son expérience volume est un peu en dessous de l’objectif annoncé : 20–30 recrutements/mois contre environ 40 attendus, et la maîtrise ATS est indiquée comme basique. Cela reste un bon match opérationnel, sans motif d’exclusion légale.",
         "evidence": [
           "Localisation : Strasbourg (67) — 20km",
           "Disponibilité : immédiate",
@@ -148,20 +160,23 @@
           "Chargée recrutement — TempAgency (Strasbourg) — 14 mois, renouvelée",
           "Volume : 20-30 recrutements/mois (moins que cibles), profils variés",
           "ATS : Talentsoft (maîtrise basique)",
-          "Mission : secteur intérim, Strasbourg, gestion annonces/sourcing/entretiens/presentation clients, ATS requis"
+          "Mission : secteur intérim, Strasbourg, gestion des annonces, sourcing, entretiens, présentation clients, ATS requis"
         ]
       },
       {
         "candidate_id": "C054",
-        "score": 0.78,
-        "justification": "Candidat globalement compatible avec la mission : localisation conforme à Strasbourg (20 km), disponibilité immédiate, et expérience en environnement industrie/logistique via une mission d’opérateur logistique. Le poste est opérationnel et orienté volume, ce qui peut convenir à un profil ayant déjà travaillé sur des missions courtes et variées. En revanche, le profil ne mentionne pas d’expérience explicite en recrutement, ni de maîtrise d’un ATS, ce qui est un point de vigilance important pour une mission de chargé(e) de recrutement à fort volume. Le pattern d’instabilité relevé par l’agence (missions courtes, fins anticipées) doit aussi être pris en compte avant envoi.",
+        "score": 0.74,
+        "justification": "Le candidat est géographiquement compatible avec la mission (Strasbourg, 20 km) et disponible immédiatement, ce qui colle avec le démarrage prévu. Le profil montre aussi une exposition au secteur logistique, utile pour une mission de recrutement volume industrie/logistique. En revanche, le CV ne mentionne aucune expérience explicite en recrutement, ni maîtrise d’un ATS, alors que ces éléments sont requis pour la mission. Le point de vigilance principal est la stabilité : 3 missions courtes en 18 mois avec plusieurs fins anticipées, ce qui peut être problématique pour une mission de 3 mois en agence d’intérim à fort volume. Pas de certification obligatoire à vérifier, donc pas d’exclusion légale.",
         "evidence": [
           "Localisation : Strasbourg (67) — 20km",
           "Disponibilité : immédiate",
+          "Mission attendue à Strasbourg, début 2026-04-06",
+          "Profil avec 3 missions courtes en 18 mois",
           "Mission 2 : Opérateur logistique — 2 mois",
-          "Mission : volume attendu ~40 recrutements/mois, profils industrie et logistique",
-          "Description : Maîtrise d'un ATS requise",
-          "Note agence : Profil de stabilité à questionner. Pattern départ rapide."
+          "Remarque agence : Profil de stabilité à questionner. Pattern départ rapide.",
+          "Secteur de la mission : intérim, volume industrie/logistique",
+          "Aucune certification renseignée",
+          "Aucune mention explicite de maîtrise d’un ATS ou d’expérience en recrutement"
         ]
       }
     ],
@@ -172,7 +187,7 @@
       },
       {
         "candidate_id": "C058",
-        "reason": "Indisponible au démarrage : disponible à partir du 20/06/2026, mission débute le 06/04/2026"
+        "reason": "Disponibilité insuffisante : le candidat n’est pas disponible avant le 20/06/2026 alors que la mission démarre le 06/04/2026."
       }
     ]
   },
@@ -181,69 +196,68 @@
     "ranked_candidates": [
       {
         "candidate_id": "C010",
-        "score": 0.98,
-        "justification": "Très forte compatibilité avec la mission. Sofia Patel est localisée à Colmar, avec une mobilité de 30 km, ce qui couvre largement le site. Elle est disponible avant le début de mission (28/03/2026 pour un démarrage au 02/04/2026). Son expérience est directement alignée : 18 mois en maintenance sur lignes de production agroalimentaire chez AlsaFood Industries à Colmar, avec maintenance préventive et curative, mécanique, pneumatique et hydraulique. Les compétences demandées sont présentes, notamment mécanique industrielle et hydraulique. Côté légal, l’habilitation électrique B1V est valide jusqu’en mars 2027, donc conforme à l’exigence B1 minimum ; BR est également valide. Aucun motif d’exclusion légale n’est identifié. La note agence confirme en plus un profil rare, fiable et prioritaire sur les missions maintenance à Colmar.",
+        "score": 0.97,
+        "justification": "Très forte adéquation avec la mission. Sofia Patel est localisée à Colmar, disponible avant le début de mission (28/03/2026 pour un démarrage au 02/04/2026) et dispose d’une mobilité de 30 km, suffisante pour Colmar. Elle possède l’habilitation électrique requise légalement : B1V valide jusqu’en mars 2027, donc conforme à l’exigence B1 minimum. Son expérience est directement pertinente : 18 mois en maintenance sur lignes de production agroalimentaire chez AlsaFood Industries à Colmar, avec maintenance préventive et curative, mécanique, pneumatique et hydraulique. Le profil mentionne aussi une expérience en maintenance industrielle chez AutoPièces Alsace. Aucun motif d’exclusion légale n’est présent. La mission en autonomie et les astreintes possibles sont cohérentes avec son parcours de technicienne confirmée.",
         "evidence": [
           "Localisation : Colmar (68) — mobilité 30km",
           "Disponibilité : 28 mars 2026",
-          "B1V — valide mars 2027",
-          "BR (chargé d'intervention) — valide mars 2027",
-          "18 mois chez AlsaFood Industries (Colmar) en maintenance préventive et curative sur lignes de production agroalimentaire",
-          "Compétences : mécanique générale, hydraulique, pneumatique, lecture plans et schémas",
-          "Note agence : Priorité absolue sur missions maintenance Colmar"
-        ]
-      },
-      {
-        "candidate_id": "C014",
-        "score": 0.96,
-        "justification": "Très bon match pour la mission. Le candidat est localisé à Colmar, avec une mobilité de 20 km, ce qui est compatible avec le site. Il possède l’habilitation électrique B1V requise légalement, valable jusqu’en mai 2028, donc conforme sur le plan réglementaire. Son expérience est directement pertinente : 14 mois comme technicien de maintenance en agroalimentaire à Colmar, avec maintenance préventive et curative sur lignes de production, mécanique et GMAO. Le profil correspond bien à une mission longue durée en autonomie sur équipements de production. Les compétences en hydraulique/automatisme ne sont pas explicitement mentionnées, mais ce n’est pas bloquant au vu du reste du profil.",
-        "evidence": [
-          "Localisation : Colmar (68) — déplacement 20km — disponible de suite",
-          "Certification : Habilitation B1V valable mai 2028",
-          "Expérience : Technicien de maintenance, AgroProduction Alsace (Colmar) — 14 mois",
-          "Missions : maintenance préventive et curative sur lignes de production agroalimentaire",
-          "Compétences mentionnées : mécanique, entretien préventif, GMAO",
-          "Agence : Bon profil, historique client positif"
+          "Certifications : B1V (valide mars 2027), BR (valide mars 2027)",
+          "Mission : habilitation électrique B1 minimum requise légalement",
+          "Expérience : Technicienne de maintenance — AlsaFood Industries (Colmar) — 18 mois",
+          "Maintenance préventive et curative sur lignes de production agroalimentaire",
+          "Compétences clés : maintenance industrielle, mécanique générale, hydraulique, pneumatique, lecture plans et schémas"
         ]
       },
       {
         "candidate_id": "C036",
         "score": 0.96,
-        "justification": "Profil très compatible avec la mission : Gabriel Renaud est basé à Colmar, donc parfaitement localisé pour le site. Il dispose de 11 ans d’expérience en maintenance industrielle, avec des expériences récentes en environnement industriel à Colmar (AlsaChemical) et en textile, ce qui est pertinent pour une mission longue durée en production. Ses compétences couvrent la mécanique, l’hydraulique, le pneumatique et l’automatisme Siemens S5/S7, en ligne avec les besoins du poste. Côté légal, l’habilitation électrique B1V est bien présente et valide jusqu’en juillet 2026, donc couvrant le démarrage du 02/04/2026 et la période initiale de mission ; BR est également valide. Aucun motif d’exclusion légale n’est présent. Seul point de vigilance : le renouvellement des habilitations en juillet 2026 devra être anticipé pour sécuriser la suite de la mission.",
+        "justification": "Très forte compatibilité avec la mission : Gabriel Renaud est basé à Colmar (25 km), ce qui correspond parfaitement au lieu de mission. Son expérience en maintenance industrielle est solide (11 ans), avec des missions pertinentes en environnement proche du secteur recherché, dont 24 mois chez AlsaChemical à Colmar. Les compétences techniques attendues sont bien présentes : mécanique, hydraulique, pneumatique et automatisme Siemens S5/S7. Côté habilitations, il dispose d’une habilitation B1V valide jusqu’en juillet 2026, donc conforme à l’exigence légale B1 minimum pour des interventions électriques BT, ainsi que BR valide. Aucun motif d’exclusion légale n’est identifié. Seul point de vigilance : le renouvellement des habilitations en juillet 2026, à anticiper sur une mission longue durée.",
         "evidence": [
           "Localisation : Colmar (68) — 25km",
-          "Expérience : 11 ans maintenance industrielle",
-          "Expérience récente : Technicien maintenance — AlsaChemical (Colmar) — 24 mois",
+          "11 ans maintenance industrielle",
+          "Technicien maintenance — AlsaChemical (Colmar) — 24 mois",
           "Expertises : mécanique, hydraulique, pneumatique, automatisme Siemens S5/S7",
-          "Certifications : Habilitation B1V valable jusqu’en juillet 2026",
-          "Certifications : Habilitation BR valable jusqu’en juillet 2026",
-          "Mission : début 2026-04-02, durée 12 mois, B1 minimum requis légalement"
+          "Habilitations : B1V et BR valables jusqu'en juillet 2026",
+          "Mission : interventions électriques BT obligatoires, habilitation B1 minimum requise légalement"
+        ]
+      },
+      {
+        "candidate_id": "C014",
+        "score": 0.96,
+        "justification": "Très bon alignement avec la mission : Mounir Benhaddou est basé à Colmar, disponible immédiatement et dispose d’une expérience récente et directement pertinente en maintenance industrielle dans l’agroalimentaire à Colmar (14 mois chez AgroProduction Alsace). Il intervient sur la maintenance préventive et curative de lignes de production, avec des compétences en mécanique et entretien préventif, ce qui correspond bien aux besoins du poste. Côté légal, l’habilitation électrique B1V est bien présente et valide jusqu’en mai 2028, donc conforme à l’exigence minimale B1. La mobilité annoncée (20 km) est cohérente avec le lieu de mission. Seul point non explicitement couvert : l’autonomie complète et les astreintes possibles ne sont pas détaillées, mais cela ne remet pas en cause la compatibilité globale.",
+        "evidence": [
+          "Lieu candidat : Colmar (68) — déplacement 20 km",
+          "Disponibilité : disponible de suite",
+          "Certification : Habilitation B1V valable mai 2028",
+          "Expérience : Technicien de maintenance, AgroProduction Alsace (Colmar) — 14 mois",
+          "Secteur : maintenance sur lignes de production agroalimentaire",
+          "Compétences mentionnées : mécanique, entretien préventif, GMAO"
         ]
       },
       {
         "candidate_id": "C011",
         "score": 0.92,
-        "justification": "Très bon match pour la mission : Antoine Leroy est basé à Colmar, disponible avant le démarrage (31/03/2026 pour un début au 02/04/2026) et possède 9 ans d’expérience en maintenance/électromécanique industrielle. Son profil est particulièrement aligné avec les besoins du site agroalimentaire : maintenance d’équipements de production, électricité industrielle BT, automatisme Siemens S7/Step7 et dépannage. Il a déjà travaillé chez AlsaFoods à Colmar, ce qui renforce la pertinence sectorielle et locale. Point de vigilance : les habilitations B2V et BR sont valables jusqu’en août 2026, donc elles couvrent le début de mission mais devront être renouvelées pour une mission de 12 mois. En revanche, la mission exige légalement une habilitation électrique B1 minimum ; le candidat dispose de B2V/BR, donc l’exigence est couverte.",
+        "justification": "Profil très compatible avec la mission : Antoine Leroy est basé à Colmar, disponible avant le démarrage (31/03/2026 pour un début au 02/04/2026) et possède 9 ans d’expérience en maintenance/électromécanique industrielle, dont une expérience récente en agroalimentaire à Colmar (AlsaFoods, 14 mois). Ses compétences correspondent bien aux besoins du poste : électricité industrielle BT, automatisme Siemens S7/Step7, lecture de schémas électriques et dépannage d’équipements de production. Les habilitations électriques sont valides jusqu’en août 2026, donc présentes et non expirées au démarrage de mission. Point de vigilance : la mission est longue (12 mois) alors que les habilitations expirent en août 2026 ; il faudra prévoir un renouvellement en cours de mission. Malgré cela, le candidat reste très pertinent pour le poste.",
         "evidence": [
           "Localisation : Colmar — jusqu’à 25 km",
           "Disponibilité : 2026-03-31 pour un début mission au 2026-04-02",
           "Expérience : 9 ans en technicien électromécanique industriel",
-          "Missions récentes : Technicien maintenance — AlsaFoods Colmar — 14 mois",
+          "Expérience sectorielle : Technicien maintenance — AlsaFoods Colmar — 14 mois",
           "Compétences : électricité industrielle BT, automatisme Siemens S7/Step7, lecture schémas électriques, dépannage équipements de production",
-          "Certifications : Habilitation B2V valable jusqu’en août 2026, Habilitation BR valable jusqu’en août 2026",
-          "Mission : secteur agroalimentaire à Colmar, interventions électriques BT obligatoires, autonomie sur équipements de production"
+          "Certifications : Habilitation B2V valable jusqu’en août 2026, Habilitation BR valable jusqu’en août 2026"
         ]
       },
       {
         "candidate_id": "C015",
-        "score": 0.89,
-        "justification": "Candidat très pertinent pour la mission : il est localisé à Colmar, donc parfaitement mobile pour le site, et dispose de 10 ans d’expérience en électricité industrielle avec une dernière mission de 20 mois à Colmar, ce qui correspond bien à un environnement industriel et à des interventions sur équipements de production. Ses habilitations électriques B1V et BR couvrent l’exigence légale B1 minimum. En revanche, elles expirent en mai 2026, soit peu après le démarrage de la mission (02/04/2026) : le point de vigilance est majeur pour une mission de 12 mois, car il faudra un renouvellement ou une prise en charge rapide par le client. Secteur agroalimentaire non explicitement mentionné dans le CV, mais l’expérience industrielle et le dépannage BT sont cohérents avec le besoin.",
+        "score": 0.88,
+        "justification": "Candidat très pertinent pour la mission : il est localisé à Colmar, donc mobilité parfaitement adaptée au site, et dispose de 10 ans d’expérience en électricité industrielle avec une dernière mission de 20 mois à Colmar. Son profil correspond bien aux besoins de maintenance industrielle avec interventions électriques BT, et il a déjà travaillé sur du dépannage BT, du câblage industriel et de l’automatisme. En revanche, point de vigilance majeur : ses habilitations B1V et BR sont valables seulement jusqu’en mai 2026, alors que la mission démarre le 02/04/2026 pour 12 mois. Elles couvriront donc le début de mission mais expireront en cours de mission, ce qui devra être anticipé avec le client.",
         "evidence": [
           "Localisation : Colmar (68) — 30km — dispo immédiate",
-          "Certifications : Habilitation électrique B1V (valable jusqu’en mai 2026), Habilitation électrique BR (valable jusqu’en mai 2026)",
-          "Expérience : Technicien électricité industrielle — 10 ans d'expérience",
+          "Technicien électricité industrielle — 10 ans d'expérience",
           "Dernière mission : AutoElsace (Colmar) — 20 mois",
-          "Spécialité : câblage industriel, Schneider Electric, automatisme Zelio, dépannage BT"
+          "Spécialité : câblage industriel, Schneider Electric, automatisme Zelio, dépannage BT",
+          "Habilitations électriques : B1V et BR — valables jusqu'en mai 2026",
+          "Mission : interventions électriques BT obligatoires, habilitation B1 minimum requise légalement"
         ]
       }
     ],
@@ -253,16 +267,24 @@
         "reason": "Indisponible au démarrage : disponible à partir du 01/05/2026, mission débute le 02/04/2026"
       },
       {
+        "candidate_id": "C034",
+        "reason": "Aucune certification déclarée alors que la mission exige : Habilitation B1V"
+      },
+      {
+        "candidate_id": "C033",
+        "reason": "Indisponible au démarrage : disponible à partir du 01/05/2026, mission débute le 02/04/2026"
+      },
+      {
         "candidate_id": "C013",
-        "reason": "Habilitation électrique B1V expirée, alors que la mission exige légalement une habilitation B1 valide pour des interventions électriques BT."
+        "reason": "Habilitation électrique B1V expirée en novembre 2025 alors que la mission impose légalement une habilitation B1 valide pour interventions électriques BT."
       },
       {
         "candidate_id": "C052",
-        "reason": "Certification électrique légalement requise absente : le candidat ne possède pas l’habilitation B1 minimum demandée pour les interventions électriques BT (seulement B2V, sans BR)."
+        "reason": "Habilitation électrique insuffisante : B1 minimum requis pour la mission, candidat uniquement B2V sans BR."
       },
       {
         "candidate_id": "C012",
-        "reason": "Certification électrique légalement requise absente : B1 minimum demandé, candidat limité à B0 uniquement."
+        "reason": "Certification électrique légalement requise absente : B1 minimum demandé par la mission, candidat limité à B0 uniquement."
       }
     ]
   },
@@ -271,71 +293,70 @@
     "ranked_candidates": [
       {
         "candidate_id": "C005",
-        "score": 0.93,
-        "justification": "Très bonne adéquation avec la mission : Marc Bauer est basé à Freiburg, à proximité de Saint-Louis, avec une mobilité annoncée de 50 km compatible avec le secteur transfrontalier. Son allemand est natif et son français est courant, ce qui répond pleinement à l’exigence de maîtrise professionnelle de l’allemand pour des échanges quotidiens avec des collègues et fournisseurs germanophones. Son parcours est fortement orienté logistique (adjoint responsable logistique, opérateur logistique senior) avec des compétences pertinentes en gestion de stocks, coordination d’équipes, import/export et optimisation des flux, très cohérentes avec une plateforme logistique franco-allemande. Le CACES R489 catégorie 3 est valide jusqu’en 2029, donc aucun blocage réglementaire. Seul bémol : le profil semble un peu senior/surdimensionné pour un poste d’agent opérateur, et les attentes salariales restent à valider, mais cela n’affecte pas la compatibilité métier.",
+        "score": 0.92,
+        "justification": "Très bonne adéquation avec la mission : Marc Bauer est basé à Freiburg, à proximité de Saint-Louis, avec une mobilité annoncée de 50 km compatible avec le secteur frontalier. Il dispose d’une expérience solide en logistique (36 mois au total) incluant coordination d’équipes, gestion de stocks, import/export et optimisation des flux, ce qui correspond bien à un poste d’agent logistique transfrontalier. Le critère clé de la mission est la maîtrise de l’allemand à un niveau professionnel : il est germanophone natif et parle français courant, ce qui est idéal pour des interactions quotidiennes avec collègues et fournisseurs germanophones. Le CACES est présent et valide jusqu’en 2029, donc aucun blocage réglementaire. Seul bémol : le profil est plutôt senior et potentiellement sur-dimensionné pour un poste purement opérateur, mais cela n’empêche pas une forte compatibilité globale.",
         "evidence": [
-          "Localisation : Freiburg (DE), mobilité 50 km",
+          "Localisation : Freiburg (DE) — mobilité 50 km",
           "Langues : allemand (langue maternelle), français (courant), anglais (professionnel)",
-          "Expérience : Adjoint responsable logistique — PharmaDist GmbH (Freiburg) — 24 mois",
-          "Expérience : Opérateur logistique senior — AutoParts Rhein (Freiburg) — 12 mois",
+          "Expérience : Adjoint responsable logistique — PharmaDist GmbH (24 mois)",
+          "Expérience : Opérateur logistique senior — AutoParts Rhein (12 mois)",
           "Compétences : gestion de stocks, coordination équipes, import/export, optimisation flux",
-          "Certification : CACES R489 catégorie 3, valide jusqu’en 2029"
+          "Certification : CACES R489 catégorie 3, valide 2029"
         ]
       },
       {
         "candidate_id": "C027",
         "score": 0.84,
-        "justification": "Candidat globalement très pertinent pour une mission logistique transfrontalière à Saint-Louis. Il dispose de 7 ans d’expérience en logistique, dont des postes de chariotiste et d’agent logistique en zone frontalière Kehl/Offenburg, ce qui correspond bien à l’environnement franco-allemand recherché. Ses certifications R489 cat. 1B et 3 sont valides jusqu’en 2028, donc aucun blocage réglementaire. La maîtrise de l’allemand est présente et adaptée à des échanges professionnels quotidiens, avec en plus le français conversationnel. Le seul point de vigilance est la localisation : il réside à Kehl avec une mobilité annoncée de 35 km, ce qui rend Saint-Louis/Mulhouse plus éloigné et potentiellement moins confortable sur la durée, comme le note l’agence. Cela n’exclut pas le candidat, mais réduit légèrement l’adéquation.",
+        "justification": "Candidat globalement très compatible avec la mission : il possède 7 ans d’expérience en logistique, dont des postes d’agent logistique et de chariotiste en environnement transfrontalier (Kehl/Offenburg), ce qui correspond bien au contexte franco-allemand de Saint-Louis. Ses certifications R489 cat. 1B et 3 sont valides jusqu’en 2028, donc aucun blocage réglementaire. La mobilité transfrontalière est indiquée comme OK et la localisation à Kehl reste cohérente avec une mission à Saint-Louis, même si la note agence signale une mobilité vers Mulhouse moins certaine sur le long terme. Point de vigilance : le poste exige un allemand à niveau professionnel, alors que le profil mentionne seulement un allemand sans précision de niveau et un français conversationnel ; cela reste le principal écart à confirmer en entretien.",
         "evidence": [
-          "Kehl (DE) — mobilité 35km",
-          "Expérience logistique — 7 ans",
+          "7 ans d’expérience logistique",
           "Agent logistique — DistribRhein (Kehl) — 9 mois",
           "Chariotiste — LogisHub Offenburg — 10 mois",
           "Autorisations de conduite : R489 cat. 1B et 3 valables jusqu'en 2028",
           "Langues : espagnol, allemand, français (conversationnel)",
-          "Mobilité transfrontalière OK (vécu en zone Kehl/Strasbourg)"
+          "Mobilité transfrontalière OK (vécu en zone Kehl/Strasbourg)",
+          "Localisation : Kehl (DE) — mobilité 35km"
         ]
       },
       {
         "candidate_id": "C053",
-        "score": 0.78,
-        "justification": "Candidat globalement pertinent pour une mission logistique transfrontalière à Saint-Louis : il est basé à Mulhouse (68), donc proche du site, et dispose d’une solide expérience en logistique/supply chain (12 ans), avec des missions de responsable logistique et chef de quai, ainsi que de l’import/export et de la négociation fournisseurs. En revanche, le profil ne mentionne aucune maîtrise de l’allemand, alors que la mission exige un niveau professionnel pour des interactions quotidiennes ; c’est le principal point de vigilance. Le CACES est apprécié mais non obligatoire, donc l’absence de certification n’est pas bloquante. Le profil est aussi noté comme surqualifié pour un poste d’agent, mais cela relève davantage de l’adéquation de niveau que d’une exclusion.",
+        "score": 0.74,
+        "justification": "Le candidat est globalement pertinent pour une mission logistique transfrontalière : il est basé à Mulhouse (68), donc proche de Saint-Louis, et dispose d’une solide expérience en logistique (12 ans), avec des fonctions de responsable logistique et chef de quai. Son parcours mentionne aussi l’import/export et la négociation fournisseurs, ce qui colle bien à un environnement franco-allemand. En revanche, aucun élément du profil ne confirme la maîtrise de l’allemand au niveau professionnel, qui est un critère central de la mission. Le CACES n’est pas obligatoire, donc l’absence de certification n’est pas bloquante. Le profil semble plutôt surqualifié pour un poste d’agent, mais cela n’empêche pas une bonne adéquation fonctionnelle si le niveau de rémunération et le périmètre sont cohérents.",
         "evidence": [
-          "Mulhouse (68) — 25km",
+          "Mulhouse (68) — 25km de Saint-Louis (68)",
           "Responsable logistique senior — 12 ans",
           "Responsable logistique — SupplyChain Corp (Mulhouse) — 24 mois",
           "Chef de quai — LogisHub — 8 mois",
-          "Management équipe, optimisation flux, import/export, negociation fournisseurs.",
-          "Certifications : aucune",
-          "Description mission : maîtrise de l'allemand à un niveau professionnel (interactions quotidiennes)"
+          "Management équipe, optimisation flux, import/export, negociation fournisseurs",
+          "Note agence : Profil SURQUALIFIÉ pour poste cariste opérateur. À proposer uniquement chef quai/responsable logistique.",
+          "Aucune certification indiquée ; CACES apprécié mais non obligatoire"
         ]
       },
       {
         "candidate_id": "C030",
         "score": 0.72,
-        "justification": "Profil globalement compatible avec la mission : Sandrine Leblond a 9 ans d’expérience en logistique, dont des postes de cariste-logisticienne et responsable petite équipe logistique, ce qui correspond bien à un environnement de plateforme logistique. Elle est basée à Mulhouse (68), donc géographiquement proche de Saint-Louis (68) et mobile sur 25 km, ce qui reste cohérent pour la mission. Ses CACES R489 1B, 3 et 5 sont valables jusqu’en avril 2027, donc aucun blocage réglementaire côté manutention. En revanche, le poste exige un allemand professionnel pour des interactions quotidiennes, et le profil ne mentionne aucune compétence linguistique en allemand ni expérience explicitement franco-allemande. Cela réduit nettement l’adéquation, sans toutefois justifier une exclusion légale.",
+        "justification": "Profil logistique solide et immédiatement disponible, avec une bonne proximité géographique pour Saint-Louis (Mulhouse, 25 km mobile). Les CACES R489 1B/3/5 sont valables jusqu’en avril 2027, donc conformes si la mission les valorise. En revanche, le point clé de la mission est la maîtrise de l’allemand à un niveau professionnel, et aucun élément du CV ne mentionne cette compétence. L’expérience en environnement franco-allemand n’est pas démontrée non plus. Le candidat est donc pertinent sur le volet logistique, mais l’adéquation reste partielle faute de preuve sur la langue.",
         "evidence": [
-          "Mulhouse (68) — 25km mobile",
+          "Localisation : Mulhouse (68), 25 km mobile",
           "Disponible immédiatement",
-          "CARISTE-LOGISTICIENNE — 9 ans",
+          "9 ans d’expérience en logistique",
           "Responsable petite équipe logistique — TransDis (Mulhouse) — 14 mois",
           "Autorisations : R489 cats 1B, 3, 5 valables avril 2027",
-          "Mission : maîtrise de l'allemand à un niveau professionnel",
-          "Profil : aucune mention de l'allemand ou d'une expérience franco-allemande"
+          "Qualités : fiabilité, ponctualité, travail équipe, gestion inventaires"
         ]
       },
       {
-        "candidate_id": "C008",
-        "score": 0.72,
-        "justification": "Profil globalement pertinent pour la mission : Laurent Faure a une expérience solide en logistique (chef de quai 18 mois, cariste 9 mois), avec gestion des flux, inventaires et travail en 2x8, ce qui correspond bien à un poste d’agent logistique. Sa localisation à Colmar et sa mobilité de 30 km le rendent compatible avec Saint-Louis (68). En revanche, le point bloquant est l’absence de preuve de maîtrise de l’allemand à un niveau professionnel, alors que la mission l’exige explicitement pour des interactions quotidiennes. Les CACES sont bien présents et encore valables à la date de début de mission (06/04/2026), donc pas d’exclusion légale sur ce point, même s’ils expirent peu après (15/04/2026).",
+        "candidate_id": "C003",
+        "score": 0.42,
+        "justification": "Profil solide pour la partie logistique : Damien Wurtz a une expérience récente en cariste/opérateur logistique, avec plusieurs CACES R489 à jour jusqu’en juin 2028, ce qui est un vrai atout pour une plateforme logistique. En revanche, la mission demande un allemand de niveau professionnel pour des échanges quotidiens avec des interlocuteurs germanophones, et le profil ne mentionne aucune compétence linguistique en allemand ni expérience explicitement franco-allemande. La localisation est acceptable : Mulhouse est dans un rayon d’action de 25 km et Saint-Louis reste cohérent géographiquement. Le CACES étant seulement apprécié, il ne bloque pas le dossier.",
         "evidence": [
-          "Colmar (68) — mobilité 30km",
-          "Chef de quai — TransEst Colmar — 18 mois (2023-2024)",
-          "Cariste — AgroAlsace — 9 mois",
-          "Exp encadrement petites équipes (3-4 pers), gestion des flux, inventaires, 2x8",
-          "CACES R489 cat. 3 valable jusqu’au 15/04/2026",
-          "CACES R489 cat. 5 valable le 15/04/2026",
-          "Mission : maîtrise de l'allemand à un niveau professionnel (interactions quotidiennes avec collègues et fournisseurs germanophones)"
+          "Mulhouse — rayon d'action : 25 km",
+          "Cariste — LogiRhône Industrie (Mulhouse) — 12 mois",
+          "Opérateur logistique — Acier Est (Mulhouse) — 6 mois",
+          "Habilitations chariots : R489 cat. 1B, 3 et 5 — tous valables jusqu'en juin 2028",
+          "Ce que je fais : conduite chariot élévateur frontal et rétractable, chargement/déchargement camions, gestion emplacements, inventaire",
+          "Mission : maîtrise de l'allemand à un niveau professionnel (interactions quotidiennes avec collègues et fournisseurs germanophones)",
+          "Profil complet ne mentionne aucune compétence en allemand ni expérience franco-allemande"
         ]
       }
     ],
@@ -347,6 +368,14 @@
       {
         "candidate_id": "C062",
         "reason": "Indisponible au démarrage : disponible à partir du 05/05/2026, mission débute le 06/04/2026"
+      },
+      {
+        "candidate_id": "C018",
+        "reason": "Mobilité insuffisante (15 km maxi depuis Strasbourg pour une mission à Saint-Louis) et absence de compétence allemande professionnelle indispensable."
+      },
+      {
+        "candidate_id": "C057",
+        "reason": "Mobilité insuffisante : candidat limité à 5 km autour de Mulhouse, incompatible avec une mission à Saint-Louis (68)."
       }
     ]
   },
@@ -356,48 +385,45 @@
       {
         "candidate_id": "C023",
         "score": 0.96,
-        "justification": "Très bonne adéquation avec la mission d’assistant(e) administratif(ve) RH à Strasbourg. Le profil couvre précisément le périmètre demandé : administration du personnel, DPAE, suivi des contrats, gestion des congés/absences et préparation paie basique. L’expérience est directement en RH/admin, avec 15 mois cumulés sur des postes pertinents, et la candidate est décrite comme discrète, rigoureuse et adaptée aux PME, ce qui correspond bien à la sensibilité confidentialité du poste. La localisation est idéale (Strasbourg, 15 km). Aucun élément bloquant n’apparaît : pas de certification requise pour cette mission et aucune contrainte de mobilité insuffisante.",
+        "justification": "Très bonne adéquation avec la mission d’assistant(e) administratif(ve) RH à Strasbourg. Le profil montre une expérience directement alignée sur le périmètre demandé : administration du personnel, DPAE, suivi des contrats, gestion des congés/absences et préparation de paie basique. La candidate est localisée à Strasbourg (15 km), ce qui correspond parfaitement au besoin géographique. Le contexte PME et la dimension confidentialité sont également cohérents avec son profil, décrit comme discret, rigoureux et habitué aux environnements PME. Aucun élément bloquant n’apparaît.",
         "evidence": [
-          "Lieu mission : Strasbourg ; candidate localisée à Strasbourg, 15 km",
+          "Localisation : Strasbourg — 15km — disponible",
           "Expérience : Assistante RH — ConsultServices — 10 mois, renouvelée",
           "Expérience : Admin du personnel — Grande Distrib'Est — 5 mois, fin normale",
           "Compétences déclarées : administration du personnel, DPAE, suivi des contrats, gestion congés/absences, préparation paie basique",
-          "Profil : discrète, rigoureuse, habituée aux environnements PME",
-          "Certifications : aucune (aucune certification exigée dans la mission)"
+          "Profil : Discrète, rigoureuse, habituée aux environnements PME",
+          "Note agence : Candidate sérieuse et discrète. Bien adaptée PME"
+        ]
+      },
+      {
+        "candidate_id": "C045",
+        "score": 0.94,
+        "justification": "Candidature très bien alignée avec la mission : Sylvie Lambert est basée à Strasbourg, avec une mobilité limitée mais compatible avec un poste à Strasbourg. Elle dispose de 8 ans d’expérience en assistanat RH/admin, dont une expérience récente en PME services à Strasbourg (14 mois renouvelés), ce qui correspond au secteur et au contexte de la mission. Ses missions passées couvrent précisément les tâches demandées : DPAE, contrats de travail, suivi des congés/absences, onboarding et paie basique, avec une sensibilité à la confidentialité cohérente avec un poste RH. Aucun certificat n’est requis pour cette mission et aucune certification n’est mentionnée comme obligatoire ou expirée.",
+        "evidence": [
+          "Localisation : Strasbourg (67)",
+          "Mobilité : 10km max (secteur Strasbourg strict)",
+          "Assistante RH & admin — 8 ans",
+          "Assistante administrative RH — PME Services (Strasbourg) — 14 mois, renouvelée",
+          "Tâches : DPAE, contrats, congés, paie basique, onboarding",
+          "Secteur : services"
         ]
       },
       {
         "candidate_id": "C039",
         "score": 0.93,
-        "justification": "Candidat très compatible avec la mission : Muriel Lafleur est basée à Strasbourg (20 km), donc la mobilité/localisation est parfaitement adaptée au poste. Son expérience est directement alignée avec le périmètre RH demandé : 5 ans comme assistante RH, avec des missions explicites d’onboarding, DPAE, suivi des contrats et gestion des congés, ce qui couvre l’administration du personnel, les contrats de travail, les absences/congés et l’intégration. La sensibilité à la paie est un plus, mais son profil indique clairement qu’elle n’a pas de paie directe, donc ce point est seulement partiellement couvert. Aucun certificat n’est requis pour ce poste et aucune exclusion légale ne s’applique.",
+        "justification": "Candidat très compatible avec la mission. Le profil correspond bien au besoin d’assistant(e) administratif(ve) RH : 5 ans d’expérience en RH, avec des missions directement alignées sur le poste (onboarding, DPAE, suivi des contrats, gestion des congés). La localisation est idéale pour Strasbourg (20 km), donc la mobilité est suffisante. Le secteur services est cohérent avec une PME tertiaire. Point de vigilance : la paie n’est pas réellement couverte, alors qu’elle est seulement appréciée et non indispensable, donc cela ne pénalise pas fortement le matching. Aucune certification n’est requise ni manquante/expirée.",
         "evidence": [
           "Localisation : Strasbourg (67) — 20km",
-          "Disponibilité : immédiate",
           "Assistante RH — 5 ans",
-          "Assistante RH — LogiEst (Strasbourg) — 10 mois, renouvelée",
           "Ce que je fais : onboarding, DPAE, suivi contrats, gestion congés.",
-          "Pas de paie directe.",
-          "Bureautique : Word, Excel, logiciels RH."
-        ]
-      },
-      {
-        "candidate_id": "C045",
-        "score": 0.93,
-        "justification": "Candidature très compatible avec la mission : Sylvie Lambert est basée à Strasbourg, disponible immédiatement et possède 8 ans d’expérience en assistanat RH/admin, dont une expérience récente en PME services à Strasbourg. Son profil couvre précisément les tâches demandées (DPAE, contrats, congés/absences, onboarding) et mentionne une sensibilité à la paie basique, ce qui correspond à l’attendu. Le secteur services est également cohérent avec son expérience. Point de vigilance : mobilité très limitée à 10 km, mais la mission est à Strasbourg, donc la localisation reste compatible.",
-        "evidence": [
-          "Localisation : Strasbourg (67)",
-          "Disponibilité : immédiate",
-          "Assistante RH & admin — 8 ans",
-          "Assistante administrative RH — PME Services (Strasbourg) — 14 mois, renouvelée",
-          "Tâches : DPAE, contrats, congés, paie basique, onboarding",
-          "Mobilité : 10km max (secteur Strasbourg strict)",
-          "Note agence : Sérieuse candidate assistant RH mais rayon très limité à Strasbourg centre"
+          "Assistante RH — LogiEst (Strasbourg) — 10 mois, renouvelée",
+          "Note agence : Candidate sérieuse assistant RH. Paie pas vraiment couverte."
         ]
       },
       {
         "candidate_id": "C022",
         "score": 0.92,
-        "justification": "Candidature très compatible avec la mission : Yasmine Hadj est Assistante RH avec 3 ans d’expérience, basée à Strasbourg et mobile 15 km, ce qui couvre parfaitement le besoin local. Son expérience récente chez LogiEst inclut l’onboarding, la gestion administrative du personnel et la préparation des éléments de paie, en ligne avec le périmètre demandé (administration du personnel, contrats, DPAE, absences/congés, onboarding). La sensibilité à la paie est présente, même si encore légère, ce qui correspond à un atout apprécié mais non indispensable. Aucun élément de certification n’est requis pour ce poste et aucune exclusion légale ne s’applique.",
+        "justification": "Candidature très adaptée à la mission d’assistant(e) administratif(ve) RH à Strasbourg. Yasmine Hadj dispose de 3 ans d’expérience en assistanat RH, avec une expérience récente chez LogiEst à Strasbourg incluant l’onboarding, la gestion administrative du personnel et la préparation des éléments de paie, ce qui correspond directement au périmètre demandé (contrats, DPAE, absences/congés, onboarding). Sa localisation à Strasbourg et sa mobilité de 15 km sont compatibles avec le lieu de mission. Aucun certificat n’est requis pour ce poste et aucune exclusion légale n’est identifiée. Point de vigilance mineur : la paie est encore légère, mais cela reste cohérent avec une mission où la sensibilité paie est seulement appréciée.",
         "evidence": [
           "Strasbourg — mobile 15km — disponible maintenant",
           "Assistante RH — 3 ans d'expérience",
@@ -408,23 +434,23 @@
         ]
       },
       {
-        "candidate_id": "C065",
-        "score": 0.91,
-        "justification": "Candidature très compatible avec la mission. Louise Derain est basée à Strasbourg à 15 km, donc la localisation est idéale pour un poste en présentiel sur Strasbourg. Son expérience de 3 ans en paie & RH, dont une expérience d’assistante RH & paie en PME à Strasbourg, correspond bien à un environnement de services et à un poste administratif RH. Elle maîtrise des tâches directement liées au besoin : DPAE, congés, DSN, bulletins standards, et a déjà travaillé sur une paie d’environ 100 salariés avec ADP et Excel. La sensibilité à la paie demandée est donc bien couverte. Aucun élément de certification n’est requis ni manquant, et aucune mobilité insuffisante n’est identifiée.",
+        "candidate_id": "C020",
+        "score": 0.92,
+        "justification": "Céline Muller correspond très bien au besoin : elle est localisée à Strasbourg, avec une mobilité de 20 km, et son expérience couvre directement l’administration RH recherchée (DPAE, contrats de travail, mutuelle/prévoyance, gestion des absences). Elle a aussi une forte sensibilité paie, ce qui est un plus pour ce poste. Son parcours en paie et en RH/admin dans le BTP et l’industrie apporte une bonne autonomie sur les sujets administratifs et confidentiels. Aucun élément bloquant n’apparaît.",
         "evidence": [
-          "Localisation : Strasbourg (67) — 15km",
-          "3 ans en paie & RH",
-          "Assistante RH & paie — PME (Strasbourg) — 6 mois",
-          "Compétences : DSN, bulletins standards, DPAE, congés",
-          "Paie de ~100 salariés, logiciels ADP et Excel",
-          "Note agence : Junior-mid paie profile. Autonome sur dossiers 100-150 salariés. À proposer missions paie <200 pers."
+          "Localisation : Strasbourg (67) — mobilité 20km",
+          "Expérience Chargée RH/admin — BTP Construction 67 — 9 mois : DPAE, contrats de travail, mutuelle/prévoyance, gestion des absences",
+          "Gestionnaire de paie — 6 ans",
+          "Paie de 180 salariés, bulletins complexes, gestion des variables, DSN mensuelle",
+          "Logiciels : ADP Decidium (maîtrise), DPAE en ligne, DSN-Val",
+          "Note agence : Très bonne candidate paie. Autonome sur bulletins complexes"
         ]
       }
     ],
     "filtered_out": [
       {
-        "candidate_id": "C058",
-        "reason": "Indisponible au démarrage : disponible à partir du 20/06/2026, mission débute le 20/04/2026"
+        "candidate_id": "C043",
+        "reason": "Indisponible au démarrage : disponible à partir du 01/05/2026, mission débute le 20/04/2026"
       }
     ]
   },
@@ -434,13 +460,12 @@
       {
         "candidate_id": "C047",
         "score": 0.98,
-        "justification": "Très forte adéquation avec la mission : Carole Schuh est localisée à Colmar, disponible immédiatement et possède 8 ans d’expérience en production agroalimentaire. Son parcours montre une expérience directe sur ligne de production (Opératrice de ligne chez DairyProducts) ainsi qu’en contrôle qualité en agroalimentaire, avec une pratique habituelle du 3x8. La certification HACCP est bien présente et aucune date d’expiration n’est indiquée, donc pas de motif d’exclusion. Le poste ne պահանջant pas de CACES, il n’y a pas de frein réglementaire. Profil très pertinent pour un renfort immédiat en production.",
+        "justification": "Très forte adéquation avec la mission : Carole Schuh est localisée à Colmar (68), donc parfaitement mobile pour le site de Colmar, et sa disponibilité immédiate couvre le besoin de renfort rapide. Son expérience est directement alignée avec le poste, avec 8 ans en production agroalimentaire, dont une expérience d’opératrice de ligne chez DairyProducts à Colmar et une mission de contrôle qualité en agroalimentaire. Elle maîtrise le travail en 3x8, ce qui correspond exactement au rythme demandé. La certification HACCP est bien présente et aucune date d’expiration n’est indiquée, donc pas de motif d’exclusion. Profil très pertinent pour une mission d’opérateur de production agroalimentaire.",
         "evidence": [
-          "Localisation : Colmar (68) — 20km",
-          "Disponibilité : immédiate",
+          "Localisation : Colmar (68) — 20km — dispo immédiate",
           "Production agroalimentaire — 8 ans",
           "Opératrice de ligne — DairyProducts (Colmar) — 12 mois, renouvelée",
-          "Contrôleuse qualité — AgroFactory — 6 mois",
+          "Contrôleuse qualité — AgroFactory — 6 mois, fin mission",
           "HACCP certifiée",
           "Travail 3x8 habituelle",
           "Note agence : Bon profil agroalimentaire. Expérience ligne. À proposer sur missions production."
@@ -449,7 +474,7 @@
       {
         "candidate_id": "C040",
         "score": 0.96,
-        "justification": "Très bon match pour une mission d’opérateur de production en agroalimentaire à Colmar. Le candidat est localisé à Colmar (68), donc la mobilité est pleinement compatible avec le site. Son expérience est directement pertinente : 9 ans en agent de production agroalimentaire, avec des missions récentes en production chez AlsaBrew (brasserie) et FrozenFood (Colmar), ce qui confirme une pratique du secteur agroalimentaire/industrie. Il est également à l’aise avec le travail posté 2x8/3x8, ce qui correspond au poste en 3x8. Les connaissances HACCP sont présentes, ce qui est un plus demandé par la mission. Aucun CACES n’est requis, donc l’absence de certification n’est pas bloquante. La disponibilité a déjà été validée en amont.",
+        "justification": "Très bon match pour une mission d’opérateur de production en agroalimentaire à Colmar. Le candidat est localisé à Colmar (68), donc la mobilité est parfaitement adaptée au site. Son expérience est directement pertinente : 9 ans en agent de production agroalimentaire, avec des missions chez FrozenFood (Colmar) et AlsaBrew (brasserie), ce qui montre une exposition concrète à des environnements industriels/agroalimentaires. Il maîtrise le travail posté 2x8/3x8, ce qui correspond exactement au poste en 3x8. Il possède en plus des connaissances HACCP et un contrôle qualité basique, deux atouts explicitement utiles pour la mission. Aucun CACES n’est requis, donc l’absence de certification n’est pas bloquante. Seul point de vigilance : la disponibilité du champ résumé est indiquée à None, mais le profil complet mentionne « disponible » et la disponibilité a déjà été validée en amont.",
         "evidence": [
           "Localisation : Colmar (68) — 15km — disponible",
           "Agent de production agroalimentaire — 9 ans",
@@ -464,50 +489,55 @@
       {
         "candidate_id": "C024",
         "score": 0.96,
-        "justification": "Très forte adéquation avec la mission : Christelle Haas est localisée à Colmar (15 km), disponible immédiatement et possède 10 ans d’expérience en agroalimentaire, dont des postes de conductrice de ligne et d’opératrice de production. Le poste demandé est en 3x8 sur ligne de production, ce qui correspond à son expérience déclarée (travail posté 2x8 / 3x8). Elle connaît également les bases HACCP, ce qui est un plus pour la mission. Aucun CACES n’est requis, donc l’absence de certification n’est pas bloquante. La note agence confirme une référence sur des missions de conduite de ligne agroalimentaire sur le secteur de Colmar.",
+        "justification": "Candidat très compatible avec la mission : localisation idéale à Colmar, disponibilité immédiate, et expérience solide en agroalimentaire/industrie avec 10 ans sur des postes de conduite de ligne et d’opératrice de production. Le profil mentionne explicitement le travail posté en 2x8/3x8, les réglages de base, le contrôle qualité en cours de fabrication et des connaissances HACCP, ce qui correspond bien aux attentes du poste sur ligne de production. Aucun CACES n’est requis, donc l’absence de certification n’est pas bloquante. Seul léger écart : le poste est intitulé opérateur de production alors que le profil est davantage orienté conduite de ligne, mais cela reste très proche et valorisable.",
         "evidence": [
-          "Localisation : Colmar (68) — 15km",
-          "Disponibilité : immédiate",
+          "Localisation : Colmar (68) — 15km — disponible de suite",
           "Conductrice de ligne agroalimentaire — 10 ans",
           "EXP : Conductrice de ligne — AlsaBrew (brasserie) — 24 mois",
           "EXP : Opératrice de production — AlsaBière — 12 mois",
-          "\"Je pilote les lignes de production, fais les réglages de base, contrôle qualité en cours de fabrication.\"",
-          "\"Connaissances HACCP.\"",
-          "\"Travail posté (2x8 / 3x8).\"",
+          "\"Je pilote les lignes de production, fais les réglages de base, contrôle qualité en cours de fabrication. Connaissances HACCP. Travail posté (2x8 / 3x8).\"",
           "Note agence : Référence sur missions conduite de ligne agroalimentaire secteur Colmar."
         ]
       },
       {
         "candidate_id": "C041",
         "score": 0.96,
-        "justification": "Profil très compatible avec la mission : Virginie Masurel est localisée à Colmar (68), disponible immédiatement et accepte le travail en 3x8. Son expérience est directement pertinente en agroalimentaire avec 12 ans comme conductrice de ligne agroalimentaire, dont 20 mois chez CerealsPlus à Colmar et 10 mois comme chef d’équipe production chez AgriFood. Elle maîtrise le pilotage de lignes, les réglages, la qualité et la HACCP, ce qui correspond parfaitement à un poste d’opérateur de production sur ligne en agroalimentaire. Aucun CACES n’est requis sur la mission, donc l’absence de certification n’est pas bloquante.",
+        "justification": "Profil très compatible avec la mission : Virginie Masurel est basée à Colmar (68), donc parfaitement localisée pour un poste à Colmar. Elle dispose d’une solide expérience en production agroalimentaire avec 12 ans comme conductrice de ligne agroalimentaire, dont 20 mois chez CerealsPlus à Colmar et 10 mois comme chef d’équipe production chez AgriFood. Le poste en 3x8 correspond à son expérience (2x8/3x8 OK). Elle maîtrise le pilotage de lignes, les réglages, la qualité et la HACCP, ce qui est un vrai plus pour cette mission. Aucun CACES n’est requis, donc l’absence de certification n’est pas bloquante. Disponibilité immédiate validée.",
         "evidence": [
           "Localisation : Colmar (68) — 25km",
-          "Disponibilité : de suite",
-          "Travail 2x8/3x8 OK",
+          "Dispo : de suite",
           "Conductrice de ligne agroalimentaire — 12 ans",
           "Conductrice ligne production — CerealsPlus (Colmar) — 20 mois",
           "Chef équipe production — AgriFood — 10 mois",
           "Pilotage lignes, réglages, qualité, HACCP, encadrement légère",
-          "Note agence : Très bon profil conductrice ligne. À prioriser missions production Colmar."
+          "Travail 2x8/3x8 OK",
+          "Aucune certification",
+          "Aucun CACES requis"
         ]
       },
       {
-        "candidate_id": "C008",
-        "score": 0.92,
-        "justification": "Très bon alignement avec la mission : le candidat est basé à Colmar, disponible immédiatement et possède une expérience en environnement agroalimentaire (Cariste chez AgroAlsace) ainsi qu’en production/logistique industrielle (Chef de quai, gestion des flux, inventaires, travail en 2x8). La mission ne requiert aucun CACES, donc les certifications R489 qui expirent prochainement ne constituent pas un motif d’exclusion pour ce poste. Le profil est pertinent pour un poste en 3x8 sur ligne de production, avec une expérience terrain et une mobilité locale adaptée.",
+        "candidate_id": "C067",
+        "score": 0.91,
+        "justification": "Profil très compatible avec la mission : expérience directe et récente en production agroalimentaire (7 ans), dont 12 mois chez FrozenFoods à Strasbourg, ce qui correspond bien au secteur recherché. La localisation est proche de Colmar (Strasbourg, 20 km indiqué) et la disponibilité est immédiate, ce qui est cohérent avec l’urgence haute. Aucune certification n’est requise pour ce poste, donc l’absence de CACES n’est pas pénalisante. Le seul point de vigilance est la mention d’un poste de chauffeur-livreur, signalée comme hors production et probablement une confusion de CV, mais cela ne remet pas en cause le cœur de profil opérateur agroalimentaire.",
         "evidence": [
-          "Localisation : Colmar (68) — mobilité 30km",
-          "Disponibilité : immédiate / Disponible maintenant",
-          "EXP PRO : Cariste — AgroAlsace — 9 mois",
-          "EXP PRO : Chef de quai — TransEst Colmar — 18 mois (2023-2024)",
-          "Exp encadrement petites équipes (3-4 pers), gestion des flux, inventaires, 2x8",
-          "Mission : Aucun CACES requis",
-          "Secteur mission : agroalimentaire"
+          "Mission : opérateur de production agroalimentaire à Colmar, poste en 3x8, aucun CACES requis, expérience agroalimentaire appréciée",
+          "Candidat : Strasbourg (67) — 20km, disponibilité immédiate",
+          "CV : \"Opérateur production agroalimentaire — 7 ans\"",
+          "CV : \"Opératrice prodution — FrozenFoods (Strasbourg) — 12 mois, renouvelée\"",
+          "Note agence : \"Profil principal opérateur agroalimentaire mais confusion secteur (mention chauffeur). À clarifier.\""
         ]
       }
     ],
-    "filtered_out": []
+    "filtered_out": [
+      {
+        "candidate_id": "C042",
+        "reason": "Indisponible au démarrage : disponible à partir du 01/05/2026, mission débute le 30/03/2026"
+      },
+      {
+        "candidate_id": "C011",
+        "reason": "Indisponible au démarrage : disponible à partir du 31/03/2026, mission débute le 30/03/2026"
+      }
+    ]
   },
   {
     "mission_id": "M007",
@@ -515,83 +545,102 @@
       {
         "candidate_id": "C036",
         "score": 0.96,
-        "justification": "Très forte compatibilité avec la mission. Le candidat est localisé à Colmar, donc parfaitement adapté au lieu d’intervention. Il dispose des habilitations obligatoires B1V et BR, toutes deux valides jusqu’en juillet 2026, ce qui couvre le début de mission en avril 2026. Son expérience est très pertinente : 11 ans en maintenance industrielle, dont 24 mois chez AlsaChemical à Colmar, donc dans un environnement proche du secteur chimique demandé. Il maîtrise aussi l’automatisme Siemens, explicitement apprécié dans l’offre. Seul point de vigilance : le renouvellement des habilitations en juillet 2026 pendant la mission, mais cela ne constitue pas un motif d’exclusion à ce stade.",
+        "justification": "Très forte adéquation avec la mission : le candidat est basé à Colmar (25 km), donc parfaitement localisé pour une mission à Colmar. Il dispose des habilitations obligatoires B1V et BR, toutes deux valides jusqu’en juillet 2026, ce qui couvre largement un démarrage au 13/04/2026 et une durée de 6 mois. Son expérience est très pertinente avec 11 ans en maintenance industrielle, dont 24 mois chez AlsaChemical à Colmar, ce qui apporte une vraie expérience sectorielle en chimie. L’automatisme Siemens est également présent, en ligne avec le besoin apprécié sur Siemens/Schneider. Seul point de vigilance : le renouvellement des habilitations en juillet 2026 pendant la mission, mais cela n’empêche pas la compatibilité initiale.",
         "evidence": [
           "Localisation : Colmar (68) — 25km",
           "Certifications : Habilitation B1V (valable jusqu’en juillet 2026), Habilitation BR (valable jusqu’en juillet 2026)",
-          "Mission début : 2026-04-13",
+          "Mission : début 2026-04-13, durée 6 mois",
           "11 ans maintenance industrielle",
           "Technicien maintenance — AlsaChemical (Colmar) — 24 mois",
-          "Expertises : automatisme Siemens S5/S7",
-          "Note agence : Très bon profil. Habilitations valides mais attention renouvellement en juillet."
+          "Expertises : automatisme Siemens S5/S7"
+        ]
+      },
+      {
+        "candidate_id": "C064",
+        "score": 0.93,
+        "justification": "Très bon alignement avec la mission : le candidat possède les habilitations électriques obligatoires B1V et BR, toutes deux valables jusqu’en février 2027, donc conformes pour un démarrage en avril 2026. Son expérience de 10 ans en maintenance industrielle, dont une expérience en environnement chimique (ChemicalWorks), est pertinente pour un poste en industrie chimique. Il maîtrise aussi Siemens S7, ce qui correspond à l’attendu en automatisme. La localisation est acceptable : Offenburg est à environ 80 km de Colmar et la note agence confirme une mobilité jugée acceptable. Aucun motif d’exclusion légale n’est présent.",
+        "evidence": [
+          "Mission : habilitation BR exigée, B1V également requise",
+          "Candidat : certifications B1V, BR valables jusqu’en février 2027",
+          "CV : Technicien maintenance industrielle — 10 ans",
+          "CV : Techniker Wartung — ChemicalWorks (Offenburg) — 18 mois",
+          "CV : Compétences : Siemens S7",
+          "Note agence : Distance Offenburg-Colmar = acceptable (80km)",
+          "Profil : Offenburg (DE) — mobilité 40km"
         ]
       },
       {
         "candidate_id": "C015",
-        "score": 0.93,
-        "justification": "Candidat très compatible avec la mission : localisation à Colmar, mobilité cohérente (30 km), disponibilité immédiate validée, et expérience directement pertinente en électricité industrielle/BT avec 10 ans d’expérience. Les habilitations exigées B1V et BR sont bien présentes et valides à ce jour, ce qui permet de répondre au besoin légal de la mission. Point de vigilance important : les deux habilitations expirent en mai 2026, donc elles couvrent le démarrage du 13/04/2026 mais pas nécessairement toute une mission de 6 mois ; il faudra anticiper leur renouvellement pour sécuriser la continuité.",
+        "score": 0.91,
+        "justification": "Candidat très compatible avec la mission : localisation à Colmar, mobilité locale cohérente, 10 ans d’expérience en électricité industrielle et dernière mission à Colmar en environnement industriel. Les habilitations exigées sont bien présentes : BR et B1V. Le secteur chimie n’est pas explicitement mentionné dans le CV, mais l’expérience en industrie et en BT est pertinente pour une mission de maintenance électrique en chimie. Point de vigilance important : les habilitations expirent en mai 2026, soit peu après le début de mission, ce qui impose une alerte client et une vérification de renouvellement si la mission se prolonge.",
         "evidence": [
           "Localisation : Colmar (68) — 30km",
-          "Disponibilité : immédiate",
-          "10 ans d'expérience en technicien électricité industrielle",
+          "Technicien électricité industrielle — 10 ans d'expérience",
           "Dernière mission : AutoElsace (Colmar) — 20 mois",
           "Spécialité : câblage industriel, Schneider Electric, automatisme Zelio, dépannage BT",
           "Habilitations électriques : B1V et BR — valables jusqu'en mai 2026",
-          "Mission : habilitation BR obligatoire et B1V requise, secteur chimie à Colmar"
+          "Mission : habilitation BR exigée, B1V également requise, lieu Colmar"
         ]
       },
       {
         "candidate_id": "C010",
-        "score": 0.91,
-        "justification": "Très bonne adéquation avec la mission. Le candidat est localisé à Colmar, donc la mobilité est suffisante pour une mission sur site à Colmar. Les habilitations obligatoires sont bien présentes et valides : BR (valide jusqu’en mars 2027) et B1V (valide jusqu’en mars 2027), ce qui couvre l’exigence réglementaire de la mission. L’expérience en maintenance industrielle est solide avec 30 mois cumulés, dont 18 mois en maintenance sur site de production à Colmar, ce qui est pertinent pour un poste de technicien de maintenance en industrie chimique. En revanche, le secteur chimie n’apparaît pas dans son parcours, et l’expérience en automatisme Siemens/Schneider n’est pas mentionnée ; ce sont des points de moindre adéquation mais non bloquants.",
+        "score": 0.88,
+        "justification": "Très bon match pour la mission : Sofia Patel est localisée à Colmar, disponible avant le début de mission (28/03/2026 pour un démarrage au 13/04/2026) et dispose des deux habilitations obligatoires B1V et BR, toutes deux valides jusqu’en mars 2027. Son expérience en maintenance industrielle sur site de production, avec interventions préventives et curatives, est cohérente avec un poste de technicienne de maintenance en industrie chimique. La mobilité de 30 km couvre largement Colmar et la note agence confirme une forte adéquation pour des missions maintenance à Colmar. Point de vigilance : le profil ne mentionne pas d’expérience spécifique en chimie ni en automatisme Siemens/Schneider, mais cela n’est pas bloquant car seulement apprécié.",
         "evidence": [
           "Localisation : Colmar (68) — mobilité 30km",
-          "Certifications : B1V (valide mars 2027), BR (chargé d'intervention) (valide mars 2027)",
-          "EXPÉRIENCE MAINTENANCE : Technicienne de maintenance — AlsaFood Industries (Colmar) — 18 mois",
-          "EXPÉRIENCE MAINTENANCE : Technicienne de maintenance — AutoPièces Alsace (Mulhouse) — 12 mois, renouvelée",
-          "Compétences clés : maintenance industrielle, mécanique générale, hydraulique, pneumatique, lecture plans et schémas"
-        ]
-      },
-      {
-        "candidate_id": "C011",
-        "score": 0.72,
-        "justification": "Candidat globalement compatible avec la mission : il est basé à Colmar, disponible avant le démarrage (31/03/2026 pour un début au 13/04/2026), et possède une expérience solide en maintenance électromécanique/électrotechnique en industrie, avec 9 ans d’expérience et des missions récentes en maintenance à Colmar. Les habilitations BR sont bien présentes et valides jusqu’en août 2026, donc pas d’exclusion sur ce point. En revanche, la mission exige aussi une habilitation B1V, qui n’apparaît pas dans le profil : cela ne permet pas de l’exclure légalement au sens strict demandé, mais c’est un écart important à vérifier avant présentation. Son expérience en automatisme Siemens est un vrai plus pour la mission chimie.",
-        "evidence": [
-          "Localisation : Colmar — jusqu’à 25 km",
-          "Disponibilité : 2026-03-31",
-          "Certifications : Habilitation BR valable jusqu’en août 2026",
-          "Certifications : Habilitation B2V valable jusqu’en août 2026",
-          "Profil : Technicien électromécanique industriel, 9 ans d'expérience",
-          "Missions récentes : Technicien maintenance — AlsaFoods Colmar — 14 mois",
-          "Spécialités : électricité industrielle BT, automatisme (Siemens S7, Step7)",
-          "Mission : habilitation BR obligatoire et B1V également requise"
+          "Disponibilité : 28 mars 2026",
+          "B1V — valide mars 2027",
+          "BR (chargé d'intervention) — valide mars 2027",
+          "18 mois chez AlsaFood Industries (Colmar) en maintenance préventive et curative",
+          "12 mois chez AutoPièces Alsace (Mulhouse) en interventions mécaniques et diagnostic pannes",
+          "Note agence : Priorité absolue sur missions maintenance Colmar"
         ]
       }
     ],
     "filtered_out": [
       {
+        "candidate_id": "C050",
+        "reason": "Aucune certification déclarée alors que la mission exige : Habilitation BR, Habilitation B1V"
+      },
+      {
         "candidate_id": "C042",
         "reason": "Indisponible au démarrage : disponible à partir du 01/05/2026, mission débute le 13/04/2026"
       },
       {
+        "candidate_id": "C034",
+        "reason": "Aucune certification déclarée alors que la mission exige : Habilitation BR, Habilitation B1V"
+      },
+      {
+        "candidate_id": "C033",
+        "reason": "Indisponible au démarrage : disponible à partir du 01/05/2026, mission débute le 13/04/2026"
+      },
+      {
         "candidate_id": "C013",
-        "reason": "Certification électrique obligatoire absente/invalide : B1V expirée et BR non justifiée."
+        "reason": "Certification obligatoire absente (BR) et habilitation B1V expirée en novembre 2025."
+      },
+      {
+        "candidate_id": "C011",
+        "reason": "Certification B1V requise absente du profil du candidat."
+      },
+      {
+        "candidate_id": "C052",
+        "reason": "Certification BR obligatoire absente (et B1V requis non justifié) : exclusion légale pour la mission."
       },
       {
         "candidate_id": "C012",
-        "reason": "Certification électrique obligatoire absente : BR et B1V requis par la mission, candidat limité à B0 uniquement."
-      },
-      {
-        "candidate_id": "C014",
-        "reason": "Habilitation BR obligatoire absente du profil du candidat."
-      },
-      {
-        "candidate_id": "C050",
-        "reason": "Certification BR absente et B1V absente alors qu’elles sont obligatoires pour la mission."
+        "reason": "Certification électrique requise absente : le candidat n’a pas les habilitations BR et B1V demandées, seulement B0 (consignation)."
       },
       {
         "candidate_id": "C059",
-        "reason": "Certification obligatoire absente : habilitation BR non présente."
+        "reason": "Habilitation BR obligatoire absente du profil."
+      },
+      {
+        "candidate_id": "C035",
+        "reason": "Certification BR obligatoire absente (B1V présente et valide, mais BR manquante)."
+      },
+      {
+        "candidate_id": "C014",
+        "reason": "Habilitation BR absente alors qu’elle est obligatoire pour la mission."
       }
     ]
   },
@@ -599,36 +648,38 @@
     "mission_id": "M008",
     "ranked_candidates": [
       {
-        "candidate_id": "C021",
+        "candidate_id": "C020",
         "score": 0.98,
-        "justification": "Candidat très fortement compatible avec la mission. Stéphanie Kern est basée à Strasbourg, donc parfaitement localisée pour une mission à Strasbourg. Elle dispose de 9 ans d’expérience comme gestionnaire de paie, avec une expérience récente en cabinet social sur des portefeuilles multi-clients et 250 salariés, ce qui est cohérent avec un portefeuille d’environ 180 salariés. Elle maîtrise deux des logiciels demandés (Silae et Nibelis), ce qui répond au besoin de maîtrise d’un logiciel de paie requis. Son expérience couvre aussi les obligations légales attendues : DSN, DPAE, calcul des salaires et charges sociales. Aucun élément de certification obligatoire n’est requis ici, donc pas de motif d’exclusion. Le seul léger écart est qu’elle vient du cabinet social plutôt que d’un environnement industriel, mais cela ne remet pas en cause sa capacité à tenir la mission.",
+        "justification": "Céline Muller correspond très fortement à la mission. Elle est basée à Strasbourg, donc parfaitement localisée pour un poste à Strasbourg, avec une mobilité de 20 km cohérente. Son expérience est directement alignée avec le secteur industriel : 18 mois en industrie mécanique, sur une paie de 180 salariés, ce qui correspond exactement au portefeuille annoncé. Elle maîtrise les éléments clés demandés : bulletins complexes, gestion des variables, DSN mensuelle, DPAE, et elle maîtrise le logiciel ADP Decidium, conforme à l’exigence ADP/Silae/Nibelis. Aucun certificat n’est requis pour ce poste et aucune exclusion légale ne s’applique. La disponibilité au 1er avril 2026 est compatible avec un début au 6 avril 2026.",
+        "evidence": [
+          "Localisation : Strasbourg (67) — mobilité 20km",
+          "Disponibilité : 1er avril 2026",
+          "Gestionnaire de paie — 6 ans",
+          "Gestionnaire de paie — Industrie Mécanique Grand Est — 18 mois",
+          "Paie de 180 salariés, bulletins complexes, gestion des variables, DSN mensuelle",
+          "Chargée RH/admin — BTP Construction 67 — DPAE, contrats de travail",
+          "Logiciels : ADP Decidium (maîtrise)",
+          "Note agence : Très bonne candidate paie. Autonome sur bulletins complexes"
+        ]
+      },
+      {
+        "candidate_id": "C021",
+        "score": 0.97,
+        "justification": "Très forte adéquation avec la mission : Stéphanie Kern est gestionnaire de paie depuis 9 ans, basée à Strasbourg, donc parfaitement localisée pour une mission à Strasbourg. Elle maîtrise des logiciels de paie requis (Silae et Nibelis), et son expérience couvre les obligations demandées : DSN, DPAE, calcul des salaires et charges sociales. Elle a déjà géré des portefeuilles comparables voire supérieurs (250 salariés, 15 dossiers simultanés), ce qui est cohérent avec un portefeuille d’environ 180 salariés en industrie. Aucun motif d’exclusion légale n’apparaît (pas de certification obligatoire absente/expirée, mobilité suffisante).",
         "evidence": [
           "Localisation : Strasbourg — 25km — dispo immédiate",
           "9 ans gestionnaire de paie",
           "Gestionnaire de paie — Cabinet social AlsaConseil — 30 mois",
           "Multi-clients, 15 dossiers simultanés, 250 salariés",
           "Silae et Nibelis maîtrisés",
-          "Je gère : calcul salaires, charges sociales, DSN, DPAE, soldes tout compte, certificats de travail",
-          "Note agence : Excellente spécialiste paie multi-logiciels. Profil rare, à prioriser sur missions paie"
-        ]
-      },
-      {
-        "candidate_id": "C020",
-        "score": 0.98,
-        "justification": "Céline Muller correspond très fortement à la mission. Elle est disponible avant le démarrage (01/04/2026 pour un début au 06/04/2026), localisée à Strasbourg avec une mobilité de 20 km, et possède une expérience directement pertinente en industrie. Son dernier poste en industrie mécanique porte sur une paie de 180 salariés avec bulletins complexes et DSN mensuelle, ce qui colle exactement au besoin. Elle maîtrise également ADP Decidium, logiciel explicitement accepté dans l’offre. Aucun certificat n’est requis pour ce poste, donc pas de motif d’exclusion.",
-        "evidence": [
-          "Disponibilité : 1er avril 2026 ; mission début 2026-04-06",
-          "Localisation : Strasbourg (67) — mobilité 20km",
-          "Gestionnaire de paie — Industrie Mécanique Grand Est — 18 mois",
-          "Paie de 180 salariés, bulletins complexes, gestion des variables, DSN mensuelle",
-          "Logiciels : ADP Decidium (maîtrise)",
-          "Note agence : Très bonne candidate paie. Autonome sur bulletins complexes"
+          "Je gère : calcul salaires, charges sociales, DSN, DPAE, soldes de tout compte, certificats de travail",
+          "Note agence : Excellente spécialiste paie multi-logiciels"
         ]
       },
       {
         "candidate_id": "C037",
         "score": 0.97,
-        "justification": "Candidate très compatible avec la mission. Elle est basée à Strasbourg, donc parfaitement localisée pour un poste sur Strasbourg, et sa mobilité de 25 km est suffisante. Son expérience est directement alignée avec le besoin : 7 ans en gestion de paie, gestion de paies pour 150+ salariés, bulletins complexes, DSN et DPAE déjà maîtrisés. Elle connaît en plus deux des logiciels demandés (ADP et Silae), ce qui répond au critère logiciel requis. Le secteur industriel n’est pas explicitement mentionné dans son parcours, mais son niveau d’expertise paie compense largement et aucun critère légal d’exclusion n’est présent.",
+        "justification": "Candidature très compatible avec la mission. Jessica Coppens est basée à Strasbourg, donc parfaitement localisée pour une mission sur site à Strasbourg. Elle dispose de 7 ans d’expérience en gestion de paie, avec une pratique directe sur des portefeuilles de 150+ salariés, des bulletins complexes, la DSN et la DPAE, ce qui correspond très bien aux attendus du poste. Elle maîtrise en plus deux des logiciels demandés (ADP et Silae), ce qui couvre le besoin logiciel. Le secteur industriel n’est pas explicitement mentionné dans son parcours, mais son niveau d’expertise paie et sa polyvalence logicielle en font une très bonne candidate pour ce remplacement.",
         "evidence": [
           "Localisation : Strasbourg (67) — 25km mobile",
           "Gestionnaire de paie — 7 ans",
@@ -640,20 +691,19 @@
       {
         "candidate_id": "C061",
         "score": 0.96,
-        "justification": "Candidat très מתאים à la mission : profil de spécialiste paie avec 11 ans d’expérience, dont des postes de gestionnaire/comptable paie. Il maîtrise explicitement les logiciels demandés (ADP, Silae, Nibelis) ainsi que les obligations clés mentionnées (DSN, DPAE, éléments/bulletins complexes). La localisation est compatible avec Strasbourg : Colmar est à 30 km selon le profil, donc mobilité suffisante pour une mission en présentiel dans le secteur industriel. Aucun certificat n’est requis ni manquant/expiré, donc pas de motif d’exclusion.",
+        "justification": "Candidat très compatible avec la mission : il est spécialiste paie/comptabilité avec 11 ans d’expérience, a déjà travaillé sur des environnements paie complexes et maîtrise explicitement les logiciels demandés (ADP, Silae, Nibelis) ainsi que la DSN et la DPAE. La localisation est cohérente avec Strasbourg (Colmar, 30 km) et la mobilité semble suffisante pour une mission en Alsace. Le secteur industriel n’est pas directement mentionné dans son parcours, mais son expertise paie est très solide et l’agence le recommande prioritairement sur les missions paie.",
         "evidence": [
+          "Colmar (68) — 30km",
           "Spécialiste paie et comptabilité — 11 ans",
           "Gestionnaire paie — FinanceGroup (Colmar) — 18 mois",
-          "Comptable paie — AccountingPlus — 9 mois",
           "Multi-logiciels paie (ADP, Silae, Nibelis), DSN, DPAE, éléments complexes",
-          "Colmar (68) — 30km",
           "Note agence : Excellent candidat paie. Très compétent. À utiliser prioritairement missions paie."
         ]
       },
       {
         "candidate_id": "C065",
         "score": 0.84,
-        "justification": "Candidature globalement très compatible avec la mission. Louise Derain est localisée à Strasbourg (15 km), donc parfaitement mobilisable pour une mission sur site. Son expérience est directement en paie/RH avec 3 ans de pratique, dont une expérience de technicienne paie à Strasbourg et une gestion de paie d’environ 100 salariés. Elle maîtrise ADP, ce qui correspond à l’un des logiciels demandés, et elle connaît les DSN, DPAE et les bulletins standards, en ligne avec les obligations citées. Le portefeuille de 180 salariés reste dans la zone haute de sa note agence, mais celle-ci indique qu’elle est autonome sur des dossiers de 100 à 150 salariés et à proposer pour des missions paie de moins de 200 personnes. Aucun motif légal d’exclusion n’apparaît (pas de certification obligatoire mentionnée).",
+        "justification": "Candidature globalement très compatible avec la mission. Louise Derain est basée à Strasbourg (15 km), donc parfaitement localisée pour une mission à Strasbourg. Elle dispose de 3 ans d’expérience en paie & RH, avec une pratique concrète sur des dossiers d’environ 100 salariés, et l’agence la décrit comme autonome sur des portefeuilles de 100 à 150 salariés, ce qui reste cohérent avec un portefeuille de 180 salariés. Elle maîtrise ADP, logiciel explicitement demandé, ainsi que la DSN et la DPAE, deux éléments clés de la mission. Le secteur industriel n’est pas explicitement mentionné dans son parcours, mais son expérience en paie en PME et en environnement de Strasbourg reste transférable. Aucun motif d’exclusion légale n’est présent : pas de certification requise, et la mobilité/localisation est suffisante.",
         "evidence": [
           "Strasbourg (67) — 15km",
           "3 ans en paie & RH",
@@ -679,36 +729,39 @@
     "mission_id": "M009",
     "ranked_candidates": [
       {
-        "candidate_id": "C024",
-        "score": 0.96,
-        "justification": "Candidat très compatible avec la mission : Christelle Haas est localisée à Colmar (15 km), donc parfaitement mobile pour le site. Elle possède 10 ans d’expérience en conduite de ligne agroalimentaire, dont 24 mois en brasserie chez AlsaBrew, ce qui correspond directement au secteur et au type de poste. Son profil mentionne la conduite des lignes, les réglages de base, le contrôle qualité en cours de fabrication et des connaissances HACCP, tous éléments alignés avec les attentes de la mission. Elle est également habituée au travail posté en 2x8/3x8, ce qui colle au rythme demandé. Aucun motif d’exclusion légale n’apparaît : aucune certification obligatoire n’est requise dans l’annonce, et l’absence de certifications n’est donc pas bloquante.",
+        "candidate_id": "C041",
+        "score": 0.97,
+        "justification": "Profil très aligné avec la mission : Virginie Masurel est conductrice de ligne agroalimentaire avec 12 ans d’expérience, dont des postes en production à Colmar. Elle maîtrise le pilotage de lignes, les réglages machines, la qualité et le HACCP, ce qui correspond exactement aux attentes pour une brasserie artisanale. La localisation est idéale (Colmar, 25 km) et le travail en 2x8 est compatible avec son expérience. Aucun élément bloquant n’apparaît.",
         "evidence": [
-          "Localisation : Colmar (68) — 15km",
-          "Conductrice de ligne agroalimentaire — 10 ans",
-          "Conductrice de ligne — AlsaBrew (brasserie) — 24 mois",
-          "Je pilote les lignes de production, fais les réglages de base, contrôle qualité en cours de fabrication.",
-          "Connaissances HACCP.",
-          "Travail posté (2x8 / 3x8).",
-          "Note agence : Référence sur missions conduite de ligne agroalimentaire secteur Colmar."
+          "Conductrice de ligne agroalimentaire — 12 ans",
+          "Conductrice ligne production — CerealsPlus (Colmar) — 20 mois",
+          "Chef équipe production — AgriFood — 10 mois",
+          "Pilotage lignes, réglages, qualité, HACCP, encadrement légère",
+          "Travail 2x8/3x8 OK",
+          "Colmar (68) — 25km",
+          "Note agence : Très bon profil conductrice ligne. À prioriser missions production Colmar."
         ]
       },
       {
-        "candidate_id": "C041",
+        "candidate_id": "C024",
         "score": 0.96,
-        "justification": "Profil très aligné avec la mission : Virginie Masurel a 12 ans d’expérience comme conductrice de ligne agroalimentaire, avec pilotage de lignes, réglages machines, qualité et HACCP. Elle a déjà travaillé à Colmar (CerealsPlus) et est localisée à Colmar (68), donc la proximité est excellente. Le rythme 2x8/3x8 est compatible avec son profil. La note agence confirme qu’il s’agit d’un très bon profil à prioriser sur des missions de production à Colmar. Aucun élément bloquant n’apparaît.",
+        "justification": "Très forte adéquation avec la mission : Christelle Haas est localisée à Colmar, disponible immédiatement, et possède 10 ans d’expérience en conduite de ligne agroalimentaire. Son parcours inclut directement une expérience en brasserie (AlsaBrew, 24 mois) ainsi qu’en production bière (AlsaBière, 12 mois), ce qui correspond précisément au secteur recherché. Elle maîtrise les réglages de base, le contrôle qualité en cours de fabrication et le travail posté en 2x8/3x8, en phase avec les contraintes du poste. La connaissance HACCP est également mentionnée dans son profil. Aucun motif d’exclusion légale n’est présent : aucune certification obligatoire n’est requise dans l’annonce, et aucune mobilité insuffisante n’est constatée.",
         "evidence": [
-          "Localisation : Colmar (68) — 25km",
-          "Conductrice de ligne agroalimentaire — 12 ans",
-          "Conductrice ligne production — CerealsPlus (Colmar) — 20 mois",
-          "Pilotage lignes, réglages, qualité, HACCP, encadrement légère.",
-          "Travail 2x8/3x8 OK.",
-          "Note agence : Très bon profil conductrice ligne. À prioriser missions production Colmar."
+          "Localisation : Colmar (68) — 15km",
+          "Disponibilité : immédiate / disponible de suite",
+          "Conductrice de ligne agroalimentaire — 10 ans",
+          "EXP : Conductrice de ligne — AlsaBrew (brasserie) — 24 mois",
+          "EXP : Opératrice de production — AlsaBière — 12 mois",
+          "\"Je pilote les lignes de production, fais les réglages de base, contrôle qualité en cours de fabrication.\"",
+          "\"Connaissances HACCP.\"",
+          "\"Travail posté (2x8 / 3x8).\"",
+          "Note agence : Référence sur missions conduite de ligne agroalimentaire secteur Colmar."
         ]
       },
       {
         "candidate_id": "C025",
         "score": 0.96,
-        "justification": "Candidat très compatible avec la mission : il est basé à Colmar, donc parfaitement localisé pour le poste, et dispose d’une solide expérience en production agroalimentaire (14 ans). Son dernier poste de chef d’équipe production chez AlsaFoods à Colmar inclut précisément la conduite et le réglage de lignes, l’encadrement d’opérateurs, la gestion des aléas et des audits HACCP, ce qui correspond bien aux attentes d’autonomie sur machines, polyvalence et connaissance du secteur. Aucun certificat n’est exigé dans l’annonce ; l’absence de certification n’est donc pas bloquante. Le seul point de vigilance est le niveau de séniorité/surqualification, mais la note agence indique justement de le proposer sur des postes conducteur de ligne ou chef d’équipe, ce qui cadre avec cette mission.",
+        "justification": "Candidat très compatible avec la mission : il est basé à Colmar, donc parfaitement localisé pour le poste, et possède 14 ans d’expérience en production agroalimentaire. Son dernier poste de chef d’équipe en production chez AlsaFoods à Colmar inclut précisément la conduite et le réglage de lignes, l’encadrement d’opérateurs, la gestion des aléas et le HACCP, ce qui correspond bien aux attentes d’autonomie sur machines et de polyvalence entre lignes. La note agence confirme qu’il est à proposer sur des postes de conducteur de ligne ou chef d’équipe, ce qui colle au niveau de responsabilité recherché. Aucun certificat n’est requis ici et aucune exclusion légale ne s’applique.",
         "evidence": [
           "Localisation : Colmar (68) — 25km — disponible maintenant",
           "14 ans en production agroalimentaire",
@@ -721,29 +774,27 @@
       {
         "candidate_id": "C047",
         "score": 0.92,
-        "justification": "Très bon alignement avec la mission : Carole Schuh est localisée à Colmar, donc sans contrainte de mobilité pour un poste à Colmar. Elle dispose de 8 ans d’expérience en production agroalimentaire, ce qui correspond au secteur requis. Son parcours montre une expérience concrète sur ligne (opératrice de ligne chez DairyProducts pendant 12 mois, mission renouvelée) ainsi qu’en contrôle qualité en agroalimentaire, ce qui renforce sa polyvalence et sa connaissance des exigences d’hygiène/procédures. La certification HACCP est présente et utile pour ce poste. Le rythme 3x8 habituel est compatible avec un poste en 2x8. Aucun motif d’exclusion légale n’est identifié.",
+        "justification": "Très bon alignement avec la mission : Carole Schuh est basée à Colmar, donc parfaitement localisée pour le poste. Elle possède 8 ans d’expérience en production agroalimentaire, avec une expérience concrète sur ligne (opératrice de ligne chez DairyProducts pendant 12 mois, renouvelée) et une expérience en contrôle qualité dans le même secteur. La certification HACCP est bien présente et aucune date d’expiration n’est indiquée, donc elle est considérée valide. Son expérience du travail en 3x8 est compatible avec le 2x8 demandé. Le profil agence confirme un bon niveau sur les missions de production.",
         "evidence": [
-          "Localisation : Colcolmar (68) — 20km",
+          "Localisation : Colmar (68) — 20km",
           "Production agroalimentaire — 8 ans",
           "Opératrice de ligne — DairyProducts (Colmar) — 12 mois, renouvelée",
           "Contrôleuse qualité — AgroFactory — 6 mois, fin mission",
           "HACCP certifiée",
           "Travail 3x8 habituelle",
-          "Contrôle qualité, hygiène, respect procédures"
+          "Note agence : Bon profil agroalimentaire. Expérience ligne. À proposer sur missions production."
         ]
       },
       {
-        "candidate_id": "C010",
-        "score": 0.78,
-        "justification": "Profil globalement pertinent pour une mission de conducteur de ligne en agroalimentaire à Colmar : Sofia Patel est localisée à Colmar, disponible avant le début de mission (28/03/2026 pour un démarrage au 06/04/2026) et possède une expérience directe en environnement agroalimentaire chez AlsaFood Industries, avec maintenance préventive et curative sur lignes de production. Son parcours en maintenance industrielle (mécanique, pneumatique, hydraulique, lecture de plans) est un bon atout pour l’autonomie sur réglages machines et la polyvalence demandées. En revanche, le CV ne mentionne pas d’expérience explicite en conduite de ligne ni de certification HACCP ; le poste semble donc plus proche d’un profil technique/maintenance que d’un conducteur de ligne confirmé. Pas de motif d’exclusion légale : les habilitations B1V et BR sont valides jusqu’en mars 2027, et la mobilité/localisation sont compatibles.",
+        "candidate_id": "C067",
+        "score": 0.82,
+        "justification": "Profil globalement pertinent pour une mission de conducteur de ligne en agroalimentaire : la candidate a 7 ans d’expérience en production agroalimentaire, dont 12 mois chez FrozenFoods à Strasbourg, ce qui correspond bien au secteur demandé et à une logique de conduite/production de ligne. La localisation est compatible avec Colmar (Strasbourg, 20 km indiqué dans la fiche), donc la mobilité ne pose pas de problème apparent. En revanche, aucun élément ne confirme explicitement l’autonomie sur réglages machines ni la polyvalence entre lignes, et aucune certification HACCP n’est mentionnée. Le poste semble donc compatible mais à valider sur les compétences techniques précises.",
         "evidence": [
-          "Localisation : Colmar (68) — mobilité 30km",
-          "Disponibilité : 28 mars 2026",
-          "Technicienne de maintenance — AlsaFood Industries (Colmar) — 18 mois",
-          "Maintenance préventive et curative sur lignes de production agroalimentaire",
-          "Compétences clés : maintenance industrielle, mécanique générale, hydraulique, pneumatique, lecture plans et schémas",
-          "B1V — valide mars 2027",
-          "BR (chargé d'intervention) — valide mars 2027"
+          "Opérateur production agroalimentaire — 7 ans",
+          "Opératrice prodution — FrozenFoods (Strasbourg) — 12 mois, renouvelée",
+          "Strasbourg (67) — 20km",
+          "Certifications : aucune",
+          "Poste en 2x8"
         ]
       }
     ],
@@ -760,69 +811,72 @@
       {
         "candidate_id": "C001",
         "score": 0.98,
-        "justification": "Candidat très compatible avec la mission : disponibilité immédiate confirmée, localisation à Mulhouse avec mobilité jusqu’à 20 km, et CACES R489 catégorie 3 obligatoire bien présent et valide jusqu’en juin 2027. L’expérience est directement pertinente en logistique/entrepôt avec un poste de cariste grande hauteur à Mulhouse pendant 6 mois en 2025, plus une expérience d’opératrice en entrepôt. Le contexte d’urgence et le secteur logistique correspondent parfaitement au profil.",
+        "justification": "Candidat très compatible avec la mission : disponibilité immédiate confirmée, localisation à Mulhouse avec mobilité jusqu’à 20 km, et expérience récente en entrepôt/logistique à Mulhouse. Le CACES R489 catégorie 3, obligatoire pour la mission, est bien présent et valide jusqu’en juin 2027. L’expérience de cariste grande hauteur renforce l’adéquation au poste urgent en logistique.",
         "evidence": [
-          "Mission en logistique à Mulhouse, démarrage aujourd’hui, urgence très haute",
-          "Candidat basé à Mulhouse (68), mobile jusqu’à 20 km",
           "Disponible immédiatement",
-          "CACES R489 catégorie 3 valide jusqu’en juin 2027",
-          "Expérience de cariste grande hauteur chez Logistrans SA (Mulhouse) — 6 mois en 2025",
-          "Expérience en entrepôt/logistique chez Distrib'Est (Mulhouse) — 3 mois 2024",
-          "Note agence : candidate sérieuse et ponctuelle, à prioriser sur missions cariste urgentes Mulhouse"
-        ]
-      },
-      {
-        "candidate_id": "C026",
-        "score": 0.98,
-        "justification": "Très bonne adéquation avec la mission : Valérie Schmitz est disponible immédiatement, localisée à Mulhouse (68) avec un rayon de mobilité de 15 km, ce qui couvre le lieu de mission. Elle possède le CACES R489 catégorie 3 obligatoire, valide jusqu’en septembre 2027, donc aucune exclusion légale. Son expérience est directement pertinente en logistique/cariste avec 5 ans d’expérience, dont des postes de chariotiste et manutention en entrepôt à Mulhouse. Le profil agence confirme une disponibilité rapide et une compatibilité avec les missions sur Mulhouse.",
-        "evidence": [
-          "Mission : secteur logistique, lieu Mulhouse, CACES R489 catégorie 3 obligatoire, démarrage aujourd'hui",
-          "Candidat : disponibilité immédiate / de suite",
-          "Localisation : Mulhouse (68) — 15km rayon",
-          "Certification : CACES R489 catégorie 3 — expire septembre 2027",
-          "Expérience : CARISTE — 5 ans d'expérience",
-          "Expériences : Chariotiste — StockLogis (Mulhouse) — 8 mois ; Opérateur de manutention — ProtoServices (Mulhouse) — 6 mois",
-          "Note agence : Profil cariste stable. Disponibilité rapide. OK missions Mulhouse."
+          "Mulhouse (68) — mobile jusqu'à 20km",
+          "CACES R489 catégorie 3 — valide jusqu'en juin 2027",
+          "Cariste grande hauteur, Logistrans SA (Mulhouse) — 6 mois 2025",
+          "Secteur : logistique",
+          "Note agence : Candidate sérieuse et ponctuelle. À prioriser sur missions cariste urgentes Mulhouse."
         ]
       },
       {
         "candidate_id": "C030",
         "score": 0.98,
-        "justification": "Très forte compatibilité avec la mission : Sandrine Leblond est disponible immédiatement, localisée à Mulhouse et mobile sur 25 km, ce qui couvre parfaitement le site. Elle possède le CACES R489 catégorie 3 obligatoire, avec une validité indiquée jusqu’en avril 2027, donc aucune exclusion réglementaire. Son expérience est directement alignée avec le secteur logistique et le poste de cariste/logisticienne (9 ans), avec des missions récentes en entrepôt à Mulhouse. La note agence confirme qu’il s’agit d’un très bon profil logistique à prioriser sur Mulhouse.",
+        "justification": "Candidat très compatible avec la mission : disponibilité immédiate confirmée, localisation à Mulhouse, mobilité 25 km adaptée, et expérience solide en logistique/cariste (9 ans). La certification exigée CACES R489 catégorie 3 est bien présente et valide jusqu’en avril 2027, donc aucune exclusion légale. Le profil mentionne en plus une expérience récente en entrepôt à Mulhouse et une note agence indiquant un usage prioritaire sur missions Mulhouse.",
         "evidence": [
           "Disponibilité : immédiate",
-          "Localisation : Mulhouse (68)",
-          "Mobilité : 25km mobile",
-          "Certification : CACES R489 cat. 3",
-          "Validité des certifications : jusqu’en avril 2027",
-          "Expérience : CARISTE-LOGISTICIENNE — 9 ans",
-          "Expériences récentes : Responsable petite équipe logistique — TransDis (Mulhouse) — 14 mois",
-          "Expériences récentes : Chariotiste — StockLogis — 8 mois",
+          "Localisation : Mulhouse",
+          "25km mobile",
+          "Certifications : CACES R489 catégories 1B, 3, 5 (valables avril 2027)",
+          "CARISTE-LOGISTICIENNE — 9 ans",
+          "Responsable petite équipe logistique — TransDis (Mulhouse) — 14 mois",
+          "Chariotiste — StockLogis — 8 mois",
           "Note agence : Très bon profil logistique. À utiliser prioritairement sur missions Mulhouse."
+        ]
+      },
+      {
+        "candidate_id": "C026",
+        "score": 0.98,
+        "justification": "Très bonne compatibilité avec la mission : Valérie Schmitz est disponible immédiatement, localisée à Mulhouse et mobile sur 15 km, ce qui correspond parfaitement au besoin urgent sur site. Elle possède bien le CACES R489 catégorie 3 obligatoire, avec une validité jusqu’en septembre 2027, donc aucune exclusion réglementaire. Son expérience est directement pertinente avec 5 ans en cariste et des missions récentes en logistique/manutention à Mulhouse, incluant préparation d’expéditions, mise en stock et travail en 2x8, en phase avec un entrepôt logistique.",
+        "evidence": [
+          "Disponible : de suite / disponibilité immédiate",
+          "Mulhouse (68) — 15km rayon",
+          "Titulaire R489 catégorie 3 — expire septembre 2027",
+          "CARISTE — 5 ans d'expérience",
+          "Chariotiste — StockLogis (Mulhouse) — 8 mois",
+          "Opérateur de manutention — ProtoServices (Mulhouse) — 6 mois",
+          "Compétences : mise en stock, inventaire, préparation expéditions, 2x8",
+          "Note agence : Profil cariste stable. Disponibilité rapide. OK missions Mulhouse."
         ]
       },
       {
         "candidate_id": "C003",
         "score": 0.98,
-        "justification": "Candidat très compatible avec la mission : disponibilité immédiate confirmée, localisation à Mulhouse avec rayon d’action de 25 km, et expérience directe en logistique/entrepôt. Le CACES R489 catégorie 3 exigé est bien présent et valide jusqu’en juin 2028, donc aucune exclusion légale. Son parcours de cariste et d’opérateur logistique à Mulhouse correspond exactement au besoin urgent de remplacement en entrepôt.",
+        "justification": "Candidat très compatible avec la mission : localisation à Mulhouse, mobilité cohérente (rayon 25 km), disponibilité immédiate confirmée, et expérience directement en logistique/cariste en entrepôt. Le CACES R489 catégorie 3, obligatoire pour la mission, est bien présent et valide jusqu’en juin 2028. Le profil mentionne aussi une expérience de conduite chariot, chargement/déchargement et gestion d’emplacements, parfaitement alignée avec le besoin urgent.",
         "evidence": [
-          "Mission en logistique à Mulhouse, démarrage urgent aujourd’hui, CACES R489 catégorie 3 obligatoire.",
-          "Candidat basé à Mulhouse, rayon d'action 25 km, disponibilité immédiate.",
-          "Certifications : R489 cat. 1B, R489 cat. 3, R489 cat. 5.",
-          "Habilitations chariots ... tous valables jusqu'en juin 2028.",
-          "Expérience : Cariste — LogiRhône Industrie (Mulhouse) — 12 mois ; Opérateur logistique — Acier Est (Mulhouse) — 6 mois."
+          "Mission en logistique à Mulhouse, démarrage immédiat",
+          "Candidat localisé à Mulhouse, rayon d'action 25 km",
+          "Disponibilité : immédiate",
+          "CACES R489 cat. 3 valable jusqu’en juin 2028",
+          "Expérience : Cariste — LogiRhône Industrie (Mulhouse) — 12 mois",
+          "Expérience : Opérateur logistique — Acier Est (Mulhouse) — 6 mois",
+          "Compétences : conduite chariot élévateur frontal et rétractable, chargement/déchargement camions, gestion emplacements, inventaire"
         ]
       },
       {
-        "candidate_id": "C007",
-        "score": 0.82,
-        "justification": "Profil très compatible avec la mission : Claire Houssaye possède le CACES R489 catégorie 3 obligatoire, valide jusqu’en novembre 2027, et une expérience directe en logistique/cariste (10 mois chez Super U Distribution Sélestat, puis 7 mois en logistique). La disponibilité immédiate est confirmée. Le seul point de vigilance concerne la mobilité : elle est basée à Sélestat avec des déplacements possibles jusqu’à 30 km, ce qui rend Mulhouse potentiellement un peu éloigné selon le trajet exact, mais aucune exclusion légale n’est justifiée sur les éléments fournis.",
+        "candidate_id": "C008",
+        "score": 0.91,
+        "justification": "Candidat très compatible pour cette mission de cariste en logistique à Mulhouse. Il dispose du CACES R489 catégorie 3 obligatoire, valide jusqu’au 15/04/2026, donc couvrant largement la mission. Son expérience est directement pertinente : 9 mois comme cariste chez AgroAlsace et 18 mois comme chef de quai chez TransEst Colmar, avec gestion des flux, inventaires et travail en 2x8, ce qui correspond bien à un environnement d’entrepôt logistique. La disponibilité immédiate est confirmée. Côté localisation, Colmar est à proximité de Mulhouse et sa mobilité est indiquée à 30 km, ce qui reste cohérent pour la mission. Seul point de vigilance : les CACES expirent dans quelques semaines, mais ils sont encore valides au démarrage et pendant la mission annoncée.",
         "evidence": [
-          "CACES R489 catégorie 3 présent et valide : expire novembre 2027",
-          "Expérience cariste en logistique : 'Cariste, Super U Distribution Sélestat : 10 mois'",
-          "Expérience sectorielle complémentaire : 'Logisticienne, TransportEst67 : 7 mois'",
-          "Disponibilité : 'immédiate' / 'Disponible : maintenant'",
-          "Localisation : 'Sélestat (67) — déplacements possibles jusqu’à 30 km'"
+          "Mission logistique à Mulhouse, démarrage urgent aujourd’hui, CACES R489 catégorie 3 obligatoire.",
+          "Candidat disponible maintenant / disponibilité immédiate.",
+          "Certificat CACES R489 cat3 valable jusqu’au 15/04/2026.",
+          "Expérience : Cariste — AgroAlsace — 9 mois.",
+          "Expérience : Chef de quai — TransEst Colmar — 18 mois (2023-2024).",
+          "Compétences : gestion des flux, inventaires, 2x8.",
+          "Localisation : Colmar (68) — mobilité 30 km."
         ]
       }
     ],
@@ -836,12 +890,20 @@
         "reason": "Aucune certification déclarée alors que la mission exige : CACES R489 cat 3"
       },
       {
+        "candidate_id": "C006",
+        "reason": "Aucune certification déclarée alors que la mission exige : CACES R489 cat 3"
+      },
+      {
+        "candidate_id": "C009",
+        "reason": "Aucune certification déclarée alors que la mission exige : CACES R489 cat 3"
+      },
+      {
         "candidate_id": "C057",
-        "reason": "Certification obligatoire absente : CACES R489 catégorie 3 non détenu (seulement R489 1B)."
+        "reason": "Certification obligatoire absente : CACES R489 catégorie 3 non détenu (seulement R489 cat 1B). Mobilité insuffisante (5 km maximum) pour la mission."
       },
       {
         "candidate_id": "C031",
-        "reason": "Certification obligatoire absente : le candidat ne possède pas le CACES R489 catégorie 3 requis pour la mission."
+        "reason": "Certification obligatoire absente : le candidat ne détient pas le CACES R489 catégorie 3 requis pour la mission."
       }
     ]
   }
