@@ -60,4 +60,6 @@ Verification des profils pieges : C068 (R486 seulement) exclu des missions R489,
         search 10, 20, 40, 80, 160 until max_search
     Une autre idee est de faire 2 search, avec et sans filtre, mais ca double la computation
 
+- **Exact date** : La date est verifie exactement, par example pour M004, le candidat C004 est filtre pour un jour de difference pour une mission non urgente
 
+- **Language** : Le language du candidat n'est pas toujours pris en compte, il devrait apparaitre dans un field

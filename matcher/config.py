@@ -23,5 +23,5 @@ EMBED_MODEL = "text-embedding-3-small"
 
 # Tuning
 EMBED_BATCH_SIZE = 100
-TOP_K = 10  # FAISS candidates per mission
+TOP_K = 15  # FAISS candidates per mission
 TOP_N = 5   # final ranked candidates
