@@ -1,0 +1,122 @@
+[
+  {
+    "id": "M001",
+    "title": "Opérateur cariste",
+    "start_date": "2026-03-30",
+    "duration_months": 6,
+    "urgency": "haute",
+    "description": "Entrepôt logistique à Mulhouse cherche un cariste pour réception et rangement de marchandises en grande hauteur. Démarrage dans 3 jours. Poste en 2x8. CACES R489 catégorie 3 obligatoire (légalement requis pour conduite d'engins Cat. 3). CACES Cat. 5 apprécié.",
+    "sector": "logistique",
+    "location": "Mulhouse",
+    "raw_content": "{\"id\": \"M001\", \"title\": \"Opérateur cariste\", \"location\": \"Mulhouse\", \"start_date\": \"2026-03-30\", \"duration_months\": 6, \"urgency\": \"haute\", \"description\": \"Entrepôt logistique à Mulhouse cherche un cariste pour réception et rangement de marchandises en grande hauteur. Démarrage dans 3 jours. Poste en 2x8. CACES R489 catégorie 3 obligatoire (légalement requis pour conduite d'engins Cat. 3). CACES Cat. 5 apprécié.\", \"sector\": \"logistique\"}",
+    "text_content": "Entrepôt logistique à Mulhouse recherche en urgence un opérateur cariste pour la réception et le rangement de marchandises en grande hauteur, avec un démarrage prévu très prochainement (dans 3 jours). Le poste est à pourvoir en horaires 2x8 et nécessite obligatoirement le CACES R489 catégorie 3 (requis légalement pour la conduite d’engins de catégorie 3), avec le CACES catégorie 5 apprécié comme atout supplémentaire."
+  },
+  {
+    "id": "M002",
+    "title": "Chargé(e) de recrutement — volume industrie",
+    "start_date": "2026-04-06",
+    "duration_months": 3,
+    "urgency": "normale",
+    "description": "Agence d'intérim à Strasbourg renforce son équipe. Mission opérationnelle : gestion des annonces, sourcing candidats, conduite d'entretiens, présentation aux clients. Volume attendu : environ 40 recrutements par mois, principalement profils industrie et logistique. Maîtrise d'un ATS requise.",
+    "sector": "intérim",
+    "location": "Strasbourg",
+    "raw_content": "{\"id\": \"M002\", \"title\": \"Chargé(e) de recrutement — volume industrie\", \"location\": \"Strasbourg\", \"start_date\": \"2026-04-06\", \"duration_months\": 3, \"urgency\": \"normale\", \"description\": \"Agence d'intérim à Strasbourg renforce son équipe. Mission opérationnelle : gestion des annonces, sourcing candidats, conduite d'entretiens, présentation aux clients. Volume attendu : environ 40 recrutements par mois, principalement profils industrie et logistique. Maîtrise d'un ATS requise.\", \"sector\": \"intérim\"}",
+    "text_content": "À Strasbourg, pour une agence d’intérim, vous rejoignez une équipe afin de gérer un volume d’environ 40 recrutements par mois sur des profils principalement industrie et logistique. Votre mission opérationnelle couvre la gestion des annonces, le sourcing, la conduite d’entretiens et la présentation des candidats aux clients, dans un contexte de recrutement soutenu sur une durée de 3 mois à partir du 6 avril 2026. La maîtrise d’un ATS est requise, avec une urgence normale pour démarrer la mission."
+  },
+  {
+    "id": "M003",
+    "title": "Technicien de maintenance industrielle — longue durée",
+    "start_date": "2026-04-02",
+    "duration_months": 12,
+    "urgency": "normale",
+    "description": "Site agroalimentaire à Colmar cherche un technicien de maintenance pour mission longue durée. Travail en autonomie sur équipements de production. Interventions électriques BT obligatoires : habilitation électrique B1 minimum requise légalement. Compétences en mécanique industrielle, hydraulique ou automatisme appréciées. Astreintes possibles.",
+    "sector": "agroalimentaire",
+    "location": "Colmar",
+    "raw_content": "{\"id\": \"M003\", \"title\": \"Technicien de maintenance industrielle — longue durée\", \"location\": \"Colmar\", \"start_date\": \"2026-04-02\", \"duration_months\": 12, \"urgency\": \"normale\", \"description\": \"Site agroalimentaire à Colmar cherche un technicien de maintenance pour mission longue durée. Travail en autonomie sur équipements de production. Interventions électriques BT obligatoires : habilitation électrique B1 minimum requise légalement. Compétences en mécanique industrielle, hydraulique ou automatisme appréciées. Astreintes possibles.\", \"sector\": \"agroalimentaire\"}",
+    "text_content": "Mission longue durée à Colmar (secteur agroalimentaire) pour un technicien de maintenance industrielle chargé, en autonomie, d’assurer la maintenance et le dépannage des équipements de production. Des interventions en électricité basse tension (BT) sont obligatoires, avec une habilitation électrique B1 minimum requise légalement. Des compétences en mécanique industrielle, hydraulique et/ou automatisme sont appréciées, avec possibilité d’astreintes selon l’organisation du site, pour une urgence normale."
+  },
+  {
+    "id": "M004",
+    "title": "Agent logistique transfrontalier bilingue",
+    "start_date": "2026-04-06",
+    "duration_months": 3,
+    "urgency": "normale",
+    "description": "Plateforme logistique transfrontalière à Saint-Louis cherche un agent logistique maîtrisant l'allemand à un niveau professionnel (interactions quotidiennes avec collègues et fournisseurs germanophones). CACES apprécié mais non obligatoire. Expérience en environnement franco-allemand un plus.",
+    "sector": "logistique transfrontalière",
+    "location": "Saint-Louis (68)",
+    "raw_content": "{\"id\": \"M004\", \"title\": \"Agent logistique transfrontalier bilingue\", \"location\": \"Saint-Louis (68)\", \"start_date\": \"2026-04-06\", \"duration_months\": 3, \"urgency\": \"normale\", \"description\": \"Plateforme logistique transfrontalière à Saint-Louis cherche un agent logistique maîtrisant l'allemand à un niveau professionnel (interactions quotidiennes avec collègues et fournisseurs germanophones). CACES apprécié mais non obligatoire. Expérience en environnement franco-allemand un plus.\", \"sector\": \"logistique transfrontalière\"}",
+    "text_content": "À Saint-Louis (68), une plateforme logistique transfrontalière recrute un agent logistique bilingue avec un niveau d’allemand professionnel, permettant des interactions quotidiennes avec des collègues et fournisseurs germanophones. Le poste, à pourvoir à partir du 6 avril 2026 pour une durée de 3 mois (urgence normale), valorise une expérience en environnement franco-allemand et l’obtention du CACES est appréciée mais non obligatoire."
+  },
+  {
+    "id": "M005",
+    "title": "Assistant(e) administratif(ve) RH",
+    "start_date": "2026-04-20",
+    "duration_months": 6,
+    "urgency": "normale",
+    "description": "PME à Strasbourg cherche un assistant administratif RH. Périmètre : administration quotidienne du personnel, contrats de travail, DPAE, suivi des absences et congés, onboarding. Sensibilité à la paie appréciée. Poste à forte composante confidentialité.",
+    "sector": "services",
+    "location": "Strasbourg",
+    "raw_content": "{\"id\": \"M005\", \"title\": \"Assistant(e) administratif(ve) RH\", \"location\": \"Strasbourg\", \"start_date\": \"2026-04-20\", \"duration_months\": 6, \"urgency\": \"normale\", \"description\": \"PME à Strasbourg cherche un assistant administratif RH. Périmètre : administration quotidienne du personnel, contrats de travail, DPAE, suivi des absences et congés, onboarding. Sensibilité à la paie appréciée. Poste à forte composante confidentialité.\", \"sector\": \"services\"}",
+    "text_content": "PME basée à Strasbourg recherche un(e) Assistant(e) administratif(ve) RH pour une mission de 6 mois à partir du 20/04/2026, avec une urgence normale. Vous assurerez l’administration quotidienne du personnel (contrats de travail, DPAE), le suivi des absences et congés ainsi que l’onboarding des nouveaux collaborateurs, dans un contexte nécessitant une forte confidentialité. Une sensibilité à la paie est appréciée pour contribuer efficacement au suivi RH."
+  },
+  {
+    "id": "M006",
+    "title": "Opérateur de production — agroalimentaire",
+    "start_date": "2026-03-30",
+    "duration_months": 4,
+    "urgency": "haute",
+    "description": "Site agroalimentaire à Colmar cherche un opérateur de production pour renforcement immédiat. Poste en 3x8 sur ligne de production. Aucun CACES requis. Expérience en production agroalimentaire ou industrie appréciée, connaissance HACCP un plus.",
+    "sector": "agroalimentaire",
+    "location": "Colmar",
+    "raw_content": "{\"id\": \"M006\", \"title\": \"Opérateur de production — agroalimentaire\", \"location\": \"Colmar\", \"start_date\": \"2026-03-30\", \"duration_months\": 4, \"urgency\": \"haute\", \"description\": \"Site agroalimentaire à Colmar cherche un opérateur de production pour renforcement immédiat. Poste en 3x8 sur ligne de production. Aucun CACES requis. Expérience en production agroalimentaire ou industrie appréciée, connaissance HACCP un plus.\", \"sector\": \"agroalimentaire\"}",
+    "text_content": "Poste d’opérateur de production en agroalimentaire à Colmar, à pourvoir en renfort immédiat (démarrage le 30/03/2026) pour une durée de 4 mois, en horaires 3x8 sur ligne de production. Aucun CACES n’est requis. Une expérience en production agroalimentaire ou en industrie est appréciée, et des connaissances HACCP constituent un plus, avec une forte urgence de recrutement."
+  },
+  {
+    "id": "M007",
+    "title": "Technicien de maintenance — habilitation BR exigée",
+    "start_date": "2026-04-13",
+    "duration_months": 6,
+    "urgency": "normale",
+    "description": "Industrie chimique à Colmar. Interventions en autonomie sur installations électriques BT. Habilitation électrique BR obligatoire (consignation et interventions sur réseaux BT). Habilitation B1V également requise. Expérience en automatisme (Siemens, Schneider) appréciée.",
+    "sector": "chimie",
+    "location": "Colmar",
+    "raw_content": "{\"id\": \"M007\", \"title\": \"Technicien de maintenance — habilitation BR exigée\", \"location\": \"Colmar\", \"start_date\": \"2026-04-13\", \"duration_months\": 6, \"urgency\": \"normale\", \"description\": \"Industrie chimique à Colmar. Interventions en autonomie sur installations électriques BT. Habilitation électrique BR obligatoire (consignation et interventions sur réseaux BT). Habilitation B1V également requise. Expérience en automatisme (Siemens, Schneider) appréciée.\", \"sector\": \"chimie\"}",
+    "text_content": "Technicien de maintenance pour une industrie chimique basée à Colmar, intervenant en autonomie sur les installations électriques basse tension (BT) avec consignation et interventions sur réseaux BT. Habilitation électrique BR obligatoire et habilitation B1V requise, avec une expérience en automatisme (Siemens, Schneider) appréciée. Mission d’une durée de 6 mois à partir du 13/04/2026, urgence normale."
+  },
+  {
+    "id": "M008",
+    "title": "Gestionnaire de paie",
+    "start_date": "2026-04-06",
+    "duration_months": 6,
+    "urgency": "normale",
+    "description": "Groupe industriel à Strasbourg cherche un gestionnaire de paie pour remplacement congé maternité. Portefeuille d'environ 180 salariés. Maîtrise d'un logiciel de paie requis (ADP, Silae ou Nibelis). Connaissance des obligations légales : DSN mensuelle, DPAE, bulletins complexes.",
+    "sector": "industrie",
+    "location": "Strasbourg",
+    "raw_content": "{\"id\": \"M008\", \"title\": \"Gestionnaire de paie\", \"location\": \"Strasbourg\", \"start_date\": \"2026-04-06\", \"duration_months\": 6, \"urgency\": \"normale\", \"description\": \"Groupe industriel à Strasbourg cherche un gestionnaire de paie pour remplacement congé maternité. Portefeuille d'environ 180 salariés. Maîtrise d'un logiciel de paie requis (ADP, Silae ou Nibelis). Connaissance des obligations légales : DSN mensuelle, DPAE, bulletins complexes.\", \"sector\": \"industrie\"}",
+    "text_content": "À Strasbourg, pour un remplacement de congé maternité d’une durée de 6 mois (démarrage le 06/04/2026), un groupe industriel recherche un(e) gestionnaire de paie capable de gérer un portefeuille d’environ 180 salariés. Vous maîtrisez impérativement un logiciel de paie (ADP, Silae ou Nibelis) et assurez la production de bulletins complexes, dans le respect des obligations légales, notamment la DSN mensuelle et la DPAE."
+  },
+  {
+    "id": "M009",
+    "title": "Conducteur(trice) de ligne — brasserie",
+    "start_date": "2026-04-06",
+    "duration_months": 8,
+    "urgency": "normale",
+    "description": "Brasserie artisanale en croissance à Colmar cherche un conducteur de ligne. Autonomie sur réglages machines, polyvalence entre les lignes. Connaissance du secteur agroalimentaire requise, HACCP apprécié. Poste en 2x8.",
+    "sector": "agroalimentaire",
+    "location": "Colmar",
+    "raw_content": "{\"id\": \"M009\", \"title\": \"Conducteur(trice) de ligne — brasserie\", \"location\": \"Colmar\", \"start_date\": \"2026-04-06\", \"duration_months\": 8, \"urgency\": \"normale\", \"description\": \"Brasserie artisanale en croissance à Colmar cherche un conducteur de ligne. Autonomie sur réglages machines, polyvalence entre les lignes. Connaissance du secteur agroalimentaire requise, HACCP apprécié. Poste en 2x8.\", \"sector\": \"agroalimentaire\"}",
+    "text_content": "À Colmar, une brasserie artisanale en croissance recrute un(e) conducteur(trice) de ligne (secteur agroalimentaire) pour un contrat de 8 mois à partir du 6 avril 2026, avec une urgence normale. Vous assurez le pilotage et la conduite de la production en autonomie, notamment sur les réglages des machines, et vous êtes polyvalent(e) entre les différentes lignes. Une connaissance du secteur agroalimentaire est requise et la maîtrise des exigences HACCP est appréciée. Le poste est organisé en horaires 2x8."
+  },
+  {
+    "id": "M010",
+    "title": "Cariste — remplacement urgent démarrage aujourd'hui",
+    "start_date": "2026-03-27",
+    "duration_months": 1,
+    "urgency": "très haute",
+    "description": "Remplacement immédiat nécessaire aujourd'hui même dans un entrepôt logistique Mulhouse. Mission 1 mois renouvelable. CACES R489 catégorie 3 obligatoire. Disponibilité immédiate impérative.",
+    "sector": "logistique",
+    "location": "Mulhouse",
+    "raw_content": "{\"id\": \"M010\", \"title\": \"Cariste — remplacement urgent démarrage aujourd'hui\", \"location\": \"Mulhouse\", \"start_date\": \"2026-03-27\", \"duration_months\": 1, \"urgency\": \"très haute\", \"description\": \"Remplacement immédiat nécessaire aujourd'hui même dans un entrepôt logistique Mulhouse. Mission 1 mois renouvelable. CACES R489 catégorie 3 obligatoire. Disponibilité immédiate impérative.\", \"sector\": \"logistique\"}",
+    "text_content": "Cariste pour un remplacement très urgent avec démarrage immédiat (aujourd’hui) dans un entrepôt logistique à Mulhouse, pour une mission d’un mois renouvelable. CACES R489 catégorie 3 obligatoire et disponibilité immédiate impérative."
+  }
+]
