@@ -49,6 +49,7 @@ Profil complet :
             {"role": "user", "content": prompt},
         ],
         text_format=LLMScore,
+        temperature=0,
     )
     if response.output_parsed is None:
         raise ValueError(f"No LLM output for candidate {candidate.id} on mission {mission.id}")

@@ -31,6 +31,7 @@ async def extract_candidate(raw: str) -> Candidate:
             {"role": "user", "content": raw},
         ],
         text_format=Candidate,
+        temperature=0,
     )
     if response.output_parsed is None:
         raise ValueError("Model did not return structured output for a candidate")
@@ -50,6 +51,7 @@ async def extract_mission(raw: dict) -> Mission:
             {"role": "user", "content": json.dumps(raw, ensure_ascii=False, indent=2)},
         ],
         text_format=Mission,
+        temperature=0,
     )
     if response.output_parsed is None:
         raise ValueError(
