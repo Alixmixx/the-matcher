@@ -12,6 +12,13 @@ EXTRACT_CANDIDATE = (
 
 EXTRACT_MISSION = (
     "Extract a structured mission from the JSON record. "
+    "For required_certs: list ONLY the certifications that are LEGALLY MANDATORY "
+    "(signaled by words like 'obligatoire', 'légalement requis', 'exigée', 'impérative'). "
+    "EXCLUDE anything labeled 'apprécié', 'un plus', 'souhaité', 'bienvenu'. "
+    "Use short canonical labels like 'CACES R489 cat 3', 'Habilitation B1V', 'Habilitation BR'. "
+    "If 'aucun CACES requis' or no certification is mandatory, return an empty list. "
+    "If a single requirement covers multiple categories (e.g. 'R489 cat 3 et 5 obligatoires'), "
+    "create one entry per category. "
     "For text_content, write a single fluent French paragraph "
     "summarising the role, requirements, location and urgency "
     "optimised for semantic similarity search."

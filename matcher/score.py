@@ -14,6 +14,18 @@ from matcher.schema import Candidate, Mission
 client = AsyncOpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
 
+def check_certs_present(mission: Mission, candidate: Candidate) -> str | None:
+    """check if certs required"""
+    if not mission.required_certs:
+        return None
+    if candidate.certs:
+        return None
+    return (
+        f"Aucune certification déclarée alors que la mission "
+        f"exige : {', '.join(mission.required_certs)}"
+    )
+
+
 def check_availability(mission: Mission, candidate: Candidate) -> str | None:
     """check for candidate availability"""
     if candidate.available_immediately:
@@ -78,7 +90,7 @@ async def score_mission(
     to_score: list[Candidate] = []
     filtered_out: list[dict] = []
     for c in candidates:
-        reason = check_availability(mission, c)
+        reason = check_availability(mission, c) or check_certs_present(mission, c)
         if reason:
             filtered_out.append({"candidate_id": c.id, "reason": reason})
         else:

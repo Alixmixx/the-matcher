@@ -37,6 +37,10 @@ class Mission(BaseModel):
     location: str = Field(description="City")
     raw_content: str = Field(description="Original mission text")
     text_content: str = Field(description="Normalized French version of the resume for embedding")
+    required_certs: list[str] = Field(
+        default_factory=list,
+        description="Legally mandatory certifications for this mission, empty if none",
+    )
 
 class RankedCandidate(BaseModel):
     candidate_id: str
